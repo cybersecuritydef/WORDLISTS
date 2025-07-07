@@ -1,0 +1,17 @@
+.al
+.apng
+.bmp
+.cdr
+.eps
+.gif
+.ico
+.jpeg
+.jpg
+.png
+.psd
+.svg
+.tif
+.tiff
+.webp
+.xcf
+.xpm

