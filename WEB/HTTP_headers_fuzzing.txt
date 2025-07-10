@@ -1,0 +1,290 @@
+Accept-Charset: *
+Accept-Charset: ISO-8859-1 
+Accept-Charset: iso-8859-5 
+Accept-Charset: unicode-1-1
+Accept-Charset: utf-8 
+Accept-Charset: windows-1251
+Accept-Encoding: *
+Accept-Encoding: br
+Accept-Encoding: compress
+Accept-Encoding: dcb
+Accept-Encoding: dcz
+Accept-Encoding: deflate
+Accept-Encoding: gzip
+Accept-Encoding: identity
+Accept-Encoding: zstd
+Accept-Language: *
+Accept-Language: de
+Accept-Language: en
+Accept-Language: fr
+Accept-Language: ru
+Accept-Language: zh
+Accept: */*
+Accept: application/json
+Accept: text/html
+Access-Control-Request-Headers: X-PINGOTHER, Content-Type, Accept-Encoding, Device-Memory, Content-Length
+Access-Control-Request-Method: DELETE
+Access-Control-Request-Method: GET
+Access-Control-Request-Method: OPTIONS
+Access-Control-Request-Method: PATCH
+Access-Control-Request-Method: POST
+Access-Control-Request-Method: PUT
+Access-Control-Request-Method: TRACE
+Authorization: Basic YWRtaW46YWRtaW4=
+Authorization: Digest username=admin,realm="Private Area",url=/,algorithm=MD5,nonce=1447149417,nc=00000001,cnonce=69dd8dd24dd85752,qop=auth,response="a36f9b9239f1c8bf427f9a66db2a9e90"
+Cookie: admin=true
+Cookie: isadmin=true
+Cookie: PHPSESSID=298zf09hf012fh2; csrftoken=u32t4o3tb3gg43; _gat=1
+Cookie: PHPSESSID=cr78dd844okuamv8r54rq5bfmk; auth=1
+Device-Memory: -1
+Device-Memory: -9999
+Device-Memory: 0
+Device-Memory: 0.25
+Device-Memory: 0.5
+Device-Memory: 1
+Device-Memory: 2
+Device-Memory: 4
+Device-Memory: 8
+Device-Memory: 9999
+DNT: *
+DNT: -1
+DNT: 0
+DNT: 1
+DNT: null
+Downlink: -5000
+Downlink: 0
+Downlink: 10
+Downlink: 20
+Downlink: 25
+Downlink: 5000
+DPR: -50000.0
+DPR: 0.0
+DPR: 1.0
+DPR: 2.0
+DPR: 3.0
+DPR: 4.0
+DPR: 5.0
+DPR: 50000.0
+Early-Data: -1
+Early-Data: 0
+Early-Data: 1
+Early-Data: 1000
+ECT: -5g
+ECT: 0g
+ECT: 2g
+ECT: 3g
+ECT: 4g
+ECT: 5000g
+ECT: 5g
+ECT: slow-2g
+Expect: 100-continue
+Forwarded: for=127.0.0.1
+Forwarded: for=127.0.0.1;proto=http
+Forwarded: for=127.0.0.1;proto=https
+From: admin@example.org
+From: webmaster@example.org
+Host: localhost
+Host: localhost:8080
+If-Match: "67ab43", "54ed21", "7892dd"
+If-Match: "bfc13a64729c4290ef5b2c2730249c88ca92d82d"
+If-Match: *
+If-Modified-Since: Thu, 21 Jul 2025 13:28:00 GMT
+If-Modified-Since: Wed, 21 Oct 2015 07:28:00 GMT
+If-None-Match
+If-None-Match: "67ab43", "54ed21", "7892dd"
+If-None-Match: "bfc13a64729c4290ef5b2c2730249c88ca92d82d"
+If-None-Match: *
+If-Range: Thu, 21 Jul 2025 13:28:00 GMT
+If-Range: Wed, 21 Oct 2015 07:28:00 GMT
+If-Unmodified-Since: Thu, 21 Jul 2025 13:28:00 GMT
+If-Unmodified-Since: Wed, 21 Oct 2015 07:28:00 GMT
+Max-Forwards: -1
+Max-Forwards: 0
+Max-Forwards: 10
+Max-Forwards: 1000
+Origin: http://127.0.0.1
+Origin: http://127.0.0.1:80
+Origin: http://127.0.0.1:8080
+Origin: http://localhost
+Origin: http://localhost:80
+Origin: http://localhost:8080
+Origin: https://127.0.0.1
+Origin: https://localhost
+Proxy-Authorization: Basic YWRtaW46YWRtaW4=
+Range: bytes=0-499, -500
+Range: bytes=200-1000, 2000-6576, 19000-
+Referer: http://127.0.0.1
+Referer: http://127.0.0.1:80
+Referer: http://127.0.0.1:8080
+Referer: http://localhost
+Referer: http://localhost:80
+Referer: http://localhost:8080
+Referer: https://127.0.0.1
+Referer: https://localhost
+RTT: -500
+RTT: 0
+RTT: 10
+RTT: 500
+RTT: 5000
+Save-Data: 0
+Save-Data: 1
+Save-Data: false
+Save-Data: off
+Save-Data: on
+Save-Data: true
+Sec-CH-UA-Arch: "x16"
+Sec-CH-UA-Arch: "x32"
+Sec-CH-UA-Arch: "x64"
+Sec-CH-UA-Arch: "x8"
+Sec-CH-UA-Arch: "x86"
+Sec-CH-UA-Bitness: "128"
+Sec-CH-UA-Bitness: "16"
+Sec-CH-UA-Bitness: "32"
+Sec-CH-UA-Bitness: "64"
+Sec-CH-UA-Full-Version-List: " Not A;Brand";v="99.0.0.0", "Chromium";v="98.0.4750.0", "Google Chrome";v="98.0.4750.0"
+Sec-CH-UA-Full-Version: "0.0.0.0"
+Sec-CH-UA-Full-Version: "1.0.0.0"
+Sec-CH-UA-Full-Version: "96.0.4664.110"
+Sec-CH-UA-Mobile: ?0
+Sec-CH-UA-Mobile: ?1
+Sec-CH-UA-Mobile: false
+Sec-CH-UA-Mobile: true
+Sec-CH-UA-Model: "Honor 9C"
+Sec-CH-UA-Model: "Pixel 3 XL"
+Sec-CH-UA-Platform-Version: "0.0.0"
+Sec-CH-UA-Platform-Version: "1.0.0"
+Sec-CH-UA-Platform-Version: "10.0.0"
+Sec-CH-UA-Platform: "Android"
+Sec-CH-UA-Platform: "Chrome OS"
+Sec-CH-UA-Platform: "Chromium OS"
+Sec-CH-UA-Platform: "iOS"
+Sec-CH-UA-Platform: "Linux"
+Sec-CH-UA-Platform: "macOS"
+Sec-CH-UA-Platform: "Unknown"
+Sec-CH-UA-Platform: "Windows"
+Sec-CH-UA: " Not A;Brand";v="99", "Chromium";v="96", "Microsoft Edge";v="96"
+Sec-CH-UA: "(Not(A:Brand";v="8", "Chromium";v="98"
+Sec-CH-UA: "Opera";v="81", " Not;A Brand";v="99", "Chromium";v="95"
+Sec-Fetch-Dest: audio
+Sec-Fetch-Dest: audioworklet
+Sec-Fetch-Dest: document
+Sec-Fetch-Dest: embed
+Sec-Fetch-Dest: empty
+Sec-Fetch-Dest: font
+Sec-Fetch-Dest: frame
+Sec-Fetch-Dest: iframe
+Sec-Fetch-Dest: image
+Sec-Fetch-Dest: manifest
+Sec-Fetch-Dest: object
+Sec-Fetch-Dest: paintworklet
+Sec-Fetch-Dest: report
+Sec-Fetch-Dest: script
+Sec-Fetch-Dest: serviceworker
+Sec-Fetch-Dest: sharedworker
+Sec-Fetch-Dest: style
+Sec-Fetch-Dest: track
+Sec-Fetch-Dest: video
+Sec-Fetch-Dest: worker
+Sec-Fetch-Dest: xslt
+Sec-Fetch-Mode: cors
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Mode: same-origin
+Sec-Fetch-Mode: websocket 
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Site: none
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Site: same-site
+Sec-Fetch-User: ?0
+Sec-Fetch-User: ?1
+Sec-Fetch-User: false
+Sec-Fetch-User: true
+Service-Worker-Navigation-Preload: 0
+Service-Worker-Navigation-Preload: 1
+Service-Worker-Navigation-Preload: false
+Service-Worker-Navigation-Preload: json_fragment1
+Service-Worker-Navigation-Preload: true
+TE: compress
+TE: deflate
+TE: gzip
+TE: q
+TE: trailers
+True-Client-IP: 0.0.0.0
+True-Client-IP: 10.0.0.1
+True-Client-IP: 127.0.0.1
+True-Client-IP: 172.16.0.1
+True-Client-IP: 192.168.0.1
+True-Client-IP: localhost
+True-Client-IP: localhost:443
+True-Client-IP: localhost:80
+True-Client-IP: localhost:8000
+True-Client-IP: localhost:8080
+True-Client-IP: localhost:8081
+True-Client-IP: [::1]
+Upgrade-Insecure-Requests: 0
+Upgrade-Insecure-Requests: 1
+Upgrade-Insecure-Requests: false
+Upgrade-Insecure-Requests: true
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Gecko/20100101 Firefox/42.0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+User-Agent: Mozilla/5.0 (Windows NT xy; rv:10.0) Gecko/20100101 Firefox/10.0
+Viewport-Width: -1
+Viewport-Width: 0
+Viewport-Width: 1024
+Viewport-Width: 120
+Viewport-Width: 320
+Width: -1
+Width: 0
+Width: 128
+Width: 1920
+Width: 720
+X-Client-IP: 0.0.0.0
+X-Client-IP: 10.0.0.1
+X-Client-IP: 127.0.0.1
+X-Client-IP: 172.16.0.1
+X-Client-IP: 192.168.0.1
+X-Client-IP: localhost
+X-Client-IP: localhost:443
+X-Client-IP: localhost:80
+X-Client-IP: localhost:8000
+X-Client-IP: localhost:8080
+X-Client-IP: localhost:8081
+X-Client-IP: [::1]
+X-Forwarded-For: 0.0.0.0
+X-Forwarded-For: 10.0.0.1
+X-Forwarded-For: 127.0.0.1
+X-Forwarded-For: 172.16.0.1
+X-Forwarded-For: 192.168.0.1
+X-Forwarded-For: localhost
+X-Forwarded-For: localhost:443
+X-Forwarded-For: localhost:80
+X-Forwarded-For: localhost:8000
+X-Forwarded-For: localhost:8080
+X-Forwarded-For: localhost:8081
+X-Forwarded-For: [::1]
+X-Forwarded-Host: localhost
+X-Forwarded-Host: localhost:443
+X-Forwarded-Host: localhost:80
+X-Forwarded-Host: localhost:8000
+X-Forwarded-Host: localhost:8080
+X-Forwarded-Host: localhost:8081
+X-Forwarded-Proto: http
+X-Forwarded-Proto: https
+X-Forwarded-Protocol: http
+X-Forwarded-Protocol: https
+X-Forwarded-Ssl: off
+X-Forwarded-Ssl: on
+X-Real-IP: 0.0.0.0
+X-Real-IP: 10.0.0.1
+X-Real-IP: 127.0.0.1
+X-Real-IP: 172.16.0.1
+X-Real-IP: 192.168.0.1
+X-Real-IP: localhost
+X-Real-IP: localhost:443
+X-Real-IP: localhost:80
+X-Real-IP: localhost:8000
+X-Real-IP: localhost:8080
+X-Real-IP: localhost:8081
+X-Real-IP: [::1]
+X-Url-Scheme: http
+X-Url-Scheme: https

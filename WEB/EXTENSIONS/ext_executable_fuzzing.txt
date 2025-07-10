@@ -1,0 +1,6 @@
+.exe
+.com
+.bin
+.sh
+.bat
+.wsf

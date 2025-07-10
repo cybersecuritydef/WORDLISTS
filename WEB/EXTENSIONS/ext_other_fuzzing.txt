@@ -1,0 +1,11 @@
+.bas
+.cap
+.copia
+.nsf
+.orig
+.sav
+.save
+.saved
+.source
+.src
+.stackdump

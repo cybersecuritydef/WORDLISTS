@@ -1,0 +1,16 @@
+.c
+.class
+.cpp
+.cs
+.h
+.hpp
+.java
+.js
+.pas
+.pas1
+.php
+.py
+.swift
+.vb
+.awk
+.yml
