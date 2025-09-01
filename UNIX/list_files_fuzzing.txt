@@ -123,6 +123,7 @@
 /etc/postgresql/8.4/main/start.conf
 /etc/rsyslog.conf
 /etc/shadow
+/etc/exports
 /etc/ssh/ssh_config
 /etc/ssh/ssh_host_ecdsa_key
 /etc/ssh/ssh_host_ecdsa_key.pub
