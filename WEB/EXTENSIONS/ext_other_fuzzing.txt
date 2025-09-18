@@ -1,6 +1,9 @@
 .bas
 .cap
 .copia
+.erdplus
+.ipynb
+.manifest
 .nsf
 .orig
 .sav
@@ -9,4 +12,5 @@
 .source
 .src
 .stackdump
+.twig
 .yml
