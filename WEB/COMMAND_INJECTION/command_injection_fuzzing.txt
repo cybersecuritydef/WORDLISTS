@@ -450,6 +450,7 @@ ls -l /home/*
 ls -l /tmp
 ls -l /var/www/*
 ls -lh /etc/
+ls 1>&2 | id
 ls | id
 ls |id;
 ls || id
