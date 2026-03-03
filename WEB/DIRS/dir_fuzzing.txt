@@ -3570,6 +3570,7 @@ Guyana
 Gwen
 Gwyn
 H
+HEAD
 HTML
 Haag
 Haas
@@ -32650,7 +32651,6 @@ girth
 gis
 gist
 git
-git/HEAD
 gitweb
 giu
 giv
@@ -53469,6 +53469,7 @@ powerlessness
 powerpoint
 powerreviews
 powerrss
+powrshell
 pox
 poy
 poz
