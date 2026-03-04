@@ -7527,7 +7527,6 @@ W3SVC2
 W3SVC3
 WEB-INF
 WS_FTP
-WS_FTP.LOG
 Waals
 Wabash
 Wacke
@@ -8314,7 +8313,6 @@ acceso
 access
 access-denied
 access-log
-access-log.1
 access-logs
 access.1
 access_db
@@ -8883,8 +8881,7 @@ admin-login
 admin-old
 admin-panel
 admin.cgi
-admin.php
-admin.pl
+admin
 admin00
 admin1
 admin12
@@ -9757,7 +9754,9 @@ akc
 akce
 akd
 ake
-akeeba.backend.log
+akeeba.backend
+akeeba
+backend
 akf
 akg
 akh
@@ -23728,7 +23727,6 @@ developer
 developers
 developing
 development
-development.log
 developmental
 developments
 develops
@@ -37381,9 +37379,6 @@ indeterminacy
 indeterminate
 indeterminately
 index
-index.htm
-index.html
-index.php
 index1
 index2
 index3
@@ -37668,7 +37663,6 @@ influential
 influentially
 influenza
 info
-info.php
 info2
 info_
 info_img
@@ -52151,7 +52145,6 @@ phpinc
 phpinclude
 phpincludes
 phpinfo
-phpinfo.php
 phpinfos
 phpjobscheduler
 phpld
@@ -54264,7 +54257,6 @@ productimage
 productimages
 productinfo
 production
-production.log
 productions
 productive
 productively
@@ -63607,7 +63599,6 @@ spain
 spam
 spam_vaccine
 spamassassin
-spamlog.log
 spamtrap
 span
 spandrel
@@ -75213,9 +75204,7 @@ xmllogs
 xmlpackages
 xmlparser
 xmlrpc
-xmlrpc.php
 xmlrpc_server
-xmlrpc_server.php
 xmlrss
 xmls
 xmlsitemap
