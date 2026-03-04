@@ -871,7 +871,7 @@ ARCO
 ARPA
 ARPANET
 ASCII
-AT-admin.cgi
+AT-admin
 Aarhus
 Aaron
 Ababa
@@ -2664,7 +2664,7 @@ Dobbin
 Dobbs
 Doberman
 Doc
-Documents and Settings
+DocumentsandSettings
 Dodd
 Dodington
 Dodson
@@ -4813,6 +4813,7 @@ Lyons
 Lyra
 Lysenko
 M
+MANIFEST
 MANIFEST.MF
 META-INF
 MIPS
@@ -6095,7 +6096,7 @@ Procrustes
 Procter
 Procyon
 Products
-Program Files
+ProgramFiles
 Projects
 Prokofieff
 Prokofiev
@@ -7205,7 +7206,7 @@ Thracian
 Throneberry
 Thuban
 Thule
-Thumbs.db
+Thumbs
 Thurber
 Thurman
 Thursday
@@ -8880,8 +8881,6 @@ admin-interface
 admin-login
 admin-old
 admin-panel
-admin.cgi
-admin
 admin00
 admin1
 admin12
@@ -9754,9 +9753,8 @@ akc
 akce
 akd
 ake
-akeeba.backend
 akeeba
-backend
+akeeba.backend
 akf
 akg
 akh
@@ -10763,7 +10761,7 @@ anus
 anv
 anvil
 anvils
-användare
+anvndare
 anw
 anwender
 anx
@@ -11017,7 +11015,6 @@ applicable
 applicant
 applicants
 application
-application.wadl
 applicationlist
 applications
 applicative
@@ -12561,7 +12558,6 @@ aws
 awstat
 awstats
 awstats-icon
-awstats.conf
 awstatsicons
 awt
 awu
@@ -16640,7 +16636,6 @@ cache_page
 cache_public
 cached
 cachemgr
-cachemgr.cgi
 cachep
 caches
 caching
@@ -17267,7 +17262,6 @@ cataleg
 catalegs
 catall
 catalog
-catalog.wci
 catalog2
 catalog_de
 catalog_images
@@ -20153,7 +20147,6 @@ confiding
 confidingly
 config
 config-old
-config.local
 config_paybox
 configfiles
 configs
@@ -20499,7 +20492,6 @@ consumptively
 cont
 conta
 contact
-contact us
 contact-author
 contact-form
 contact-info
@@ -21645,7 +21637,6 @@ crossable
 crossbar
 crossbars
 crossdomain
-crossdomain.xml
 crossed
 crosser
 crossers
@@ -25151,7 +25142,7 @@ dompdf
 don
 donald
 donate
-donate cash
+donatecash
 donated
 donates
 donating
@@ -28813,9 +28804,9 @@ extern
 extern-data
 extern_js
 external
-external files
 external-link
 external_ref
+externalfiles
 externalid
 externalisation
 externalization
@@ -29320,7 +29311,6 @@ faun
 fauna
 fav
 favicon
-favicon.ico
 favicons
 favor
 favorable
@@ -32412,7 +32402,7 @@ gesundheit
 get
 get-file
 get-involved
-getFile.cfm
+getFile
 get_file
 get_image
 get_password
@@ -32818,8 +32808,6 @@ gln
 glo
 gloat
 global
-global.asa
-global.asax
 global_files
 global_images
 global_includes
@@ -35247,7 +35235,6 @@ holy
 hom
 homage
 home
-home page
 home-brew
 home-insurance
 home-page
@@ -38046,8 +38033,6 @@ install-xoffers
 install-xpconf
 install-xrma
 install-xsurvey
-install.mysql
-install.pgsql
 install1
 install_
 install_bak
@@ -43852,7 +43837,6 @@ maimed
 maiming
 maims
 main
-main.mdb
 main2
 main_files
 main_images
@@ -45836,7 +45820,6 @@ moderation
 moderator
 moderators
 modern
-modern mom
 modern_mom
 modernbill
 moderncf2
@@ -45846,6 +45829,7 @@ modernized
 modernizer
 modernizing
 modernly
+modernmom
 modernness
 moderns
 modes
@@ -46808,7 +46792,6 @@ mxx
 mxy
 mxz
 my
-my project
 my-account
 my-admin
 my-components
@@ -46905,6 +46888,7 @@ myplan
 mypoints
 myportal
 myprofile
+myproject
 mypub
 myq
 myr
@@ -47454,8 +47438,8 @@ networked
 networking
 networks
 neu
-neuf giga photo
 neufgiga
+neufgigaphoto
 neural
 neuritis
 neurological
@@ -52088,7 +52072,6 @@ php-ofc-library
 php-sdk
 php-stats
 php-uploads
-php.ini
 php168
 php2
 php3
@@ -52638,7 +52621,7 @@ planking
 planks
 plankton
 planned
-planned giving
+plannedgiving
 planner
 planners
 planning
@@ -52699,7 +52682,6 @@ playboy
 playdata
 played
 player
-player.swf
 players
 playful
 playfully
@@ -53854,7 +53836,6 @@ presidents
 presides
 presiding
 press
-press releases
 press-center
 press-release
 press-releases
@@ -54072,7 +54053,6 @@ priv_stats
 privacidad
 privacies
 privacy
-privacy policy
 privacy-policy
 privacy_policy
 privacypolicy
@@ -55137,7 +55117,6 @@ puttering
 putters
 putting
 putty
-putty.reg
 puu
 puv
 puw
@@ -58053,9 +58032,9 @@ reporters
 reportes
 reporting
 reports
-reports list
 reports-old
 reports-test
+reportslist
 reporttm
 repos
 repose
@@ -59236,7 +59215,6 @@ robotech
 robotic
 robotics
 robots
-robots.txt
 robotstats
 robottrap
 robs
@@ -60890,11 +60868,11 @@ seb
 sec
 sec_id
 secant
+secci
+seccicond
 seccio
 seccion
 secciones
-secciу
-secci󊳥cond
 seccode
 secede
 seceded
@@ -62386,7 +62364,6 @@ sisterly
 sisters
 sit
 site
-site map
 site-admin
 site-config
 site-images
@@ -62457,8 +62434,6 @@ sitemanage
 sitemanager
 sitemanager2
 sitemap
-sitemap.gz
-sitemap.xml
 sitemap_gen
 sitemap_xml
 sitemapdotnet
@@ -65192,7 +65167,6 @@ stx
 stxt
 sty
 style
-style library
 style_avatars
 style_captcha
 style_css
@@ -65203,6 +65177,7 @@ styled
 styleedit
 stylegallery
 styleguide
+stylelibrary
 styler
 stylers
 styles
@@ -66092,7 +66067,6 @@ swf1
 swf_files
 swf_replacement
 swfobject
-swfobject.js
 swfs
 swfupload
 swg
@@ -66603,8 +66577,6 @@ taproots
 taps
 taq
 tar
-tar.bz2
-tar.gz
 tara
 tardiness
 tardy
@@ -67656,7 +67628,6 @@ thumbnail
 thumbnail_images
 thumbnails
 thumbs
-thumbs.db
 thumbsup
 thump
 thumped
@@ -68638,7 +68609,7 @@ translations
 translator
 translators
 translucent
-transmissio  
+transmissio
 transmission
 transmissions
 transmit
@@ -70585,7 +70556,6 @@ upfile
 upfiles
 upg
 upgrade
-upgrade.readme
 upgraded
 upgrades
 upgrading
@@ -72482,7 +72452,6 @@ vti_admin
 vti_aut
 vti_autdefault
 vti_bin
-vti_bin/shtml.dll
 vti_cnf
 vti_conf
 vti_inf
@@ -73133,7 +73102,6 @@ weaver
 weaves
 weaving
 web
-web references
 web-admin
 web-beans
 web-console
@@ -73150,7 +73118,6 @@ web-resources
 web-services
 web-stats
 web.config
-web.xml
 web1
 web2
 web20
@@ -73297,6 +73264,7 @@ webplayer
 webplus
 webportal
 webposition
+webreferences
 webreg
 webreport
 webreports
