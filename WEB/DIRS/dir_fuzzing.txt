@@ -4490,6 +4490,7 @@ Kuwaiti
 Kyoto
 L
 L'vov
+LAN
 LICENSE
 LaTeX
 Laban
@@ -6184,6 +6185,7 @@ R
 RCS
 README
 RISC
+ROOT
 RSS
 Rabat
 Rabin
@@ -7401,6 +7403,7 @@ Uzi
 V
 VAX
 VAXes
+VLAN
 Vaduz
 Vail
 Valerie
@@ -7526,6 +7529,7 @@ W3SVC
 W3SVC1
 W3SVC2
 W3SVC3
+WAN
 WEB-INF
 WS_FTP
 Waals
@@ -17964,6 +17968,7 @@ charmingru
 charms
 charon
 chars
+charset.conv
 chart
 chartable
 charte
@@ -21295,6 +21300,7 @@ cpf
 cpg
 cph
 cpi
+cpio
 cpix
 cpj
 cpk
@@ -25046,6 +25052,7 @@ documenting
 documento
 documentos
 documents
+docx
 dod
 dodaj-strone
 dodecahedra
@@ -27711,6 +27718,7 @@ epsadmin
 epsilon
 ept
 epu
+epub
 epv
 epw
 epx
@@ -27809,6 +27817,7 @@ erasure
 erb
 erc
 erd
+erdplus
 ere
 erect
 erected
@@ -32299,6 +32308,7 @@ genially
 genie
 genius
 geniuses
+genozip
 genpdf
 genpict
 genre
@@ -33976,6 +33986,7 @@ gzf
 gzg
 gzh
 gzi
+gzip
 gzj
 gzk
 gzl
@@ -35750,6 +35761,7 @@ htt
 http
 http_errors
 httpd
+httpd.conf
 httpdocs
 httperrors
 httplib
@@ -36218,6 +36230,7 @@ icl
 icm
 icms
 icn
+icns
 ico
 icon
 icone
@@ -37159,6 +37172,7 @@ inbound
 inbox
 inbreed
 inc
+inc.php
 inc1
 inc2
 inc40
@@ -38685,6 +38699,7 @@ ip2c
 ip2country
 ip_cms
 ip_configs
+ip_default
 ip_files
 ipa
 ipad
@@ -38724,6 +38739,7 @@ ipv
 ipw
 ipx
 ipy
+ipynb
 ipz
 iq
 iqa
@@ -43629,6 +43645,7 @@ lyx
 lyy
 lyz
 lz
+lz4
 lza
 lzb
 lzc
@@ -43642,6 +43659,7 @@ lzj
 lzk
 lzl
 lzm
+lzma
 lzn
 lzo
 lzp
@@ -49615,6 +49633,7 @@ opensearch
 opensocial
 opensource
 opensrs
+openssl
 openvpnadmin
 openwebmail
 openwysiwyg
@@ -51064,6 +51083,7 @@ partridges
 parts
 party
 pas
+pas1
 pasadena
 pascal
 paso
@@ -51293,6 +51313,8 @@ pbz
 pc
 pca
 pcadmin
+pcap
+pcapng
 pcb
 pcc
 pcd
@@ -51925,6 +51947,7 @@ ph
 pha
 phantom
 phantoms
+phar
 pharma
 pharmaceutic
 pharmacist
@@ -52077,6 +52100,8 @@ php2
 php3
 php4
 php5
+php6
+php7
 phpBB
 phpBB2
 phpBB3
@@ -52088,6 +52113,7 @@ php_files
 php_inc
 php_include
 php_includes
+php_interface
 php_lib
 php_paypal
 php_scripts
@@ -53477,6 +53503,7 @@ ppr
 pps
 ppt
 ppts
+pptx
 ppu
 ppuser
 ppv
@@ -59913,6 +59940,7 @@ s4
 s5
 s5230
 s7
+s7z
 s_action
 sa
 saa
@@ -61434,6 +61462,7 @@ sez
 sf
 sfa
 sfaddons
+sfark
 sfb
 sfc
 sfd
@@ -61571,6 +61600,7 @@ shaper
 shapers
 shapes
 shaping
+shar
 sharable
 sharc
 shard
@@ -66577,7 +66607,9 @@ taproots
 taps
 taq
 tar
+tarZ
 tara
+tarbz2
 tardiness
 tardy
 tareas
@@ -66585,6 +66617,7 @@ target
 targeted
 targeting
 targets
+targz
 tarif
 tarifa
 tarifas
@@ -66594,6 +66627,7 @@ tariffs
 tarifrechner
 tarifs
 tarjetas
+tarlz
 tarot
 tarpit
 tarragon
@@ -66604,7 +66638,9 @@ tart
 tartarus
 tartly
 tartness
+tarxz
 tarzan
+tarzst
 tas
 tasha
 task
@@ -66706,6 +66742,7 @@ tbw
 tbx
 tby
 tbz
+tbz2
 tc
 tca
 tcb
@@ -71740,6 +71777,8 @@ vhl
 vhm
 vhn
 vho
+vhost
+vhost_ssl
 vhosts
 vhp
 vhq
@@ -73240,6 +73279,8 @@ weblogic
 weblogin
 weblogs
 webmail
+webmail.conf
+webmails
 webman
 webmanage
 webmanager
@@ -75127,6 +75168,7 @@ xlp
 xlq
 xlr
 xls
+xlsx
 xlt
 xlu
 xlv
@@ -75550,6 +75592,7 @@ xyx
 xyy
 xyz
 xyzzy
+xz
 xza
 xzb
 xzc
