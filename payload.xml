@@ -4,10 +4,10 @@
   <!ENTITY xxe SYSTEM "file:///etc/passwd" >]>
 <rss version="2.0">
   <channel>
-    <title>TEST</title>
-    <item>
-      <title>HACK</title>
-      <description>&xxe;</description>
-    </item>
+    <title>Techmeme</title>
+	<link>https://www.techmeme.com/</link>
+	<description>
+		&xxe;
+	</description>
   </channel>
 </rss>
