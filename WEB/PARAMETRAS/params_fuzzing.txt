@@ -22594,8 +22594,8 @@ quizid
 qunfatmpname
 quota
 quote
-quotes
 quoteid
+quotes
 qx
 r
 r00t
@@ -22958,6 +22958,7 @@ reservelimit
 reset
 resetPassword
 resetVoteCount
+reset_token
 resetheader
 resetkey
 resetlog
@@ -22986,7 +22987,6 @@ responsecompression
 responsive
 respuesta
 restart
-reset_token
 restartchk
 restock
 restore
@@ -23017,6 +23017,7 @@ returnto
 returnurl
 rev
 reveal
+revelio
 reverse
 reverseacct
 revert
@@ -24819,6 +24820,7 @@ user_email
 user_group
 user_icq
 user_id
+user_info
 user_info_id
 user_ip
 user_level
@@ -25356,5 +25358,3 @@ zpage
 zrecord
 zugang
 zytkaddr
-revelio
-user_info
