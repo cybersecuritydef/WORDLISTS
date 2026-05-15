@@ -1172,6 +1172,10 @@
 1_files
 1a2b3c
 1c
+1csqlstol
+1cterm1
+1cv8ku
+1cv8wtc
 1p2o3i
 1q2w3e
 1qaz2wsx
@@ -18250,6 +18254,7 @@ admin-interface
 admin-login
 admin-old
 admin-panel
+admin-pk
 admin-sys
 admin00
 admin1
@@ -20757,6 +20762,7 @@ arbors
 arbortex
 arbortext
 arc
+arc2000
 arcabit
 arcade
 arcaded
@@ -24725,6 +24731,7 @@ bml_savings
 bml_spotlight
 bmm
 bmn
+bmnf
 bmo
 bmp
 bmq
@@ -25755,6 +25762,7 @@ brp
 brq
 brr
 brs
+brsync
 brt
 bru
 bruce
@@ -29339,6 +29347,9 @@ cognitively
 cognizance
 cognizant
 cognos
+cognos-app
+cognos-db
+cognos-web
 cogs
 coh
 cohabitation
@@ -30987,6 +30998,7 @@ cooperator
 cooperators
 coopers
 coops
+coord
 coordinate
 coordinated
 coordinates
@@ -34548,6 +34560,7 @@ dirman
 dirs
 dirscan
 dirt
+dirtest
 dirtier
 dirtiest
 dirtily
@@ -47621,6 +47634,7 @@ igq
 igr
 igre
 igs
+igscenter
 igt
 igu
 iguana
@@ -49423,6 +49437,8 @@ insurrection
 insurrections
 insyde
 int
+int-m1
+int-m2
 intact
 intangible
 intangibles
@@ -52629,6 +52645,7 @@ korean
 korisnik
 korner
 korviblog
+korvin
 korweblog
 kos
 kosar
@@ -53022,6 +53039,7 @@ l0pht
 l10apps
 l10n
 l2tpd
+l30-tst
 la
 laa
 lab
@@ -60708,6 +60726,7 @@ nrx
 nry
 nrz
 ns
+ns2
 nsa
 nsb
 nsc
@@ -62045,6 +62064,8 @@ openwysiwyg
 openx
 openx_backup
 opera
+opera-app
+opera-db1
 operable
 operacio
 operaciones
@@ -70369,6 +70390,7 @@ reexamining
 reexecuted
 ref
 refer
+refer1
 referal
 referat
 referee
@@ -72477,6 +72499,7 @@ rout
 route
 routed
 router
+router97
 routers
 routes
 routine
@@ -75289,6 +75312,7 @@ shuffling
 shun
 shuns
 shunt
+shurf
 shut
 shutdown
 shutdowns
@@ -81808,6 +81832,7 @@ tolkien
 toll
 tolled
 tolls
+tolsty
 tolva
 tolyatti
 tom
@@ -85407,6 +85432,7 @@ ven
 venda
 vendor
 vendors
+venera
 venerable
 veneration
 venezuela
