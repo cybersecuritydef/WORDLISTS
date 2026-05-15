@@ -17862,6 +17862,7 @@ createstdsubdomain
 createuser
 createview
 creator_id
+cred
 credentials
 credit
 creditCardNumber
@@ -21623,6 +21624,7 @@ obgz
 obj
 object
 objectIDs
+objectKey
 object_id
 object_link_a_id
 object_name
@@ -24166,6 +24168,7 @@ syslocation
 sysmessage
 system
 sysuser
+sysver
 t
 t1
 t2
