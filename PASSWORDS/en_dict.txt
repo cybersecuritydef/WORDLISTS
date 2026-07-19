@@ -236478,6 +236478,7 @@ ifreal
 ifree
 ifrit
 ifrps
+ifrs
 ifs
 ifugao
 ifugaos
@@ -251483,6 +251484,7 @@ irpe
 irpex
 irpexs
 irq
+irr
 irra
 irradiance
 irradiances
@@ -287948,6 +287950,7 @@ lyxs
 lz
 lzen
 lzens
+m
 ma
 maa
 maad
@@ -360802,6 +360805,7 @@ ozzie
 ozzies
 ozzy
 ozzys
+p/e
 pa
 paal
 paan
