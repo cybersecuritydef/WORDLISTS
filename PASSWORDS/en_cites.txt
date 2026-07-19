@@ -122,6 +122,7 @@ aiken
 ailey
 ainsworth
 air
+airdrie
 aire
 airmont
 airport
@@ -2077,6 +2078,7 @@ burlison
 burmah
 burmester
 burna
+burnaby
 burnet
 burnett
 burnettown
@@ -2190,6 +2192,7 @@ cale
 caledonia
 calera
 calexico
+calgary
 calhan
 calhoun
 calico
@@ -2247,6 +2250,7 @@ camp
 campaign
 campanilla
 campbell
+campbellriver
 campbellsburg
 campbellsport
 campbellstown
@@ -2262,6 +2266,7 @@ camptonville
 camptown
 campus
 campville
+camrose
 camuy
 canaan
 canada
@@ -2487,6 +2492,7 @@ castine
 castle
 castleberry
 castleford
+castlegar
 castleton
 castleton-on-hudson
 castlewood
@@ -2752,6 +2758,7 @@ chesterbrook
 chesterfield
 chesterhill
 chesterland
+chestermere
 chesterton
 chestertown
 chesterville
@@ -2797,6 +2804,7 @@ chili
 chilili
 chilkoot
 chillicothe
+chilliwack
 chilly
 chilo
 chiloquin
@@ -3119,6 +3127,7 @@ colchester
 colcord
 cold
 colden
+coldlake
 coldspring
 coldstream
 coldwater
@@ -3190,6 +3199,7 @@ colver
 colville
 colvos
 colwell
+colwood
 colwyn
 comal
 comanche
@@ -3324,6 +3334,7 @@ coppitt
 coppock
 coqui
 coquille
+coquitlam
 cora
 coral
 coralsprings
@@ -3487,6 +3498,7 @@ craigville
 crainville
 cramerton
 cranberry
+cranbrook
 cranbury
 crandall
 crandon
@@ -3783,6 +3795,7 @@ davy
 dawesville
 dawn
 dawson
+dawsoncreek
 dawsonville
 day
 daykin
@@ -4598,6 +4611,7 @@ encino
 end
 endeavor
 endee
+enderby
 enderlin
 enders
 endicott
@@ -4954,6 +4968,7 @@ fernando
 fernbrook
 ferndale
 ferney
+fernie
 fernley
 fernway
 fernwood
@@ -5050,6 +5065,7 @@ flemingsburg
 flemington
 flensburg
 fletcher
+flinflon
 flint
 flintridge
 flintstone
@@ -5159,6 +5175,7 @@ fortcollins
 fortescue
 fortine
 fortlauderdale
+fortsaskatchewan
 fortson
 fortuna
 fortville
@@ -5808,9 +5825,11 @@ granbury
 granby
 grand
 grande
+grandeprairie
 grandfalls
 grandfather
 grandfield
+grandforks
 grandin
 grandprairie
 grandview
@@ -7418,6 +7437,7 @@ kamalo
 kamas
 kamela
 kamiah
+kamloops
 kamrar
 kanab
 kanaranzi
@@ -7531,6 +7551,7 @@ kelloggsville
 kelly
 kellyton
 kellyville
+kelowna
 kelsay
 kelsey
 kelseyville
@@ -7678,6 +7699,7 @@ kiln
 kim
 kimball
 kimballton
+kimberley
 kimberling
 kimberly
 kimberton
@@ -8195,6 +8217,7 @@ ledge
 ledger
 ledgewood
 ledoux
+leduc
 ledyard
 lee
 lee's
@@ -8295,6 +8318,7 @@ lester
 lesterville
 letart
 letcher
+lethbridge
 letohatchee
 letts
 lettsworth
@@ -8461,6 +8485,7 @@ llanos
 llorens
 lloyd
 lloydell
+lloydminster
 lluveras
 loa
 loachapoka
@@ -8991,6 +9016,7 @@ manville
 many
 manzanita
 maple
+mapleridge
 maplesville
 mapleton
 mapleview
@@ -9426,6 +9452,7 @@ media
 mediapolis
 medical
 medicine
+medicinehat
 medina
 medinah
 medley
@@ -9952,6 +9979,7 @@ morales
 moran
 moravia
 moravian
+morden
 moreauville
 morehead
 morehouse
@@ -10166,6 +10194,7 @@ nalchik
 nallen
 nambe
 nampa
+nanaimo
 nanakuli
 nancy
 nankin
@@ -10383,6 +10412,7 @@ newtonia
 newtonsville
 newtown
 newville
+newwestminster
 newyork
 ney
 neylandville
@@ -10531,6 +10561,7 @@ northridge
 northrop
 northumberland
 northvale
+northvancouver
 northview
 northville
 northvue
@@ -11355,6 +11386,7 @@ pennyhill
 penrose
 pensacola
 pensaukee
+penticton
 pentwater
 penuelas
 penwell
@@ -11585,6 +11617,7 @@ pitkin
 pitman
 pitsburg
 pittman
+pittmeadows
 pitts
 pittsboro
 pittsburg
@@ -11741,7 +11774,9 @@ port
 portage
 portageville
 portal
+portalberni
 portales
+portcoquitlam
 porte
 porter
 porterdale
@@ -11752,6 +11787,7 @@ porthill
 portia
 portis
 portland
+portmoody
 portola
 portsmouth
 portst
@@ -11799,6 +11835,7 @@ powderly
 powderville
 powell
 powellhurst
+powellriver
 powells
 powellsville
 powellton
@@ -11855,6 +11892,8 @@ primera
 primghar
 primrose
 prince
+princegeorge
+princerupert
 princes
 princess
 princeton
@@ -11960,6 +11999,7 @@ queenstown
 quemado
 quenemo
 quentin
+quesnel
 questa
 quick
 quietus
@@ -12137,6 +12177,7 @@ red
 redan
 redbird
 redby
+reddeer
 reddell
 redden
 reddick
@@ -12240,6 +12281,7 @@ retrop
 retta
 reubens
 reva
+revelstoke
 revere
 revillo
 rewey
@@ -12573,6 +12615,7 @@ rossett
 rossford
 rossie
 rossiter
+rossland
 rosslyn
 rossmoor
 rosston
@@ -12778,6 +12821,7 @@ sallis
 sallisaw
 sallyards
 salmon
+salmonarm
 salol
 salome
 salonga
@@ -13106,6 +13150,7 @@ seldovia
 selfridge
 seligman
 selinsgrove
+selkirk
 selleck
 sellers
 sellersburg
@@ -13711,6 +13756,7 @@ springville
 sprott
 sprout
 spruce
+sprucegrove
 spry
 spur
 spurgeon
@@ -13719,6 +13765,7 @@ square
 squaw
 squire
 squires
+st.albert
 stacy
 stacyville
 stafford
@@ -13796,6 +13843,7 @@ steger
 stehekin
 steilacoom
 steinauer
+steinbach
 steinhatchee
 stella
 stem
@@ -14603,6 +14651,7 @@ torrey
 torrington
 tortilla
 toston
+totalcities
 totowa
 totten
 totz
@@ -15618,6 +15667,7 @@ westhaven
 westhoff
 westhope
 westjordan
+westkelowna
 westlake
 westland
 westley
@@ -15644,6 +15694,7 @@ westwater
 westway
 westwego
 westwood
+wetaskiwin
 wethersfield
 wetmore
 wetonka
@@ -15703,6 +15754,7 @@ whiteland
 whitelaw
 whitemarsh
 whiteriver
+whiterock
 whiterocks
 whites
 whitesboro
@@ -15789,6 +15841,7 @@ williams
 williamsburg
 williamsdale
 williamsfield
+williamslake
 williamson
 williamsport
 williamston
@@ -15863,6 +15916,7 @@ winifred
 winigan
 wink
 winkelman
+winkler
 winlock
 winn
 winnabow
@@ -15874,6 +15928,7 @@ winnetoon
 winnett
 winnfield
 winnie
+winnipeg
 winnsboro
 winokur
 winona
