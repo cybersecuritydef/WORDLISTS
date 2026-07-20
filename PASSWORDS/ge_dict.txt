@@ -1,10 +1,4 @@
-""
-&
-(
-()
-)
-/""
-/die
+die
 aachen
 ab
 abap
