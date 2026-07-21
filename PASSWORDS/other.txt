@@ -117,6 +117,7 @@ albanian
 albert
 alce
 alchemy
+alcoholic
 alda
 alec
 alexis
@@ -172,6 +173,7 @@ amell
 amemasu
 america
 american
+americano
 amhuluk
 amikuk
 amitabh
@@ -525,6 +527,7 @@ beast
 beastiality
 beastie
 beasts
+beatha
 beatles
 beatty
 beauty
@@ -538,6 +541,7 @@ bedouin
 bee
 beek
 beelzebub
+beer
 beery
 behave
 beheaded
@@ -585,6 +589,8 @@ bestiario
 bestiary
 betobeto
 betts
+beverage
+beverages
 bgp
 bhuta
 bhutanese
@@ -616,7 +622,9 @@ biscione
 bishop
 bitch
 bitches
+bite
 bito
+bitter
 biwa
 bixby
 bixi
@@ -630,6 +638,7 @@ blastaar
 blaze
 bleach
 blemmyae
+blended
 bless
 bliss
 blob
@@ -678,6 +687,7 @@ bolong
 bolotnik
 bomb
 bon
+bonaqua
 bondage
 boner
 bones
@@ -695,6 +705,7 @@ boph
 borg
 borgnine
 boris
+borjomi
 boroboroton
 bosch
 boseman
@@ -720,6 +731,7 @@ branagh
 brandis
 brando
 brandon
+brandy
 branney
 brave
 bravery
@@ -832,6 +844,8 @@ cadaver
 cadborosaurus
 cadejo
 caesar
+caffe
+caffee
 cage
 cagney
 cah
@@ -880,6 +894,7 @@ capcaun
 capgemini
 capiango
 capiangos
+cappuccino
 caps
 captain
 caquix
@@ -1109,15 +1124,18 @@ club
 clusterfuck
 cobbler
 coblynau
+coca
 cock
 cockatrice
 cocks
+coffee
 cofgod
 cognizant
 cohan
 cohen
 coinchenn
 coins
+coke
 cola
 colan
 cold
@@ -1163,6 +1181,7 @@ copper
 coprolagnia
 coprophilia
 corden
+cordial
 core
 corman
 cornhole
@@ -1403,6 +1422,7 @@ devils
 devito
 devouring
 devours
+dew
 dhampir
 dhu
 di
@@ -1509,6 +1529,7 @@ drakon
 drakons
 drangue
 draug
+draught
 draugr
 drawn
 dream
@@ -1517,6 +1538,8 @@ drekavac
 drew
 dreyfuss
 drgaon
+drink
+drinks
 drive
 driver
 drop
@@ -1691,6 +1714,8 @@ erron
 erymanthian
 escort
 especially
+espresso
+essentuki
 essex
 estark
 estonian
@@ -1708,6 +1733,7 @@ euterpe
 evan
 evans
 ever
+evian
 evil
 ewah
 ewan
@@ -1826,6 +1852,7 @@ fish
 fishburne
 fisherman
 fisting
+fiuggi
 fiura
 five
 flame
@@ -2001,6 +2028,7 @@ genderuwo
 gene
 generation
 genie
+genievre
 genii
 genitals
 genius
@@ -2047,6 +2075,7 @@ giger
 gil
 gilbert
 gill
+gin
 ginebig
 giraffe
 giratina
@@ -2068,6 +2097,7 @@ global
 glottis
 glover
 glowing
+gluhwein
 gluttonous
 glyabni
 gmork
@@ -2130,6 +2160,7 @@ gould
 goulet
 gozer
 grace
+grain
 grainfields
 grammer
 grande
@@ -2679,6 +2710,7 @@ jean
 jeff
 jekyll
 jelly
+jenever
 jenglot
 jengu
 jenkins
@@ -3012,6 +3044,8 @@ lady
 laelaps
 laestrygonians
 lafitte
+lager
+laget
 lagomorph
 lagoon
 lahr
@@ -3053,6 +3087,7 @@ latias
 latin
 latios
 lato
+latte
 latvia
 latvian
 laughton
@@ -3095,6 +3130,7 @@ leman
 lemans
 lemmon
 lemon
+lemonade
 len
 lenape
 lenovo
@@ -3139,14 +3175,15 @@ lil
 lilin
 lilitu
 limbed
+lime
 limited
 limnades
 limones
+lin-manuel
 lincolnshire
 lindworm
 line
 ling
-lin-manuel
 linux
 lion
 lionel
@@ -3233,6 +3270,7 @@ ma
 maa
 mac
 macaulay
+macchiato
 macfarlane
 machine
 machines
@@ -3285,6 +3323,7 @@ malit
 malkovich
 mallet
 mallt
+malt
 maltese
 mammal
 mammoth
@@ -3340,6 +3379,7 @@ marozi
 married
 marshmallow
 martin
+martini
 martinus
 martyrs
 marvel
@@ -3483,6 +3523,7 @@ mimikatz
 min
 mind
 mine
+mineral
 miniature
 minilla
 minka
@@ -3494,6 +3535,7 @@ minyak
 minyans
 miraj
 miranda
+mirinda
 mirror
 mischievous
 misfortune
@@ -3509,6 +3551,7 @@ mizuchi
 mller
 mo
 moblin
+mocha
 mocker
 mode
 modok
@@ -3673,6 +3716,7 @@ narecnitsi
 nargun
 nariphon
 narragansett
+narzan
 nasnas
 natasha
 nathan
@@ -3688,6 +3732,7 @@ nawashi
 nazgl
 neal
 near
+neat
 neck
 necked
 needed]
@@ -4045,6 +4090,7 @@ peguila
 pek
 pele
 pelesit
+pellegrino
 peluda
 penanggalan
 penates
@@ -4055,6 +4101,7 @@ penis
 penn
 pennywise
 people
+pepper
 pepsi
 pequeen
 perchta
@@ -4062,6 +4109,7 @@ perfect
 peri
 perkins
 perlman
+perrier
 perry
 perseus
 persian
@@ -4262,6 +4310,7 @@ qiongqi
 qiqirn
 qlippoth
 qu
+quadruple
 quaid
 qualcomm
 quan
@@ -4566,6 +4615,7 @@ screaming
 screen
 scroll
 scrub
+scrumpy
 scuzzlebutt
 scylla
 sdhe
@@ -4640,6 +4690,7 @@ shaina
 shaitan
 shakespeare
 shan
+shandy
 shane
 shang
 shao
@@ -4743,6 +4794,7 @@ sinatra
 sindel
 singa
 singapore
+single
 sinise
 sint
 siodmak
@@ -4769,6 +4821,7 @@ skeletons
 skeletor
 skin
 skinned
+skinny
 skog
 skogsra
 skoll
@@ -4782,6 +4835,7 @@ slack
 slanteye
 slater
 slavic
+slavyanovskaya
 sleepers
 sleipnir
 slenderman
@@ -4819,6 +4873,7 @@ soda
 sodehiki
 sodomize
 sodomy
+soft
 software
 sogenbi
 solar
@@ -4850,6 +4905,7 @@ spacegodzilla
 spacey
 spalding
 spanish
+sparkling
 spartoi
 spastic
 spawn
@@ -4887,6 +4943,7 @@ squirting
 squonk
 stack
 stag
+stalchalke
 stalfos
 stalker
 stallo
@@ -4926,6 +4983,7 @@ stones
 storm
 storms
 story
+stout
 straight
 strange
 strap
@@ -5223,6 +5281,7 @@ tomte
 tomurashigaraki
 tonberry
 tongue
+tonic
 tony
 tooth
 toothed
@@ -5267,6 +5326,7 @@ trickster
 tricksters
 trimpe
 trinidad
+triple
 tripura
 tripurasura
 tritons
@@ -5339,6 +5399,7 @@ ubuntu
 uchek
 ugly
 uisge
+uisqge
 ukko
 ultimate
 ultra
@@ -5368,6 +5429,7 @@ universe
 unknown
 unktehi
 unktehila
+unleaded
 unman
 unusually
 unzip
@@ -5393,6 +5455,7 @@ usergate
 username
 ushi
 uso
+usquebae
 ustinov
 usually
 utsubo
@@ -5473,9 +5536,11 @@ virunas
 virus
 vishap
 vision
+vittel
 vkontakt
 vmware
 voar
+vodka
 vodou
 vodyanoi
 vodyanoy
@@ -5586,6 +5651,8 @@ wheke
 whether
 which
 whirlwind
+whisky
+whiskybae
 whitaker
 white
 who
