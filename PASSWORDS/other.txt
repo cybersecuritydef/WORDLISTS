@@ -1078,9 +1078,11 @@ civil
 clamps
 clan
 clara
+clarence
 clark
 clash
 claude
+claudio
 clavell
 claw
 clayface
@@ -1329,6 +1331,7 @@ datsue
 daughters
 dave
 david
+davids
 davies
 davis
 davros
@@ -1590,6 +1593,8 @@ eckhart
 eclipses
 ed
 eddie
+eden
+edgar
 edimmu
 eduardo
 edward
@@ -1870,6 +1875,7 @@ foxx
 frakes
 fran
 france
+francesco
 francis
 franco
 frank
@@ -2018,6 +2024,7 @@ ghostly
 ghosts
 ghoul
 gi
+gianluca
 gianluigi
 giant
 giants
@@ -2288,6 +2295,7 @@ hawaiian
 hawk
 hawkeye
 hayden
+hazard
 head
 headed
 headless
@@ -3127,11 +3135,11 @@ limbed
 limited
 limnades
 limones
-lin-manuel
 lincolnshire
 lindworm
 line
 ling
+lin-manuel
 linux
 lion
 lionel
@@ -3957,6 +3965,7 @@ paddy
 padurii
 paedophile
 page
+pagliuca
 pain
 paiute
 pajaro
@@ -4449,6 +4458,7 @@ russian
 russo
 rusty
 rutans
+rutube
 ryan
 ryong
 ryu
@@ -4559,6 +4569,7 @@ seducer
 seduces
 seductress
 see
+seedorf
 seen
 seiryu
 sekhmet
@@ -4998,6 +5009,7 @@ syslog
 system
 systems
 tachash
+taffarel
 tai
 taika
 tailed
@@ -5189,6 +5201,7 @@ tofu
 together
 toho
 toire
+toldo
 tolkien
 tolkin
 tom
@@ -5770,4 +5783,3 @@ zuijin
 zulu
 zunbera
 zyuranger
-rutube
