@@ -1391,7 +1391,7 @@ dettaglio
 dettare
 devoto
 devozione
-di__;;;
+di
 dialetto
 diamine
 diavolo
