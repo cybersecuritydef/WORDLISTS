@@ -1,3 +1,6 @@
 yandex
 firefox
 chrome
+safari
+opera
+brave
