@@ -649826,7 +649826,7 @@ commozione
 commuovere
 comodita
 comodo
-compagna=
+compagna
 compagnia
 compagno
 comparire
@@ -653396,7 +653396,7 @@ specialista
 specializzarsi
 specialmente
 specie
-specie=
+specie
 speculare
 speculazione
 spedire
