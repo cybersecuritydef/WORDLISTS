@@ -3095,7 +3095,7 @@ essentiellement
 essentielles
 essentiels
 essor
-est()
+est
 est-ce
 est-elle
 est-il
@@ -5471,7 +5471,6 @@ mon
 monaco
 monceau-zoldermonceau-zolder
 monde
-monde
 mondes
 mondial
 mondiale
@@ -5646,7 +5645,7 @@ neige
 nen
 nerveux
 nes
-nest()
+nest
 nest-ce
 nest-elle
 nest-il
@@ -5849,7 +5848,7 @@ olivier
 olympique
 olympiques
 ombre
-on(())
+on
 on-line
 ondes
 oneone
@@ -7979,7 +7978,6 @@ sonore
 sonores
 sons
 sont
-sont()
 sont-elles
 sont-ils
 sonysony
@@ -8199,7 +8197,7 @@ suffisent
 suffit
 suggestions
 suicide
-suis()
+suis
 suisse
 suisses
 suit
@@ -8998,8 +8996,6 @@ xavier
 xeikonxeikon
 xeroxxerox
 xeuxeu
-xx
-y
 yen
 yens
 yeux
