@@ -670,6 +670,7 @@ bob
 bobby
 bodach
 body
+boeingorion
 bog
 bogart
 bogey
@@ -1155,6 +1156,7 @@ colman
 colo
 colomar
 colombian
+colony
 colossal
 coltrane
 columbus
@@ -1239,6 +1241,7 @@ creepers
 creeping
 cresselia
 cretan
+crew
 crin
 crinaeae
 criosphinx
@@ -1305,6 +1308,7 @@ cybermen
 cybersecurity
 cyclopean
 cyclops
+cygnus
 cyhyraeth
 cynocephalus
 cypris
@@ -2034,6 +2038,7 @@ ged
 gees
 geese
 gegenees
+gemini
 genbu
 genderuwo
 gene
@@ -3556,6 +3561,7 @@ minotaur
 mintuci
 minyak
 minyans
+mir
 miraj
 miranda
 mirinda
@@ -4282,6 +4288,7 @@ probe
 prodigy
 producers
 professor
+progress
 properly
 prophetic
 protected
@@ -4750,6 +4757,7 @@ shelob
 shemale
 shen
 shenlong
+shenzhou
 sheridan
 shesha
 shetland
@@ -4803,6 +4811,7 @@ shui
 shujinko
 shunoban
 shuten
+shuttle
 shyamalan
 si
 sickness
@@ -4863,6 +4872,7 @@ skrzak
 skulltula
 skwa
 sky
+skylab
 skype
 slack
 slanteye
@@ -4934,7 +4944,9 @@ sound
 south
 southeast
 southern
+soyuz
 spacegodzilla
+spacex
 spacey
 spalding
 spanish
@@ -4988,8 +5000,10 @@ stanton
 star
 starfish
 stark
+starliner
 starlink
 starr
+starship
 states
 statham
 stay
@@ -5589,6 +5603,7 @@ voopnir
 voorhees
 vorarephilia
 vortigaunt
+vostok
 voyeur
 voyeurweb
 voyuer
