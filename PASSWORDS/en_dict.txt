@@ -384707,11 +384707,10 @@ pkt
 pku
 pkwy
 pl
-pl:
-pl:calves
-pl:criteria
-pl:kin
-pl:sheep
+calves
+criteria
+kin
+sheep
 pla
 placabilities
 placability
