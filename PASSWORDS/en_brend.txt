@@ -714,7 +714,6 @@ good
 goon
 gopro
 gosh
-got2b
 gourmandise
 grace
 grandpas
@@ -736,7 +735,6 @@ guerlain
 guinot
 guy
 gwen
-h2o
 hada
 hadalabo
 hadanomy
@@ -1312,7 +1310,7 @@ nubian
 nutribiotic
 nuxe
 nyx
-o2d-biotic
+biotic
 ocean
 oceanic
 odaban
@@ -1361,7 +1359,6 @@ outfittersv
 overseas
 ovs
 oy
-p2
 pacific
 paco
 paghera
@@ -1617,7 +1614,6 @@ sim
 simone
 sisley
 skin
-skin79
 skincare
 skinceuticals
 skinfood
