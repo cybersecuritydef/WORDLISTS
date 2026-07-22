@@ -1,6 +1,3 @@
-basta
-guf
-centr
 aamir
 aamon
 aaron
@@ -42,6 +39,7 @@ achlis
 ackles
 acrotomophilia
 action
+activity
 adam
 adams
 adar
@@ -221,6 +219,7 @@ anime
 ankou
 anmo
 ann
+annabelle
 annihilus
 annis
 annwn
@@ -487,6 +486,7 @@ basilisco
 basilisk
 basket
 basque
+basta
 bastard
 bastardo
 basten
@@ -496,6 +496,7 @@ basty
 bat
 batak
 bateman
+bates
 bathala
 bathhouse
 bathory
@@ -884,6 +885,7 @@ canaima
 canarian
 candileja
 candy
+candyman
 canine
 cannavale
 cannibalistic
@@ -960,6 +962,7 @@ centaurid
 centauride
 centauroid
 centicore
+centr
 central
 cera
 cerastes
@@ -1231,6 +1234,8 @@ creatures
 creatures;
 cree
 creed
+creeper
+creepers
 creeping
 cresselia
 cretan
@@ -1663,9 +1668,11 @@ elfin
 elijah
 elim
 elk
+ellen
 elliot
 elliott
 ellis
+elm
 elmo
 eloko
 elves
@@ -1929,6 +1936,7 @@ frenz
 freshwater
 freund
 freybug
+friday
 friendly
 frisian
 frog
@@ -2078,6 +2086,7 @@ giger
 gil
 gilbert
 gill
+gillman
 gin
 ginebig
 giraffe
@@ -2212,6 +2221,7 @@ ground
 group
 grove
 grover
+grudge
 grue
 gruffudd
 grundy
@@ -2228,6 +2238,7 @@ guards
 guchi
 gud
 guess
+guf
 guhin
 gui
 guidance
@@ -2281,6 +2292,7 @@ haley
 half
 hall
 halloi
+halloween
 haltija
 hamadryad
 hamidon
@@ -2299,6 +2311,7 @@ hanged
 hank
 hanks
 hanna
+hannibal
 hanns
 hannya
 hantu
@@ -2362,6 +2375,7 @@ hellenized
 hellhound
 helloi
 hellotalk
+hellraiser
 help
 hemsworth
 henreid
@@ -2382,6 +2396,7 @@ hercinia
 hercules
 herds
 here
+hereditary
 herensuge
 hermaphroditic
 hermes
@@ -2710,6 +2725,7 @@ jaws
 jax
 jay
 jean
+jeepers
 jeff
 jekyll
 jelly
@@ -2737,6 +2753,7 @@ jievaras
 jigaboo
 jiggaboo
 jiggerboo
+jigsaw
 jiji
 jikininki
 jim
@@ -3116,6 +3133,7 @@ leather
 leatherface
 leblanc
 lechuck
+lecter
 led
 ledger
 lee
@@ -3392,6 +3410,8 @@ masaaki
 masao
 masked
 maski
+massacre
+master
 masters
 masturbate
 masturbating
@@ -3547,6 +3567,7 @@ misi
 miskito
 misleads
 missionary
+mist
 mister
 mitchell
 miyamoto
@@ -4047,6 +4068,7 @@ panty
 paolo
 paper
 parandrus
+paranormal
 parasitic
 parasol
 pard
@@ -4246,6 +4268,7 @@ predator
 predatory
 prefecture
 premature
+prescott
 preta
 prey
 pricolici
@@ -4274,6 +4297,7 @@ psoglav
 psotnik
 psychai
 psychic
+psycho
 psychology
 psychonauts
 psychopomp
@@ -4298,6 +4322,7 @@ pumpkinhead
 punany
 punch
 punisher
+puppet
 purple
 puskas
 pussy
@@ -4388,6 +4413,7 @@ reading
 real
 reanimated
 reaper
+rebecca
 reborn
 rectum
 red
@@ -4442,9 +4468,12 @@ ridley
 rime
 rimjob
 rimming
+ring
+ringmaster
 ringo
 ringwraiths
 rip
+ripley
 ritual
 rivaldo
 river
@@ -4551,6 +4580,7 @@ salvador
 salvadoran
 sam
 samael
+samara
 samebito
 sami
 sammy
@@ -4614,6 +4644,7 @@ scorpius
 scotland
 scott
 scottish
+scream
 screaming
 screen
 scroll
@@ -4737,6 +4768,7 @@ shine
 shinichi
 shinichiro
 shinigami
+shining
 shinji
 shinning
 shinnok
@@ -4989,6 +5021,7 @@ story
 stout
 straight
 strange
+strangers
 strap
 strapon
 strappado
@@ -5189,6 +5222,7 @@ terry
 tessa
 tesuji
 teumessian
+texas
 tezuka
 thai
 thalia
@@ -5297,6 +5331,7 @@ torment
 tormentor
 toro
 torr
+torrance
 torso
 toshiro
 tosser
@@ -5699,6 +5734,7 @@ wizards
 wizzrobe
 wolf
 wolfhard
+wolfman
 wolpertinger
 wolverine
 woman
