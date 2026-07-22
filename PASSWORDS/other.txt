@@ -194,7 +194,7 @@ anal
 anamie
 anathema
 ancestral
-anchor]
+anchor
 ancient
 and
 andean
@@ -1397,7 +1397,7 @@ demigod
 demihuman
 demirkiynak
 demon
-demon[citation
+demoncitation
 demoness
 demonic
 demons
@@ -3644,7 +3644,6 @@ morrison
 morrow
 mortals
 mosasaur
-motaro
 motherfucker
 mothman
 mothra
@@ -3759,7 +3758,7 @@ near
 neat
 neck
 necked
-needed]
+needed
 neeson
 negoogunogumbar
 negra
@@ -4638,7 +4637,6 @@ science
 scissoring
 scitalis
 scofield
-scorpion
 scorpions
 scorpius
 scotland
@@ -5790,7 +5788,7 @@ yagi
 yagyo
 yahoo
 yaksha
-yakshi[broken
+yakshi
 yakshini
 yakubyo
 yakut
