@@ -2129,7 +2129,7 @@ goatcx
 goatse
 goblin
 god
-god"
+god
 goddard
 goddess
 goddesses
@@ -3362,7 +3362,7 @@ mammal
 mammoth
 mamuna
 man
-man"
+man
 manananggal
 manaphy
 manbearpig
