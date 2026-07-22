@@ -1912,7 +1912,6 @@ cyclique
 cycliques
 cycliste
 cylindres
-d;;;
 dabord
 dacceder
 daccepter
@@ -2049,7 +2048,7 @@ davril
 daxdax
 dd
 de
-de__;;;
+de__
 deau
 debarque
 debarrasser
@@ -2308,8 +2307,6 @@ deroulement
 deroulent
 deroulera
 des
-des;;;
-des;;;;
 desastre
 descend
 descendre
@@ -2758,8 +2755,6 @@ droite
 droits
 dsmdsm
 du
-du;;;
-du;;;;
 ducbucb
 due
 dues
@@ -5990,8 +5985,7 @@ papier
 papiers
 paquet
 paquets
-par;;
-par;;;;
+par
 paradis
 paradoxe
 paraissait
