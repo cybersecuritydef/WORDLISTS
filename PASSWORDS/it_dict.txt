@@ -464,7 +464,7 @@ avanzare
 avanzata
 avanzo
 avere
-avere(v)
+averev
 aviatore
 avvalersi
 avvelenare
@@ -1034,7 +1034,8 @@ complicita
 complimento
 comporre
 comportamento
-comportare(comportarsi)
+comportare
+comportarsi
 comprare
 comprendere
 comprensione
