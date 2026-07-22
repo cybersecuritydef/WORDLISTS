@@ -276,7 +276,6 @@ saab
 sadko
 saic
 saleen
-samsung
 saturn
 scania
 scion
@@ -285,7 +284,6 @@ seat
 senat
 seres
 shelby
-shelby super cars
 simca
 skywell
 smart
@@ -294,7 +292,7 @@ soueast
 spider
 spyker
 ssangyong
-ssc north america
+ssc
 standard
 star
 stone
@@ -325,7 +323,8 @@ ural
 urus
 vanderhall
 vauxhall
-vector motors
+vector
+motors
 vega
 venucia
 vertis
