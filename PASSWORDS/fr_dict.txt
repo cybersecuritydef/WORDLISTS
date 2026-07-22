@@ -6919,7 +6919,6 @@ quil
 quils
 quinzaine
 quinze
-quinze15
 quitte
 quittent
 quitter
