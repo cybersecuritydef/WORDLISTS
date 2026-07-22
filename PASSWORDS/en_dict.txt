@@ -1,6 +1,3 @@
-a
-aaal
-aaas
 aaberg
 aabergs
 aac
@@ -354116,7 +354113,6 @@ outshriek
 outshrill
 outshut
 outside
-outside
 outsided
 outsidedness
 outsideness
@@ -360805,7 +360801,7 @@ ozzie
 ozzies
 ozzy
 ozzys
-p/e
+p
 pa
 paal
 paan
@@ -384707,10 +384703,6 @@ pkt
 pku
 pkwy
 pl
-calves
-criteria
-kin
-sheep
 pla
 placabilities
 placability

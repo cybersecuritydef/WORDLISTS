@@ -153,6 +153,7 @@ bay
 bayer
 baylis
 be
+bear
 beaute
 beauties
 beauty
@@ -212,6 +213,7 @@ bluesky
 bmw
 boat
 bobbi
+boch
 body
 bodyform
 bohema
@@ -677,6 +679,7 @@ gabbana
 gaga
 galderma
 gals
+gamble
 gant
 gap
 garden
@@ -859,7 +862,7 @@ italiana
 its
 ivomed
 ixxi
-jack&jones
+jack
 jacobs
 jacqueslemans
 jafra
@@ -890,6 +893,7 @@ john
 johnsons
 joico
 joli
+jones
 jordache
 jouvance
 joyskin
@@ -1159,7 +1163,7 @@ max
 maxi
 maxima
 maybelline
-mayer&boch
+mayer
 mayson
 mcqueen
 me
@@ -1437,7 +1441,7 @@ pretty
 privia
 proactiv
 problem
-procter&gamble
+procter
 professional
 professionnel
 proffs
@@ -1449,7 +1453,7 @@ provence
 provoc
 provocateur
 pucci
-pull&bear
+pull
 pumar
 pupa
 purbasari

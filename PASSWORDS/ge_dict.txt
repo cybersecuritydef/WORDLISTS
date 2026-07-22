@@ -1616,7 +1616,6 @@ caf
 carl
 cd
 cdu
-cdu/csu
 celsius
 center
 champions
@@ -2951,7 +2950,6 @@ francisco
 frank
 franken
 frankfurt
-frankfurt/main
 frankfurter
 frankreich
 frankreichs
