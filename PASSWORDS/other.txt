@@ -1129,6 +1129,7 @@ cloverfield
 clown
 club
 clusterfuck
+cms
 cobbler
 coblynau
 coca
@@ -1266,6 +1267,7 @@ cryer
 cryptid
 crystal
 cs
+cs-cart
 csupo
 cthulhu
 cu
@@ -1438,6 +1440,7 @@ dew
 dhampir
 dhu
 di
+diafan
 dialga
 diao
 dicaprio
@@ -1563,6 +1566,7 @@ drowning
 drude
 druid
 druk
+drupal
 dry
 dryad
 du
@@ -1626,6 +1630,7 @@ echinops
 echo
 eckhart
 eclipses
+ecommerce1
 ed
 eddie
 eden
@@ -2498,6 +2503,7 @@ horseman
 horsemen
 horses
 hortlak
+hostcms
 hot
 hotaru
 hotoke
@@ -2634,6 +2640,7 @@ infotecs
 infrastructure
 inhabitants
 inkanyamba
+insales
 insect
 inspire
 inspired
@@ -2791,6 +2798,7 @@ jon
 jonah
 jonathan
 jones
+joomla
 jordan
 jordi
 jormungandr
@@ -3311,6 +3319,7 @@ madremonte
 maenad
 maero
 magari
+magento
 magic
 magical
 magician
@@ -3585,6 +3594,7 @@ mocha
 mocker
 mode
 modok
+modx
 moguera
 mogwai
 mohan
@@ -3785,6 +3795,7 @@ nerai
 nereid
 nereus
 ness
+netcat
 netstat
 network
 networks
@@ -3984,6 +3995,7 @@ onryo
 oogie
 ooze
 oozlum
+opencart
 ophiotaurus
 opinicus
 opiyel
@@ -4312,6 +4324,7 @@ pthc
 ptitsa
 pubes
 public
+publishing
 puca
 puck
 pudding
@@ -5666,6 +5679,7 @@ weasel
 weather
 weathers
 web
+webasyst
 wechat
 wechuge
 wedekind
@@ -5754,11 +5768,13 @@ woman
 women
 won
 wondjina
+woocommerce
 wood
 woodland
 woods
 woody
 wooses
+wordpress
 workday
 works
 world
