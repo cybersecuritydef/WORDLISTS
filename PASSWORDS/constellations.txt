@@ -16,6 +16,7 @@ caelum
 camelopardalis
 cancer
 canes
+canesvenatici
 canis
 capricornus
 carina
@@ -27,7 +28,10 @@ chamaeleon
 circinus
 columba
 coma
+comaberenices
 corona
+coronaaustralis
+coronaborealis
 corvus
 crater
 crux
@@ -38,12 +42,14 @@ draco
 equuleus
 eridanus
 fornax
+gemini
 grus
 hercules
 horologium
 hydra
 hydrus
 indus
+jisung
 lacerta
 leo
 lepus
@@ -62,12 +68,14 @@ octans
 ogemini
 ophiuchus
 orion
+pavo
 pegasus
 perseus
 phoenix
 pictor
 pisces
 piscis
+piscisaustrinus
 puppis
 pyxis
 reticulum
@@ -81,6 +89,7 @@ sextans
 taurus
 telescopium
 triangulum
+triangulumaustrale
 tucana
 ursa
 vela
