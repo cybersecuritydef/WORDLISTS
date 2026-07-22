@@ -30,7 +30,6 @@ batgirl
 batman
 batwoman
 bison
-black
 blackout
 blade
 blanka
