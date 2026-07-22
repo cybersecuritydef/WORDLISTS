@@ -101,6 +101,7 @@ osmium
 oxygen
 oxygenium
 palladium
+phosphorous
 phosphorus
 platinum
 plumbum
