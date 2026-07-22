@@ -824,7 +824,7 @@ bahama
 baidland
 baie
 bailey
-bailey's
+baileys
 baileys
 baileyton
 baileyville
@@ -2233,7 +2233,7 @@ caineville
 cains
 cainsville
 cairo
-cajah's
+cajahs
 cajon
 calabasas
 calabash
@@ -2427,7 +2427,7 @@ cargray
 caribou
 carignan
 carl
-carl's
+carls
 carle
 carleton
 carlile
@@ -3781,10 +3781,10 @@ cynthiana
 cypress
 cyril
 cyrus
-d'arc
-d'hanis
-d'iberville
-d'lo
+darc
+dhanis
+diberville
+dlo
 dabney
 dacoma
 dacono
@@ -7361,7 +7361,7 @@ jacksonboro
 jacksonburg
 jacksonport
 jacksons
-jacksons'
+jacksons
 jacksonville
 jackstown
 jacob
@@ -8095,7 +8095,7 @@ kyiv
 kykotsmovi
 kyle
 kyzyl
-l'anse
+lanse
 la
 labadie
 labadieville
@@ -8414,7 +8414,7 @@ ledoux
 leduc
 ledyard
 lee
-lee's
+lees
 leeds
 leedy
 leeper
@@ -9353,7 +9353,7 @@ marthasville
 marthaville
 marthe
 martin
-martin's
+martins
 martindale
 martinez
 martins
@@ -9368,7 +9368,7 @@ marvel
 marvell
 marvin
 mary
-mary's
+marys
 marydel
 maryhill
 maryland
@@ -9914,7 +9914,7 @@ millcreek
 milledgeville
 millen
 miller
-miller's
+millers
 millers
 millersburg
 millersport
@@ -10235,7 +10235,7 @@ morenci
 moreno
 morenovalley
 morgan
-morgan's
+morgans
 morgana
 morganfield
 morgans
@@ -10883,13 +10883,13 @@ nuyaka
 nyac
 nyack
 nye
-o'brien
-o'connor
-o'donnell
-o'fallon
-o'kean
-o'neals
-o'neill
+obrien
+oconnor
+odonnell
+ofallon
+okean
+oneals
+oneill
 o`brien
 oacoma
 oak
@@ -11543,7 +11543,7 @@ paw
 pawcatuck
 pawhuska
 pawlet
-pawley's
+pawleys
 pawling
 pawnee
 pawtucket
@@ -12527,7 +12527,7 @@ reidland
 reidsville
 reidville
 reiffton
-reile's
+reiles
 reily
 reinbeck
 reinersville
@@ -13207,7 +13207,7 @@ sanostee
 sanremo
 sans
 sansom
-sant'elena
+santelena
 santa
 santaana
 santaclara
@@ -13522,7 +13522,7 @@ sevierville
 seville
 sewal
 sewall
-sewall's
+sewalls
 sewanee
 seward
 sewaren
@@ -14360,7 +14360,7 @@ suitland
 sula
 sulligent
 sullivan
-sullivan's
+sullivans
 sully
 sulphur
 sulphurdale
@@ -14788,7 +14788,7 @@ thomaston
 thomastown
 thomasville
 thompson
-thompson's
+thompsons
 thompsons
 thompsontown
 thompsonville
