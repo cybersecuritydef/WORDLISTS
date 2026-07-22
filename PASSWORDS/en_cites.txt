@@ -13058,7 +13058,7 @@ ryderwood
 rye
 ryegate
 ryland
-s.n.p.j.
+snpj
 saarbrucken
 saarland
 saba
@@ -14099,7 +14099,7 @@ squaw
 squire
 squires
 st
-st.albert
+albert
 stabia
 stacy
 stacyville
