@@ -141721,7 +141721,6 @@ dammish
 dammit
 dammits
 damn
-damn!
 damnabilities
 damnability
 damnabilitys
@@ -649470,7 +649469,7 @@ buco
 bue
 buffo
 buffone
-bugiafalse
+bugiaFALSE
 bugiardo
 buonanotte
 buonasera
@@ -667231,7 +667230,6 @@ ogopogo
 ogre
 ogun
 oh
-oh!
 ohba
 ohio
 oi
