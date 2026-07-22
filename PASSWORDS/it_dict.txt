@@ -102,7 +102,7 @@ affidamento
 affidare
 affinche
 affisso
-affittare/
+affittare
 affitto
 affliggere
 affollarsi
@@ -130,7 +130,7 @@ agire
 agitare
 agitazione
 agosto
-agricolo/-
+agricolo
 agricoltore
 agricoltura
 ah
@@ -898,7 +898,7 @@ cima
 cimentare
 ciminiera
 cimitero
-cin-cin
+cin
 cinema
 cinematografico
 cinematografo
@@ -1210,7 +1210,7 @@ corrente
 correre
 correzione
 corridoio
-corriera/
+corriera
 corrispondenza
 corrispondere
 corrompere
@@ -2203,6 +2203,7 @@ guinzaglio
 guscio
 gustare
 gusto
+i
 iazz
 idea
 ideale
@@ -3745,10 +3746,10 @@ quattordici
 quattrino
 quattro
 quattromila
-quello-a-i-e
+quello
 questi
 questione
-questo-a-i-e
+questo
 questura
 qui
 quiete
@@ -4786,6 +4787,7 @@ svizzero
 svolgere
 svolta
 tabacco
+tac
 tacchino
 tacco
 tacere
@@ -4885,7 +4887,7 @@ testimonianza
 testo
 tetro
 tetto
-tic-tac
+tic
 tiepido
 tigre
 timbro

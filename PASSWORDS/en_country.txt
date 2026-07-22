@@ -33,6 +33,7 @@ belize
 benin
 bermuda
 bhutan
+bissau
 bolivarian
 bolivia
 bosnia
@@ -109,7 +110,6 @@ guam
 guatemala
 guiana
 guinea
-guinea-bissau
 guyana
 haiti
 heard
@@ -153,6 +153,7 @@ latvia
 lebanon
 leone
 lesotho
+leste
 liberia
 libyan
 lithuania
@@ -268,7 +269,7 @@ territories
 territory
 thailand
 the
-timor-leste
+timor
 tobago
 togo
 tokelau

@@ -1,9 +1,9 @@
-a-derma
 aasha
 abe
 abella
 academie
 accessory
+acne
 acqua
 actimel
 adidas
@@ -21,7 +21,6 @@ ainhoa
 air
 aisen
 al
-al-hashesh
 alba
 albert
 aldo
@@ -88,8 +87,8 @@ armand
 armani
 armor
 arnaud
+arom
 aroma
-aroma-zone
 aromarti
 aromatics
 arpel
@@ -123,6 +122,7 @@ avien
 avon
 axe
 ayushakti
+b
 babes
 babor
 baby
@@ -179,7 +179,6 @@ bettina
 beverly
 beyu
 bielita
-bielita-i
 bio
 bioaqua
 biocosmetics
@@ -193,6 +192,7 @@ biosea
 biosline
 biosthetique
 biotherm
+biotic
 biotopix
 birdie
 bison
@@ -200,7 +200,7 @@ bisou
 bisse
 black
 blackberry
-blend-a-med
+blend
 blender
 bliss
 blistex
@@ -219,7 +219,7 @@ bomb
 bon
 bonduelle
 bonne
-booster-g
+booster
 boots
 booty
 borlind
@@ -438,7 +438,7 @@ defi
 del
 delano
 delarom
-delex-acne
+delex
 delia
 delight
 delite
@@ -573,7 +573,7 @@ esthaar
 etat
 etude
 eucerin
-euro-styl
+euro
 eurostill
 eva
 eveline
@@ -671,7 +671,8 @@ funky
 funkybuddha
 furterer
 fuwarige
-ga-de
+g
+ga
 gabbana
 gaga
 galderma
@@ -747,6 +748,7 @@ hansen
 hansherbal
 haramain
 harding
+hashesh
 hauschka
 head
 heal
@@ -802,12 +804,12 @@ hurraw
 huter
 hyalogic
 hysteria
+i
 ice
 icepeak
 ikea
 iks
 il
-il-makiage
 ile
 illuminum
 image
@@ -897,7 +899,7 @@ jurassic
 jurlique
 just
 juvena
-k-swiss
+k
 kaaral
 kaffe
 kai
@@ -1116,8 +1118,8 @@ maikloriss
 maison
 mak
 make
-make-up-secret
 makeup
+makiage
 malibu
 malone
 malva
@@ -1280,7 +1282,7 @@ newbalance
 newyorker
 next
 nike
-nikkos-oskol
+nikkos
 nina
 ninelle
 ningbo
@@ -1310,7 +1312,6 @@ nubian
 nutribiotic
 nuxe
 nyx
-biotic
 ocean
 oceanic
 odaban
@@ -1336,7 +1337,7 @@ onme
 opel
 opi
 optima
-oral-b
+oral
 orange
 oreal
 oreo
@@ -1351,6 +1352,7 @@ orlane
 orlena
 orly
 orofluido
+oskol
 osmo
 otome
 ottie
@@ -1407,7 +1409,7 @@ picture
 piel
 pierre
 pierrecardin
-pin-up
+pin
 pineaqua
 pink
 planet
@@ -1423,6 +1425,7 @@ polish
 pompidu
 ponds
 porsche
+posay
 pot
 prada
 prairie
@@ -1440,6 +1443,7 @@ professionnel
 proffs
 profis
 profresh
+progress
 project
 provence
 provoc
@@ -1459,7 +1463,7 @@ quelle
 quiksilver
 quizas
 qvs
-r-studio
+r
 rab
 rabanne
 ralph
@@ -1509,7 +1513,7 @@ roberto
 robski
 roc
 rochas
-roche-posay
+roche
 rocher
 rodriguez
 rojukiss
@@ -1531,7 +1535,7 @@ rubinstein
 ruby
 runail
 russell
-sabai-arom
+sabai
 sabo
 safeguard
 sagitta
@@ -1658,6 +1662,7 @@ stop
 store
 stradivariust
 studio
+styl
 style
 styx
 sui
@@ -1668,6 +1673,7 @@ surge
 sw
 sweet
 sweetscents
+swiss
 symphony
 syoss
 system
@@ -1717,6 +1723,7 @@ treats
 tree
 trind
 twist
+u
 uemur
 uemura
 ultimatenutrition
@@ -1766,7 +1773,7 @@ vitara
 vitaskin
 vite
 vivienne
-von-u
+von
 vota
 vov
 vuittonm
@@ -1786,7 +1793,7 @@ works
 world
 wrangler
 wrigley
-wt-progress
+wt
 xiaomi
 yamaha
 yes

@@ -311,6 +311,7 @@ altamont
 altamonte
 altamura
 altavista
+altaysk
 altenburg
 altha
 altheimer
@@ -385,6 +386,7 @@ ampton
 amqui
 amsden
 amsterdam
+amur
 amy
 ana
 anacoco
@@ -553,7 +555,6 @@ arctic
 ardara
 ardea
 arden
-arden-on-the-severn
 ardencroft
 ardentown
 ardenvoir
@@ -775,7 +776,6 @@ aviston
 avoca
 avocado
 avon
-avon-by-the-sea
 avondale
 avonia
 avonmore
@@ -825,7 +825,6 @@ baidland
 baie
 bailey
 baileys
-baileys
 baileyton
 baileyville
 bainbridge
@@ -847,7 +846,6 @@ bakersville
 bakerton
 bal
 bala
-bala-cynwyd
 balance
 balaton
 balch
@@ -1016,7 +1014,6 @@ batchelor
 batchtown
 bates
 batesburg
-batesburg-leesville
 batesland
 batesville
 bath
@@ -1135,8 +1132,6 @@ beijing
 beirne
 bejou
 bel
-bel-nor
-bel-ridge
 belcamp
 belcher
 belchertown
@@ -1578,7 +1573,7 @@ bologna
 bologoye
 bolt
 bolton
-bolzano-bozen
+bolzano
 boma
 bomarton
 bombay
@@ -1730,6 +1725,7 @@ boys
 boysen
 bozar
 bozeman
+bozen
 bozman
 braceville
 bracey
@@ -2001,7 +1997,6 @@ bruce
 bruceton
 brucetown
 bruceville
-bruceville-eddy
 bruin
 brule
 brumley
@@ -2184,6 +2179,7 @@ buttonwillow
 buxton
 buyck
 buzzards
+by
 byars
 byer
 byers
@@ -2296,7 +2292,6 @@ cambria
 cambrian
 cambridge
 camden
-camden-on-gauley
 camdenton
 camelot
 cameo
@@ -2415,7 +2410,6 @@ carbonado
 carbondale
 cardenas
 cardiff
-cardiff-by-the-sea
 cardin
 cardington
 cardwell
@@ -2427,7 +2421,6 @@ cargray
 caribou
 carignan
 carl
-carls
 carle
 carleton
 carlile
@@ -2436,6 +2429,7 @@ carlinville
 carlisle
 carlock
 carlos
+carls
 carlsbad
 carlson
 carlstadt
@@ -2444,7 +2438,6 @@ carlton
 carlyle
 carlyss
 carmel
-carmel-by-the-sea
 carmen
 carmi
 carmichael
@@ -2564,7 +2557,6 @@ castleberry
 castleford
 castlegar
 castleton
-castleton-on-hudson
 castlewood
 castolon
 castor
@@ -2608,7 +2600,6 @@ cauthron
 cavalero
 cavalier
 cave
-cave-in-rock
 cavey
 cavour
 cawker
@@ -2690,7 +2681,6 @@ chaffee
 chaffey
 chagrin
 chain
-chain-o-lakes
 chaires
 chalco
 chalfant
@@ -3132,7 +3122,7 @@ clyde
 clyman
 clymer
 clyo
-co-operative
+co
 coachella
 coady
 coahoma
@@ -3449,7 +3439,7 @@ cordoba
 cordova
 core
 corfu
-corigliano-rossano
+corigliano
 corinna
 corinne
 corinth
@@ -3471,7 +3461,6 @@ cornucopia
 cornudas
 cornville
 cornwall
-cornwall-on-hudson
 cornwell
 cornwells
 corolla
@@ -3680,7 +3669,6 @@ crosswicks
 croswell
 crothersville
 croton
-croton-on-hudson
 crotone
 crouch
 crow
@@ -3778,13 +3766,10 @@ cygne
 cygnet
 cylinder
 cynthiana
+cynwyd
 cypress
 cyril
 cyrus
-darc
-dhanis
-diberville
-dlo
 dabney
 dacoma
 dacono
@@ -3858,6 +3843,7 @@ dara
 darbun
 darby
 darbyville
+darc
 darco
 dardanelle
 darden
@@ -4065,6 +4051,7 @@ devine
 devol
 devola
 devon
+devondale
 devore
 dew
 dewalt
@@ -4077,6 +4064,7 @@ dewy
 dexter
 dexterville
 dhaka
+dhanis
 di
 diablo
 diagonal
@@ -4087,6 +4075,7 @@ diamondville
 diana
 diaz
 dibble
+diberville
 diboll
 dick
 dickens
@@ -4153,6 +4142,7 @@ dixon
 dixons
 dixonville
 dizney
+dlo
 dmitrov
 dobbins
 dobbs
@@ -4190,6 +4180,7 @@ domingo
 dominguez
 dominion
 domino
+don
 dona
 donahue
 donald
@@ -4254,7 +4245,6 @@ douro
 dousman
 dove
 dover
-dover-foxcroft
 dovray
 dow
 dowagiac
@@ -5271,7 +5261,6 @@ fonda
 fonde
 fontaine
 fontana
-fontana-on-geneva
 fontanelle
 fontenelle
 foosland
@@ -5348,6 +5337,7 @@ fox
 foxboro
 foxborough
 foxburg
+foxcroft
 foxfield
 foxhome
 foxpark
@@ -5406,6 +5396,7 @@ freeport
 freer
 freetown
 freeville
+freewater
 freewood
 fremont
 french
@@ -5478,7 +5469,7 @@ funkley
 funkstown
 funston
 funter
-fuquay-varina
+fuquay
 furley
 furman
 furnace
@@ -5651,7 +5642,6 @@ gemmell
 genesee
 geneseo
 geneva
-geneva-on-the-lake
 genevieve
 genoa
 genola
@@ -5924,7 +5914,7 @@ goreville
 gorham
 gorin
 gorman
-gorno-altaysk
+gorno
 gorst
 gorum
 goshen
@@ -6035,7 +6025,7 @@ gray
 grayburg
 grayland
 grayling
-graymoor-devondale
+graymoor
 grayridge
 grays
 grayslake
@@ -6152,13 +6142,13 @@ growler
 grozny
 grubbs
 gruene
-gruetli-laager
+gruetli
 gruhlkey
 grulla
 grundy
 gruver
 grygla
-gu-win
+gu
 guadalupe
 guadalupita
 guage
@@ -6207,7 +6197,7 @@ gurabo
 gurdon
 gurley
 gurnee
-gus-khrustalny
+gus
 gustavus
 gustine
 guston
@@ -6482,7 +6472,6 @@ hassell
 hassman
 hasson
 hastings
-hastings-on-hudson
 hasty
 haswell
 hat
@@ -6713,7 +6702,7 @@ hewitt
 hewlett
 hext
 heyburn
-hi-nella
+hi
 hialeah
 hiattville
 hiawassee
@@ -6824,7 +6813,7 @@ hiwannee
 hiwasse
 hiwassee
 hixton
-ho-ho-kus
+ho
 hoadly
 hoagland
 hoban
@@ -7193,6 +7182,7 @@ ihlen
 ikatan
 ila
 ile
+iletsk
 ilfeld
 iliad
 iliff
@@ -7361,7 +7351,6 @@ jacksonboro
 jacksonburg
 jacksonport
 jacksons
-jacksons
 jacksonville
 jackstown
 jacob
@@ -7473,7 +7462,7 @@ jewettville
 jigger
 jim
 jingo
-jo-ann
+jo
 joanna
 joaquin
 jobos
@@ -7569,7 +7558,7 @@ jupiter
 justice
 justiceburg
 justus
-ka-ho
+ka
 kaaawa
 kaanapali
 kabul
@@ -7609,6 +7598,7 @@ kaluga
 kalvesta
 kamalo
 kamas
+kamchatsky
 kamela
 kamiah
 kamloops
@@ -7843,7 +7833,8 @@ keysville
 keytesville
 kezar
 khabarovsk
-khanty-mansiysk
+khanty
+khrustalny
 kiahsville
 kiana
 kiawah
@@ -8023,7 +8014,7 @@ kolola
 komandorski
 komatke
 komelik
-komsomolsk-on-amur
+komsomolsk
 konawa
 kongiganak
 konnarock
@@ -8084,6 +8075,7 @@ kursk
 kurten
 kurthwood
 kurtistown
+kus
 kustatan
 kuttawa
 kutztown
@@ -8095,8 +8087,8 @@ kyiv
 kykotsmovi
 kyle
 kyzyl
-lanse
 la
+laager
 labadie
 labadieville
 laboratory
@@ -8116,7 +8108,7 @@ lacona
 laconia
 lacoochee
 lacs
-lacy-lakeview
+lacy
 ladd
 laddonia
 ladelle
@@ -8249,6 +8241,7 @@ lankin
 lannon
 lansdale
 lansdowne
+lanse
 lansford
 lansing
 lantana
@@ -8315,7 +8308,6 @@ latty
 lauada
 laud
 lauderdale
-lauderdale-by-the-sea
 laughlin
 laupahoehoe
 laura
@@ -8414,7 +8406,6 @@ ledoux
 leduc
 ledyard
 lee
-lees
 leeds
 leedy
 leeper
@@ -8483,7 +8474,6 @@ lenwood
 lenz
 lenzburg
 leo
-leo-cedarville
 leola
 leoma
 leominster
@@ -8543,7 +8533,6 @@ lewisville
 lexa
 lexie
 lexington
-lexington-fayette
 leyden
 libby
 libbyville
@@ -8701,6 +8690,7 @@ lochearn
 lochiel
 lochloosa
 lock
+locka
 lockbourne
 locke
 lockeford
@@ -8990,7 +8980,6 @@ lyn
 lynbrook
 lynch
 lynchburg
-lynchburg
 lyncourt
 lynd
 lyndell
@@ -9025,6 +9014,7 @@ mabelvale
 maben
 mabscott
 mabton
+mac
 macamic
 macarthur
 macclenny
@@ -9206,6 +9196,7 @@ manorhaven
 manors
 manorville
 mansfield
+mansiysk
 manson
 mansura
 mantachie
@@ -9235,7 +9226,6 @@ maplewood
 maquoketa
 maquon
 mar
-mar-mac
 marais
 marana
 marano
@@ -9324,7 +9314,7 @@ marquette
 marquez
 marrakesh
 marrero
-marriott-slaterville
+marriott
 marrowbone
 mars
 marsala
@@ -9353,7 +9343,6 @@ marthasville
 marthaville
 marthe
 martin
-martins
 martindale
 martinez
 martins
@@ -9368,7 +9357,6 @@ marvel
 marvell
 marvin
 mary
-marys
 marydel
 maryhill
 maryland
@@ -9611,7 +9599,7 @@ mclean
 mcleansboro
 mcleansville
 mclemoresville
-mclendon-chisholm
+mclendon
 mcleod
 mcloud
 mclouth
@@ -9707,7 +9695,7 @@ melba
 melbeta
 melbourne
 melby
-melcher-dallas
+melcher
 melder
 meldrum
 melfa
@@ -9754,7 +9742,6 @@ mentasta
 mentmore
 mentone
 mentor
-mentor-on-the-lake
 meppen
 mequon
 mer
@@ -9834,7 +9821,7 @@ mexico
 mexicocity
 meyers
 meyersdale
-mi-wuk
+mi
 miami
 miamigardens
 miamisburg
@@ -9915,7 +9902,6 @@ milledgeville
 millen
 miller
 millers
-millers
 millersburg
 millersport
 millerstown
@@ -9957,7 +9943,6 @@ milolii
 milpitas
 milroy
 milton
-milton-freewater
 miltona
 miltonkeynes
 miltonvale
@@ -10235,7 +10220,6 @@ morenci
 moreno
 morenovalley
 morgan
-morgans
 morgana
 morganfield
 morgans
@@ -10477,7 +10461,7 @@ narod
 narrows
 narrowsburg
 naruna
-naryan-mar
+naryan
 nash
 nashoba
 nashotah
@@ -10559,6 +10543,7 @@ neilton
 nekoma
 nelagoney
 neligh
+nella
 nellie
 nellieburg
 nelliston
@@ -10751,6 +10736,7 @@ noonan
 noonday
 noorvik
 nopal
+nor
 nora
 noranda
 norbeck
@@ -10883,13 +10869,7 @@ nuyaka
 nyac
 nyack
 nye
-obrien
-oconnor
-odonnell
-ofallon
-okean
-oneals
-oneill
+o
 o`brien
 oacoma
 oak
@@ -10930,6 +10910,7 @@ obion
 obispo
 oblong
 obninsk
+obrien
 ocate
 occidental
 occoquan
@@ -10948,6 +10929,7 @@ ochopee
 ocilla
 ocoee
 oconee
+oconnor
 oconomowoc
 oconto
 ocracoke
@@ -10963,8 +10945,10 @@ odenville
 odessa
 odin
 odon
+odonnell
 oelrichs
 oelwein
+ofallon
 off
 offerle
 offerman
@@ -11006,6 +10990,7 @@ okaton
 okauchee
 okawville
 okay
+okean
 okeana
 okeechobee
 okeelanta
@@ -11085,6 +11070,7 @@ omer
 omo
 omro
 omsk
+on
 ona
 onaga
 onaka
@@ -11095,8 +11081,10 @@ onarga
 onava
 onawa
 onaway
+oneals
 onego
 oneida
+oneill
 onekama
 oneonta
 ong
@@ -11117,11 +11105,12 @@ oolitic
 oologah
 ooltewah
 oosh
-opa-locka
+opa
 opal
 opdyke
 opelika
 opelousas
+operative
 opheim
 ophir
 opihikao
@@ -11152,7 +11141,7 @@ ore
 oreana
 oregon
 oregonia
-orekhovo-zuyevo
+orekhovo
 oreland
 orem
 orenburg
@@ -11178,7 +11167,7 @@ orlinda
 orlovista
 orme
 ormeaux
-ormond-by-the-sea
+ormond
 ormsby
 oro
 orocovis
@@ -11731,7 +11720,7 @@ petrey
 petroleum
 petrolia
 petronila
-petropavlovsk-kamchatsky
+petropavlovsk
 petros
 petrozavodsk
 pettibone
@@ -11848,7 +11837,6 @@ pinery
 pines
 pinesdale
 pinetop
-pinetop-lakeside
 pinetops
 pinetown
 pinetta
@@ -12250,7 +12238,7 @@ purves
 purvis
 puryear
 push
-put-in-bay
+put
 putnam
 putnamville
 putney
@@ -12717,8 +12705,6 @@ rito
 rittman
 riva
 river
-river-academy
-river-winfree
 rivera
 riverbank
 riverdale
@@ -12847,7 +12833,7 @@ rollins
 rollinsford
 rollinsville
 rolls
-roma-los
+roma
 romancoke
 romayor
 rombauer
@@ -12917,6 +12903,7 @@ rosita
 roslyn
 rosman
 ross
+rossano
 rossburg
 rosser
 rossett
@@ -12928,7 +12915,7 @@ rosslyn
 rossmoor
 rosston
 rossville
-rostov-on-don
+rostov
 roswell
 rotan
 rothbury
@@ -13058,7 +13045,6 @@ ryderwood
 rye
 ryegate
 ryland
-snpj
 saarbrucken
 saarland
 saba
@@ -13100,6 +13086,7 @@ sailor
 saint
 sainte
 saintpetersburg
+sakhalinsk
 saks
 sal
 salaberry
@@ -13207,7 +13194,6 @@ sanostee
 sanremo
 sans
 sansom
-santelena
 santa
 santaana
 santaclara
@@ -13218,6 +13204,7 @@ santarosa
 sante
 santee
 santeetlah
+santelena
 santiago
 santo
 santos
@@ -13464,7 +13451,6 @@ seiling
 selah
 selawik
 selby
-selby-on-the-bay
 selbyville
 selden
 seldovia
@@ -13909,6 +13895,7 @@ snowdoun
 snowflake
 snowmass
 snowville
+snpj
 snyder
 snydertown
 soap
@@ -13927,7 +13914,7 @@ soderville
 sodus
 sofia
 soil
-sol-iletsk
+sol
 solana
 soldier
 soldiers
@@ -14099,7 +14086,6 @@ squaw
 squire
 squires
 st
-albert
 stabia
 stacy
 stacyville
@@ -14789,7 +14775,6 @@ thomastown
 thomasville
 thompson
 thompsons
-thompsons
 thompsontown
 thompsonville
 thomson
@@ -15085,8 +15070,7 @@ trevlac
 trevorton
 trevose
 treynor
-tri-city
-tri-lakes
+tri
 triadelphia
 triana
 triangle
@@ -15249,6 +15233,7 @@ tyumen
 ubly
 ucolo
 udall
+ude
 udell
 udine
 ufa
@@ -15257,7 +15242,7 @@ uhland
 uhrichsville
 uintah
 ukiah
-ulan-ude
+ulan
 ulen
 ullin
 ulm
@@ -15520,7 +15505,6 @@ viejo
 vienna
 vieques
 view
-view-on-hudson
 viewfield
 vigevano
 vigo
@@ -16198,7 +16182,7 @@ wildorado
 wildrose
 wildwood
 wiley
-wilkes-barre
+wilkes
 wilkesboro
 wilkeson
 wilkinsburg
@@ -16264,6 +16248,7 @@ wilton
 wimauma
 wimberley
 wimbledon
+win
 winborn
 winchell
 winchendon
@@ -16286,6 +16271,7 @@ windy
 winfall
 winfield
 winfred
+winfree
 wing
 wingate
 winger
@@ -16314,7 +16300,6 @@ winside
 winslow
 winsted
 winston
-winston-salem
 winstonville
 winter
 winterboro
@@ -16379,7 +16364,6 @@ wondervu
 wonewoc
 wonnie
 wood
-wood-ridge
 woodacre
 woodardville
 woodberry
@@ -16469,6 +16453,7 @@ wrightstown
 wrightsville
 wrightwood
 wrigley
+wuk
 wurtland
 wurtsboro
 wurttemberg
@@ -16589,7 +16574,7 @@ yorkton
 yorktown
 yorkville
 yosemite
-yoshkar-ola
+yoshkar
 young
 youngstown
 youngsville
@@ -16606,7 +16591,7 @@ yukon
 yulee
 yuma
 yutan
-yuzhno-sakhalinsk
+yuzhno
 zachary
 zafra
 zag
@@ -16657,5 +16642,6 @@ zumbro
 zumbrota
 zuni
 zurich
+zuyevo
 zwingle
 zwolle

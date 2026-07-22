@@ -6,10 +6,9 @@ aero
 ail
 aito
 alfa
-alfa romeo
 alpina
 alvis
-american motors
+american
 amg
 amphicar
 ansted
@@ -21,7 +20,6 @@ artega
 ascari
 aspark
 aston
-aston martin
 auburn
 audi
 aurus
@@ -30,6 +28,8 @@ autobianchi
 automobil
 automotive
 autozam
+avenue
+barracuda
 bentley
 benz
 bestune
@@ -41,43 +41,49 @@ bremach
 brilliance
 bugatti
 buick
-buick apollo
-buick centurion
-buick park avenue
-buick reatta
 byd
+c
 cadillac
-cadillac ct
-cadillac eldorado
+camaro
 cameron
+car
+caravan
 cars
-cayenne coupe
+cayenne
+centurion
 chaika
 changan
 changhe
 checker
+cherokee
 chery
 chevrolet
-chevrolet camaro
-chevrolet corvette
-chevrolet corvette stingray
-chevrolet impala
 chongqing
 chrysler
-chrysler cirrus
-chrysler concorde
+cirrus
 citroen
 cole
+commander
 company
+compass
+concorde
+continental
+convertible
 cord
+corvette
+coupe
+cranbrook
 crossland
+ct
 dacia
 daewoo
 daf
 daihatsu
+dakota
 datsun
 de
 delorean
+deluxe
 denza
 derways
 desoto
@@ -86,15 +92,13 @@ diamond
 dkw
 dmc
 dodge
-dodge caravan
-dodge dakota
-dodge magnum
 dome
 dongfeng
-dr motor
+dr
 eagle
 edsel
 efini
+eldorado
 engineering
 eunos
 excalibur
@@ -103,17 +107,16 @@ facel
 faw
 ferrari
 fiat
+fiesta
 fisker
 fleetwood
 flyer
+focus
 ford
-ford  c-max
-ford fiesta
-ford focus
-ford mondeo
 fornasari
 foton
-freightliner trucks
+frazer
+freightliner
 fso
 gac
 gazelle
@@ -125,11 +128,13 @@ giulia
 glickenhaus
 gmc
 gonow
+grand
 granta
 great
 grecav
 gumpert
 haima
+harvester
 hiphi
 holden
 honda
@@ -141,10 +146,10 @@ huracan
 hycan
 hyundai
 im
+impala
 industries
 infiniti
-international harvester
-international trucks
+international
 iran
 isdera
 iskra
@@ -155,13 +160,10 @@ izh
 jac
 jaguar
 jeep
-jeep commander
-jeep compass
-jeep grand cherokee
 jetour
 jinbei
 jmev
-kaiser-frazer
+kaiser
 kamaz
 karma
 keinath
@@ -175,9 +177,7 @@ lada
 lagonda
 lamborghini
 lancia
-lancia voyager
 land
-land rover
 landwind
 largus
 ldv
@@ -189,18 +189,16 @@ li
 lifan
 ligier
 lincoln
-lincoln continental
-lincoln mks
-lincoln town car
 linn
 linxys
 lotec
 lotus
-lucid motors
+lucid
 luxeed
 luxgen
 macan
-mack trucks
+mack
+magnum
 man
 martin
 marussia
@@ -208,17 +206,19 @@ maruti
 maserati
 massif
 matra
+max
 maxus
 maybach
 mazda
 mclaren
 mercedes
-mercedes-benz
 mercury
 mg
 mini
 mitsubishi
 mitsuoka
+mks
+mondeo
 morgan
 moscvich
 moscwich
@@ -241,17 +241,14 @@ paccar
 packard
 pagani
 panoz
+park
 patriot
 peel
 perodua
 peterbilt
 peugeot
 pierce
-pierce-arrow
 plymouth
-plymouth barracuda sport coupe
-plymouth cranbrook convertible
-plymouth special deluxe sedan
 polar
 polestar
 polo
@@ -266,11 +263,13 @@ qiyuan
 ram
 rambler
 ravon
+reatta
 renault
 rezvani
-rolls-royce
+rolls
 romeo
 rover
+royce
 ruf
 saab
 sadko
@@ -281,6 +280,7 @@ scania
 scion
 scuderia
 seat
+sedan
 senat
 seres
 shelby
@@ -289,12 +289,15 @@ skywell
 smart
 sobol
 soueast
+special
 spider
+sport
 spyker
 ssangyong
 ssc
 standard
 star
+stingray
 stone
 stralis
 studebaker
@@ -311,11 +314,13 @@ tomaso
 tommykaira
 tonale
 touareg
+town
 toyota
 trabant
 trakker
 trion
 triumph
+trucks
 turbo
 turbostar
 uaz
@@ -324,7 +329,6 @@ urus
 vanderhall
 vauxhall
 vector
-motors
 vega
 venucia
 vertis
@@ -332,12 +336,13 @@ vesta
 volga
 volkswagen
 volvo
+voyager
 wall
 wartburg
 way
 weichai
 weltmeister
-western star
+western
 wiesmann
 willys
 xcite

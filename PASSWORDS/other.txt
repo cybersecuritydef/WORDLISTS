@@ -931,6 +931,7 @@ carroll
 carrying
 cars
 carsamba
+cart
 cary
 case
 casey
@@ -1266,7 +1267,6 @@ cryer
 cryptid
 crystal
 cs
-cs-cart
 csupo
 cthulhu
 cu
@@ -2128,7 +2128,6 @@ goat
 goatcx
 goatse
 goblin
-god
 god
 goddard
 goddess
@@ -3211,7 +3210,7 @@ lime
 limited
 limnades
 limones
-lin-manuel
+lin
 lincolnshire
 lindworm
 line
@@ -3361,7 +3360,6 @@ maltese
 mammal
 mammoth
 mamuna
-man
 man
 manananggal
 manaphy
