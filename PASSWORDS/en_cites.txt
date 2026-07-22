@@ -8990,7 +8990,7 @@ lyn
 lynbrook
 lynch
 lynchburg
-lynchburg,
+lynchburg
 lyncourt
 lynd
 lyndell
