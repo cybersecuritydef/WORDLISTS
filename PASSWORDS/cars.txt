@@ -116,8 +116,6 @@ coupe
 cranbrook
 crossland
 crossley
-ct
-ct&t
 dacia
 daewoo
 daf
