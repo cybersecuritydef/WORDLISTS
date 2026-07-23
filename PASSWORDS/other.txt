@@ -911,7 +911,6 @@ carell
 carey
 caribbean
 carl
-carlos
 carlyle
 carmilla
 carnage
@@ -3390,7 +3389,6 @@ mapinguari
 mapuche
 mara
 marabbecca
-maradona
 march
 marco
 mare
@@ -4125,7 +4123,6 @@ pegg
 pegging
 peguila
 pek
-pele
 pelesit
 pellegrino
 peluda
@@ -4528,11 +4525,7 @@ romero
 romita
 rompo
 ron
-ronald
-ronaldinho
-ronaldo
 rong
-rooney
 rooster
 ropen
 rosebuds
@@ -5903,17 +5896,13 @@ zhar
 zhu
 zhulong
 ziburinis
-zico
-zidane
 zilant
 zilla
 zimbabwean
 zimm
 zin
-zinedine
 zip
 ziz
-zlatan
 zlatorog
 zmeu
 zmeyevich
