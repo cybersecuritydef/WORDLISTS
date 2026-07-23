@@ -3519,8 +3519,6 @@ cruyff
 cruz
 cryer
 crystal
-ct
-ct&t
 cuadrado
 cuccia
 cudd
