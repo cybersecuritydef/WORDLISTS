@@ -893,15 +893,18 @@ bastarache
 basten
 bastian
 bastien
+bat
 batchelder
 batchelor
 bate
 bateman
 bates
 batey
+batgirl
 batie
 batista
 batiste
+batman
 bator
 batres
 batson
@@ -2284,6 +2287,7 @@ calderone
 caldwell
 cale
 caleb
+calendar
 cales
 caley
 calfee
@@ -2613,6 +2617,7 @@ catoe
 caton
 catron
 catt
+catwoman
 caudell
 caudill
 caudillo
@@ -2937,6 +2942,7 @@ clay
 clayborn
 clayborne
 claycomb
+clayface
 claypool
 claypoole
 clayton
@@ -3013,6 +3019,7 @@ coaxum
 cobb
 cobbins
 cobble
+cobblepot
 cobbs
 coble
 cobos
@@ -3114,6 +3121,7 @@ comer
 comerford
 comfort
 commander
+commissioner
 commons
 como
 company
@@ -3447,6 +3455,7 @@ critchlow
 crites
 crittenden
 crittendon
+croc
 croce
 crochet
 crocker
@@ -5154,6 +5163,7 @@ fiona
 fiore
 fiorentino
 fiqueroa
+firefly
 firestone
 firth
 fischer
@@ -5831,6 +5841,7 @@ getz
 geyer
 gholson
 gholston
+ghul
 gianluigi
 giannini
 giannis
@@ -6651,6 +6662,7 @@ harkless
 harkness
 harlan
 harland
+harleen
 harless
 harley
 harlow
@@ -7821,6 +7833,7 @@ jermaine
 jernigan
 jerome
 jerry
+jervis
 jeske
 jesse
 jessee
@@ -7877,6 +7890,7 @@ johnston
 johnstone
 johson
 joiner
+joker
 jokic
 jolene
 jolin
@@ -8222,6 +8236,7 @@ kilkenny
 killebrew
 killeen
 killen
+killer
 killian
 killingsworth
 killion
@@ -8716,6 +8731,7 @@ langhorne
 langley
 langlois
 langston
+langstrom
 langton
 langworthy
 lanham
@@ -9514,6 +9530,7 @@ lynch
 lynda
 lynk
 lynn
+lynns
 lyon
 lyons
 lyric
@@ -9565,6 +9582,7 @@ macpherson
 macrae
 macri
 macy
+mad
 madden
 maddock
 maddox
@@ -11298,6 +11316,7 @@ nies
 nieto
 nieves
 nightingale
+nightwing
 nigro
 nikita
 nikola
@@ -11418,6 +11437,7 @@ nuzzo
 nyberg
 nye
 nygaard
+nygma
 nyman
 nystrom
 oakes
@@ -11987,6 +12007,7 @@ pendleton
 pendley
 penelope
 peng
+penguin
 penick
 penix
 penland
@@ -11999,6 +12020,7 @@ penney
 pennington
 pennock
 penny
+pennyworth
 penrod
 penrose
 penson
@@ -12278,6 +12300,7 @@ pohlman
 poindexter
 pointer
 poirier
+poison
 poisson
 poitra
 poitras
@@ -12566,6 +12589,7 @@ quintana
 quintanilla
 quintero
 quinton
+quinzel
 quirion
 quirk
 quiroga
@@ -12688,6 +12712,7 @@ rapoza
 rapp
 rappaport
 rarick
+ras
 rasberry
 rasch
 rasco
@@ -12962,6 +12987,7 @@ rico
 riddell
 riddick
 riddle
+riddler
 ridenhour
 ridenour
 rideout
@@ -13632,6 +13658,7 @@ scannell
 scarberry
 scarborough
 scarbrough
+scarecrow
 scarlett
 scat
 scates
@@ -13880,6 +13907,7 @@ selene
 self
 selfridge
 selig
+selina
 sell
 sellars
 selleck
@@ -14242,6 +14270,7 @@ sink
 sinn
 sinnott
 sinquefield
+sionis
 sipe
 sipes
 sipos
@@ -15262,6 +15291,7 @@ testa
 tester
 testerman
 teston
+tetch
 teter
 tetreault
 tevis
@@ -15717,6 +15747,7 @@ twiggs
 twilley
 twitchell
 twitty
+twoface
 twombly
 twomey
 twyman
@@ -15962,6 +15993,7 @@ venable
 venegas
 venezia
 vento
+ventriloquist
 ventura
 venturi
 venucia
@@ -16261,6 +16293,7 @@ waverly
 wax
 way
 wayland
+waylon
 wayman
 waymire
 wayne
@@ -16376,6 +16409,7 @@ werth
 werts
 wertz
 wescott
+wesker
 wesley
 wesner
 wesolowski
@@ -17025,6 +17059,7 @@ zollinger
 zook
 zorn
 zotye
+zsasz
 zuber
 zubia
 zucker
