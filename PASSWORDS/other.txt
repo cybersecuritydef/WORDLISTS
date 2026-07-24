@@ -129,6 +129,7 @@ alexis
 aleya
 alfred
 alfredo
+algebra
 alghoul
 algonquian
 ali
@@ -353,6 +354,7 @@ astaire
 astin
 astomi
 astra
+astronomy
 asturian
 asura
 aswang
@@ -632,6 +634,7 @@ bimbos
 binbogami
 bing
 biollante
+biology
 bioshock
 bipedal
 bird
@@ -1032,6 +1035,7 @@ chat
 chaucer
 checkpoint
 cheeses
+chemistry
 chen
 chenoo
 chepi
@@ -1199,6 +1203,7 @@ come
 comics
 commerce
 company
+computer
 conan
 congo
 connecticut
@@ -1672,6 +1677,7 @@ echo
 eckhart
 eclipses
 ecommerce
+economics
 ed
 eddie
 eden
@@ -1679,6 +1685,7 @@ edgar
 edimmu
 edition
 eduardo
+education
 edward
 edwards
 edwin
@@ -1761,6 +1768,7 @@ enko
 enochian
 entei
 enterprise
+environmental
 epam
 epe
 epimeliad
@@ -1961,6 +1969,7 @@ for
 forbidden
 force
 ford
+foreign
 forest
 form
 forsythe
@@ -2114,6 +2123,8 @@ genitals
 genius
 gentoo
 geoffrey
+geography
+geometry
 george
 georgia
 gerani
@@ -2516,6 +2527,7 @@ hircocervus
 hironobu
 hirsch
 hirtik
+history
 hit
 hitachi
 hitchcock
@@ -3187,6 +3199,7 @@ lang
 langelaan
 langmeidong
 langsuir
+language
 lanmolas
 lantern
 lao
@@ -3523,7 +3536,9 @@ masturbation
 mat
 matagot
 mate
+mathematics
 matheson
+maths
 matsya
 matt
 mattel
@@ -4297,6 +4312,8 @@ phoenician
 phoenix
 phone
 photoshop
+physical
+physics
 pi
 piasa
 piatek
@@ -4585,6 +4602,7 @@ reilly
 reiner
 reinman
 religion
+religious
 remains
 renner
 rephaite
@@ -5059,6 +5077,7 @@ snipes
 snow
 snowballing
 sobek
+social
 society
 soda
 sodehiki
@@ -5205,6 +5224,7 @@ stryker
 strzyga
 stuart
 stubborn
+studies
 studio
 stuha
 stuhac
