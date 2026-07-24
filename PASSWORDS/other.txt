@@ -112,6 +112,7 @@ alain
 alaios
 alal
 alan
+alaska
 alaskan
 alastor
 albanian
@@ -289,8 +290,10 @@ argus
 arikura
 arimaspi
 arion
+arizona
 arj
 arkan
+arkansas
 arlaud
 arliss
 armed
@@ -863,6 +866,7 @@ calavera
 caleb
 calf
 caliban
+california
 calingi
 call
 calliope
@@ -918,6 +922,7 @@ carnevil
 carney
 carnivorous
 carol
+carolina
 carp
 carpathian
 carpenter
@@ -1158,6 +1163,7 @@ colo
 colomar
 colombian
 colony
+colorado
 colossal
 coltrane
 columbus
@@ -1169,6 +1175,7 @@ commerce
 company
 conan
 congo
+connecticut
 connery
 connick
 connolly
@@ -1323,6 +1330,7 @@ daiei
 dairou
 daitengu
 daitya
+dakota
 daleks
 dam
 dame
@@ -1393,6 +1401,7 @@ deivs
 deku
 del
 delambre
+delaware
 dell
 delon
 demeter
@@ -1884,6 +1893,7 @@ flies
 floating
 flores
 florey
+florida
 floyd
 fluffy
 fly
@@ -2052,6 +2062,7 @@ genitals
 genius
 geoffrey
 george
+georgia
 gerani
 gerard
 geras
@@ -2305,6 +2316,7 @@ hamidon
 hamill
 hamingja
 hamm
+hampshire
 hamsa
 han
 hanakosan
@@ -2349,6 +2361,7 @@ haunted
 haunts
 havik
 havsra
+hawaii
 hawaiian
 hawk
 hawkeye
@@ -2590,6 +2603,7 @@ ichthyosaur
 ichthysaur
 icicle
 ickis
+idaho
 idris
 iele
 if
@@ -2602,6 +2616,7 @@ ikiryo
 iku
 ikuchi
 il
+illinois
 illithid
 images
 imessage
@@ -2625,6 +2640,7 @@ incubus
 indeterminate
 india
 indian
+indiana
 indonesia
 indonesian
 indrik
@@ -2652,6 +2668,7 @@ invisible
 invunche
 ioan
 ior
+iowa
 ip
 ipos
 ipotane
@@ -2858,6 +2875,7 @@ kang
 kangla
 kano
 kanpoku
+kansas
 kappa
 kapre
 kara
@@ -2909,6 +2927,7 @@ kenneth
 keno
 kenshi
 kensho
+kentucky
 kenya
 ker
 keralite
@@ -3264,6 +3283,7 @@ lotuseaters
 lou
 loudness
 louis
+louisiana
 loup
 louri
 love
@@ -3330,6 +3350,7 @@ mahershala
 mahuika
 mai
 maiden
+maine
 mairu
 majas
 majitu
@@ -3414,10 +3435,12 @@ martyrs
 marvel
 marvin
 mary
+maryland
 masaaki
 masao
 masked
 maski
+massachusetts
 massacre
 master
 masters
@@ -3525,9 +3548,11 @@ meteoric
 mew
 mewtwo
 mexican
+mexico
 michael
 michel
 michelinie
+michigan
 mickey
 micky
 micro
@@ -3558,6 +3583,7 @@ mineral
 miniature
 minilla
 minka
+minnesota
 minokawa
 minor
 minotaur
@@ -3576,6 +3602,8 @@ misi
 miskito
 misleads
 missionary
+mississippi
+missouri
 mist
 mister
 mitchell
@@ -3625,6 +3653,7 @@ monroe
 monster
 monsters
 monstrous
+montana
 montauk
 monteith
 montgomery
@@ -3766,6 +3795,7 @@ nazgl
 neal
 near
 neat
+nebraska
 neck
 necked
 needed
@@ -3795,6 +3825,7 @@ network
 networks
 neumann
 neutral
+nevada
 neville
 new
 newhart
@@ -3862,6 +3893,7 @@ norman
 norns
 norris
 norse
+north
 northern
 norton
 nos
@@ -3954,6 +3986,7 @@ okami
 okawara
 okiku
 okinawa
+oklahoma
 oksoko
 okubi
 okuri
@@ -4000,6 +4033,7 @@ orca
 ordog
 ordung
 oread
+oregon
 orga
 orgasm
 orgy
@@ -4133,6 +4167,7 @@ peng
 penghou
 penis
 penn
+pennsylvania
 pennywise
 people
 pepper
@@ -4466,6 +4501,7 @@ revives
 rex
 reynolds
 rhedosaurus
+rhode
 richard
 richards
 richardson
@@ -5219,6 +5255,7 @@ temuera
 tencent
 tengu
 tennant
+tennessee
 tennin
 tentacle
 tepegoz
@@ -5509,6 +5546,7 @@ uso
 usquebae
 ustinov
 usually
+utah
 utsubo
 utukku
 uwan
@@ -5554,6 +5592,7 @@ venom
 venomous
 venus
 veri
+vermont
 version
 very
 vetala
@@ -5583,6 +5622,7 @@ violet
 violeta
 vipnet
 vipunen
+virginia
 virunas
 virus
 vishap
@@ -5737,6 +5777,7 @@ winter
 winters
 wipro
 wirry
+wisconsin
 wise
 wishpoosh
 wisp
@@ -5784,6 +5825,7 @@ wu
 wukong
 wulver
 wyle
+wyoming
 wyott
 wyrm
 wyvern
@@ -5845,6 +5887,7 @@ yomi
 yomotsu
 yonejiro
 yong
+york
 yorkshire
 yoruba
 yose
