@@ -73,6 +73,7 @@ addington
 addis
 addison
 addy
+adele
 adeline
 adelman
 adelson
@@ -89,6 +90,7 @@ adorno
 adrian
 aero
 agan
+agata
 agatha
 agee
 agnes
@@ -188,6 +190,8 @@ aleman
 aleshire
 alessandro
 alessi
+alessia
+alessio
 alex
 alexander
 alexandra
@@ -273,8 +277,10 @@ alves
 alvey
 alvis
 alvord
+amadeo
 amado
 amador
+amalia
 aman
 amanda
 amann
@@ -447,6 +453,7 @@ arguelles
 arguello
 argueta
 ariana
+arianna
 arias
 ariel
 arispe
@@ -504,6 +511,7 @@ artis
 artman
 artrip
 artur
+arturo
 artz
 arvin
 arvizu
@@ -585,6 +593,7 @@ ault
 aultman
 auman
 aurand
+aurelio
 aurora
 aurus
 aust
@@ -699,6 +708,7 @@ bakos
 balas
 balch
 balcom
+baldassare
 balderas
 balderrama
 baldridge
@@ -866,6 +876,7 @@ bartley
 bartling
 barto
 bartolome
+bartolomeo
 barton
 bartos
 bartsch
@@ -1120,6 +1131,7 @@ bengtson
 benham
 benites
 benitez
+benito
 benjamin
 benn
 benner
@@ -1236,6 +1248,7 @@ beyer
 beyers
 bezanson
 bhakta
+bianca
 bianchi
 bianco
 bias
@@ -2465,6 +2478,7 @@ carlyle
 carmack
 carman
 carmean
+carmelo
 carmen
 carmichael
 carmody
@@ -2609,6 +2623,7 @@ catchings
 cate
 cater
 caterham
+caterina
 cates
 cathcart
 catherine
@@ -2682,6 +2697,7 @@ cerrato
 cervantes
 cervantez
 cesar
+cesare
 cespedes
 cha
 chabot
@@ -2819,6 +2835,7 @@ chewning
 cheyenne
 chi
 chiang
+chiara
 chiasson
 chichester
 chick
@@ -3296,6 +3313,7 @@ cosby
 cosentino
 cosey
 cosgrove
+cosimo
 cosme
 cosner
 cosper
@@ -3451,6 +3469,7 @@ criss
 crissman
 crist
 cristiano
+cristina
 cristobal
 criswell
 critchfield
@@ -3684,6 +3703,7 @@ dangelo
 dangerfield
 dani
 daniel
+daniele
 daniell
 daniella
 danielle
@@ -3698,6 +3718,7 @@ danner
 danny
 danos
 dansby
+dante
 dantonio
 dantzler
 dao
@@ -3709,6 +3730,7 @@ dardar
 darden
 dare
 dargan
+dario
 dark
 darla
 darlene
@@ -3744,6 +3766,7 @@ davenport
 daves
 davey
 david
+davide
 davidson
 davie
 davies
@@ -4203,6 +4226,7 @@ dombroski
 dombrowski
 dome
 domenech
+domenico
 domingo
 domingue
 domingues
@@ -4218,6 +4242,7 @@ donahoe
 donahue
 donald
 donaldson
+donatella
 donati
 donato
 donegan
@@ -4610,6 +4635,7 @@ edmund
 edmunds
 edmundson
 edney
+edoardo
 edsel
 edson
 edward
@@ -4672,6 +4698,8 @@ elias
 eliason
 elie
 elijah
+elio
+elisabetta
 elisha
 eliza
 elizabeth
@@ -4730,7 +4758,9 @@ emery
 emig
 emil
 emilia
+emiliano
 emilie
+emilio
 emily
 emma
 emmalyn
@@ -4776,6 +4806,7 @@ ennis
 enoch
 enochs
 enos
+enrico
 enright
 enriquez
 ensign
@@ -4783,6 +4814,7 @@ ensley
 ensminger
 ensor
 entrekin
+enzo
 eoff
 epley
 epling
@@ -4794,9 +4826,11 @@ epps
 epstein
 erazo
 erb
+ercole
 erdman
 erdmann
 eric
+erica
 ericksen
 erickson
 ericson
@@ -4921,6 +4955,7 @@ ezzell
 fabela
 faber
 fabian
+fabio
 fabre
 fabrizio
 fabry
@@ -5136,6 +5171,7 @@ fikes
 filer
 files
 filip
+filippo
 filkins
 fillmore
 filson
@@ -5209,6 +5245,7 @@ flannery
 flannigan
 flatt
 flaugher
+flavio
 fleck
 fleckenstein
 fleeman
@@ -5374,6 +5411,8 @@ frame
 frampton
 france
 frances
+francesca
+francesco
 francine
 francis
 francisco
@@ -5561,6 +5600,7 @@ gaddy
 gadsden
 gadson
 gaeta
+gaetano
 gaffney
 gafford
 gage
@@ -5568,6 +5608,7 @@ gagliano
 gagliardi
 gagne
 gagnon
+gaia
 gail
 gailey
 gaillard
@@ -5785,6 +5826,7 @@ gelinas
 geller
 gelman
 gemballa
+gemma
 gemmill
 genao
 gendreau
@@ -5793,6 +5835,7 @@ general
 genesis
 genest
 gennady
+gennaro
 geno
 genova
 genovese
@@ -5922,6 +5965,7 @@ gina
 ginder
 gines
 ginetta
+ginevra
 ginger
 gingerich
 gingras
@@ -5934,6 +5978,9 @@ ginter
 ginther
 gioia
 giordano
+giorgio
+giovanna
+giovanni
 gipe
 gipson
 giraldo
@@ -5947,6 +5994,7 @@ gist
 gittens
 giulia
 giuliano
+giuseppe
 giusti
 given
 givens
@@ -6198,6 +6246,7 @@ graybill
 grayer
 grays
 grayson
+grazia
 graziano
 great
 greathouse
@@ -7605,6 +7654,8 @@ igor
 ikeda
 iker
 ikner
+ilaria
+ilario
 iles
 iliff
 im
@@ -8856,6 +8907,7 @@ lavery
 lavigne
 lavin
 lavine
+lavinia
 lavoie
 law
 lawerence
@@ -9074,6 +9126,7 @@ lesure
 letchworth
 letellier
 letendre
+letizia
 leto
 letourneau
 letson
@@ -9432,6 +9485,7 @@ lozoya
 lu
 lubin
 luby
+luca
 lucas
 luce
 lucero
@@ -9450,6 +9504,7 @@ lucky
 lucus
 lucy
 ludlow
+ludovico
 ludwick
 ludwig
 luebbert
@@ -9816,6 +9871,7 @@ mares
 maresca
 marez
 margaret
+margherita
 margolis
 margot
 maria
@@ -9886,6 +9942,7 @@ marshal
 marshall
 marshburn
 marston
+marta
 marte
 martel
 martell
@@ -9937,6 +9994,7 @@ massengill
 massey
 massie
 massif
+massimo
 massingill
 masson
 mast
@@ -9966,6 +10024,7 @@ mathis
 mathison
 matias
 matilda
+matilde
 matlock
 matney
 matos
@@ -9977,6 +10036,7 @@ matsumoto
 matt
 matta
 matte
+matteo
 matter
 mattern
 matteson
@@ -9985,6 +10045,7 @@ matthew
 matthews
 matthias
 matthies
+mattia
 mattice
 mattie
 mattingly
@@ -10724,6 +10785,7 @@ miramontes
 miranda
 mire
 mireles
+miriam
 miron
 mishler
 miskell
@@ -11279,6 +11341,7 @@ ng
 ngo
 nguyen
 nicastro
+niccolo
 nice
 nicely
 nichol
@@ -11300,6 +11363,7 @@ nickles
 nickols
 nicks
 nickson
+nico
 nicol
 nicola
 nicolai
@@ -11356,6 +11420,7 @@ noda
 noe
 noel
 noell
+noemi
 noga
 nokes
 nolan
@@ -11618,6 +11683,7 @@ ormond
 ormsby
 orndorff
 ornelas
+ornella
 orona
 oropeza
 orosco
@@ -11784,6 +11850,7 @@ panoz
 panther
 pantoja
 panton
+paola
 paolo
 paolucci
 papa
@@ -11891,6 +11958,7 @@ patricio
 patrick
 patridge
 patriot
+patrizio
 patt
 patten
 patterson
@@ -12187,6 +12255,7 @@ piero
 pierre
 pierro
 pierson
+pietro
 pifer
 pigford
 pigg
@@ -12634,6 +12703,7 @@ rael
 raelynn
 rafael
 raffa
+raffaele
 rafferty
 ragan
 rager
@@ -12879,6 +12949,7 @@ remington
 remley
 remy
 renard
+renata
 renaud
 renault
 rencher
@@ -12957,6 +13028,7 @@ rhyne
 ribeiro
 ricard
 ricardo
+riccardo
 ricci
 ricciardi
 riccio
@@ -13554,6 +13626,7 @@ sandoval
 sandoz
 sandra
 sandridge
+sandro
 sands
 sandstrom
 sandusky
@@ -13939,6 +14012,7 @@ sepulveda
 sequeira
 sera
 serafin
+serena
 seres
 sergent
 sergio
@@ -14718,6 +14792,7 @@ steely
 steen
 steere
 steeves
+stefania
 stefano
 stefanski
 steffan
@@ -15495,6 +15570,7 @@ tomita
 tomko
 tomlin
 tomlinson
+tommaso
 tommykaira
 tompkins
 tompson
@@ -15854,6 +15930,7 @@ valentine
 valentino
 valenzuela
 valera
+valeria
 valerie
 valerio
 valero
@@ -16098,10 +16175,12 @@ vital
 vitale
 vitali
 vito
+vittorio
 viveiros
 viverette
 viveros
 vivian
+viviana
 viviano
 vivier
 vizcaino
