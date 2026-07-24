@@ -22,6 +22,7 @@ abra
 abraham
 abrahamic
 abrams
+absolute
 abumi
 abura
 abzar
@@ -45,6 +46,7 @@ adams
 adar
 adarna
 adaro
+adelie
 adhene
 adler
 adlet
@@ -59,6 +61,7 @@ adze
 aegipanes
 aerico
 aerosmith
+aerynos
 aesir
 aeternae
 afanc
@@ -151,6 +154,7 @@ alp
 alphabet
 alphaville
 alphyn
+alpine
 alraune
 alseid
 alt
@@ -233,12 +237,14 @@ ant
 antaeus
 antelope
 antennae
+antergos
 antero
 anthony
 anthropomorphic
 anthropophagic
 anthropophagous
 anti
+antix
 antlered
 antlers
 antlion
@@ -281,6 +287,7 @@ archer
 archespore
 archive
 archura
+arcolinux
 arctic
 ardat
 are
@@ -312,6 +319,7 @@ arthur
 arthurian
 articuno
 artists
+artix
 as
 asag
 asakku
@@ -344,6 +352,7 @@ assyrian
 astaire
 astin
 astomi
+astra
 asturian
 asura
 aswang
@@ -650,6 +659,7 @@ blaze
 bleach
 blemmyae
 blended
+blendos
 bless
 blind
 bliss
@@ -677,6 +687,7 @@ boar
 bob
 bobby
 bodach
+bodhi
 body
 boeingorion
 bog
@@ -797,6 +808,7 @@ bsd
 bucca
 bud
 buddhist
+budgie
 budnik
 buer
 buffalo
@@ -851,6 +863,7 @@ caan
 cab
 cabanne
 cabeiri
+cachyos
 cactuar
 cacus
 cadaver
@@ -868,6 +881,7 @@ caine
 caipora
 caladrius
 calavera
+calculate
 caleb
 calf
 caliban
@@ -974,6 +988,7 @@ centaurid
 centauride
 centauroid
 centicore
+centos
 centr
 central
 cera
@@ -1122,6 +1137,7 @@ clavell
 claw
 clayface
 clayton
+clear
 cleaver
 cleese
 cleveland
@@ -1277,6 +1293,7 @@ crowded
 crowdstrike
 crowe
 cruise
+crunchbang
 crusaders
 cruyff
 cryer
@@ -1372,6 +1389,7 @@ darkseid
 darren
 darrig
 darrius
+darwin
 dash
 datara
 date
@@ -1403,6 +1421,7 @@ decemberists
 ded
 dee
 deep
+deepin
 deepthroat
 deer
 defalco
@@ -1453,6 +1472,7 @@ devils
 devito
 devouring
 devours
+devuan
 dew
 dhampir
 dhu
@@ -1554,7 +1574,9 @@ dracaenae
 dracon
 dracula
 dragon
+dragonfly
 dragons
+dragora
 drahmin
 draining
 drakaina
@@ -1655,6 +1677,7 @@ eddie
 eden
 edgar
 edimmu
+edition
 eduardo
 edward
 edwards
@@ -1691,6 +1714,7 @@ electro
 electronics
 element
 elemental
+elementary
 elepaio
 elephant
 eleven
@@ -1723,6 +1747,8 @@ encantado
 enchanted
 end
 ende
+endeavouros
+endless
 endpoint
 enemies
 enemy
@@ -1833,6 +1859,7 @@ fear
 fearsome
 feathered
 fecal
+fedora
 feeds
 feet
 fei
@@ -1895,6 +1922,7 @@ firth
 fish
 fishburne
 fisherman
+fishy
 fisting
 fiuggi
 fiura
@@ -1966,9 +1994,11 @@ fred
 freddie
 freddy
 fredric
+free
 freeman
 french
 frenz
+fresh
 freshwater
 freund
 freybug
@@ -1979,6 +2009,7 @@ frog
 from
 frost
 frotting
+frugalware
 fry
 fryer
 fuath
@@ -2081,6 +2112,7 @@ genievre
 genii
 genitals
 genius
+gentoo
 geoffrey
 george
 georgia
@@ -2209,6 +2241,7 @@ gough
 gould
 goulet
 gozer
+gparted
 grace
 grain
 grainfields
@@ -2285,6 +2318,7 @@ guide
 guillermo
 guinea
 guinness
+guixsd
 gulon
 gumiho
 gunai
@@ -2359,6 +2393,7 @@ hantu
 hao
 hard
 hardcore
+hardened
 hardware
 hardy
 hares
@@ -2879,6 +2914,7 @@ kal
 kala
 kalakeyas
 kalapuya
+kali
 kallikantzaroi
 kallikantzaros
 kalliope
@@ -2901,6 +2937,7 @@ kangla
 kano
 kanpoku
 kansas
+kaos
 kappa
 kapre
 kara
@@ -2931,6 +2968,7 @@ kaukas
 kawa
 kayeri
 kazuki
+kde
 keane
 keanu
 keaton
@@ -3031,6 +3069,7 @@ kobayashi
 kobold
 kobra
 kochi
+kodachi
 kodama
 kofewalt
 kohei
@@ -3068,6 +3107,7 @@ kting
 kuarahy
 kubikajiri
 kubo
+kubuntu
 kuchisake
 kuda
 kudan
@@ -3269,12 +3309,14 @@ lips
 lisa
 list
 listed
+lite
 literature
 lithgow
 lithuanian
 litra
 little
 liu
+live
 livesex
 living
 lizard
@@ -3321,6 +3363,7 @@ lover
 lovett
 luachra
 lubber
+lubuntu
 lucifer
 luduan
 ludwig
@@ -3362,6 +3405,7 @@ madremonte
 maenad
 maero
 magari
+mageia
 magento
 magic
 magical
@@ -3424,6 +3468,7 @@ mangaia
 manhandla
 maniac
 manifests
+manjaro
 mannegishi
 manning
 manny
@@ -3477,6 +3522,7 @@ masturbating
 masturbation
 mat
 matagot
+mate
 matheson
 matsya
 matt
@@ -3618,6 +3664,7 @@ minnesota
 minokawa
 minor
 minotaur
+mint
 mintuci
 minyak
 minyans
@@ -3770,6 +3817,7 @@ musimon
 muslim
 mutant
 muturangi
+mx
 my
 myers
 myling
@@ -3844,6 +3892,7 @@ nekomusume
 nelson
 nemean
 nemesis
+neon
 neonazi
 nepalese
 nephilim
@@ -3852,7 +3901,9 @@ nerai
 nereid
 nereus
 ness
+net
 netcat
+netrunner
 netstat
 network
 networks
@@ -3908,6 +3959,7 @@ nivatakavachas
 niven
 nix
 nixie
+nixos
 no
 noah
 nobusuma
@@ -3917,6 +3969,7 @@ nog
 nohoggr
 noises
 nokia
+nomad
 nomu
 noo
 noob
@@ -4057,9 +4110,11 @@ oogie
 ooze
 oozlum
 opencart
+opensuse
 ophiotaurus
 opinicus
 opiyel
+opnsense
 or
 oracle
 orang
@@ -4173,6 +4228,7 @@ pattinson
 patupairehe
 paul
 pazuzu
+pclinuxos
 peace
 peacemaker
 peacock
@@ -4208,6 +4264,7 @@ pennsylvania
 pennywise
 people
 pepper
+peppermint
 pepsi
 pequeen
 perchta
@@ -4230,6 +4287,7 @@ pesci
 peter
 peters
 peuchen
+pfsense
 phenomenon
 phi
 phil
@@ -4409,6 +4467,7 @@ punany
 punch
 punisher
 puppet
+puppy
 purple
 puskas
 pussy
@@ -4495,6 +4554,7 @@ rayquaza
 raystown
 rc
 re
+reactos
 reading
 real
 reanimated
@@ -4583,6 +4643,7 @@ roc
 rock
 rocket
 rockwell
+rocky
 rod
 rodan
 roddenberry
@@ -4605,6 +4666,7 @@ ron
 rong
 rooster
 ropen
+rosa
 rosebuds
 roses
 ross
@@ -4636,6 +4698,7 @@ ryan
 ryong
 ryu
 ryuo
+sabayon
 sabbath
 sabotage
 sacha
@@ -4958,6 +5021,7 @@ skylab
 skype
 skyrim
 slack
+slackware
 slanteye
 slater
 slavic
@@ -4969,6 +5033,7 @@ slifer
 slime
 slimer
 slimy
+slitaz
 sloth
 slovenia
 sluagh
@@ -5006,6 +5071,7 @@ solar
 solaris
 solid
 solomon
+solus
 solutions
 sombreron
 sommers
@@ -5036,6 +5102,7 @@ spacey
 spalding
 spanish
 sparkling
+sparky
 spartoi
 spastic
 spawn
@@ -5217,6 +5284,7 @@ taffarel
 tai
 taika
 tailed
+tails
 tailypo
 taimatsumaru
 tainted
@@ -5470,6 +5538,7 @@ trinidad
 triple
 tripura
 tripurasura
+trisquel
 tritons
 trixie
 trois
@@ -5480,6 +5549,7 @@ troublesome
 trousdale
 trow
 trucks
+trueos
 truth
 tsi
 tsiatko
@@ -5567,6 +5637,7 @@ ungaikyo
 unhcegila
 unicorn
 united
+unity
 universe
 unknown
 unktehi
@@ -5627,6 +5698,7 @@ vampirised
 vampyre
 van
 vanara
+vanilla
 vantoase
 varaha
 varan
@@ -5691,6 +5763,7 @@ vodou
 vodyanoi
 vodyanoy
 voice
+void
 voight
 volcano
 volodymyr
@@ -5901,6 +5974,7 @@ xiuhcoatl
 xochitonal
 xperia
 xtabay
+xubuntu
 yacumama
 yadokai
 yaga
@@ -6015,6 +6089,7 @@ zokusuji
 zombie
 zoophilia
 zorigami
+zorin
 zoroastrian
 zoroastrianism
 zouyu
