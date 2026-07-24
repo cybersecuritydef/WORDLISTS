@@ -12,6 +12,7 @@ adrien
 adrience
 aeg
 aery
+affogato
 africa
 ag
 agent
@@ -46,6 +47,7 @@ alus
 alverde
 alvin
 am
+americano
 amore
 amuse
 amway
@@ -75,6 +77,7 @@ apple
 aqa
 aquafruit
 aquolina
+arabica
 arafel
 aravia
 arcaffe
@@ -261,6 +264,7 @@ breeze
 bregenz
 brelil
 breton
+brew
 brigitte
 brilard
 brilliant
@@ -275,6 +279,7 @@ bueno
 bugatti
 bulgaria
 bullrichs
+bumble
 bundle
 bunny
 burberry
@@ -305,6 +310,7 @@ cannabis
 cannaderm
 canni
 caolion
+cappuccino
 caprice
 caramel
 care
@@ -325,6 +331,8 @@ catherine
 cathy
 catrice
 cattier
+catuai
+caturra
 caudalie
 cavalli
 caviar
@@ -387,9 +395,11 @@ coeur
 coffee
 coffeemag
 colab
+cold
 colgate
 collagene
 collistar
+colombian
 color
 colorbar
 colorevolution
@@ -400,6 +410,7 @@ colours
 company
 complex
 compliment
+con
 concept
 concepts
 constant
@@ -410,6 +421,7 @@ cool
 corad
 corazon
 corine
+cortado
 cosmake
 cosmedic
 cosmetex
@@ -526,6 +538,7 @@ doll
 domestos
 domingo
 dona
+doppio
 dor
 dorange
 dorlene
@@ -601,6 +614,7 @@ escentric
 escentuals
 esmara
 esmeralda
+espresso
 esprit
 essence
 essences
@@ -610,6 +624,7 @@ estee
 estel
 esthaar
 etat
+ethiopia
 etude
 eucerin
 euro
@@ -623,6 +638,7 @@ everyday
 evinal
 evolucia
 evoluderm
+excelsa
 extreme
 eye
 eyemajic
@@ -669,6 +685,7 @@ fit
 fitogen
 fitoval
 fitzgerald
+flat
 fleur
 flirt
 flirty
@@ -695,6 +712,7 @@ fragrances
 frais
 franck
 franke
+frappe
 frederic
 fredperry
 freedom
@@ -727,6 +745,7 @@ garlyn
 garnier
 gate
 gehwol
+geisha
 gelato
 gele
 gelpolish
@@ -734,6 +753,7 @@ gemma
 geomar
 george
 gerards
+gesha
 get
 ghost
 gianfranco
@@ -767,6 +787,7 @@ gourmandise
 grace
 grandpas
 grase
+greek
 green
 greenfield
 greenini
@@ -809,6 +830,7 @@ healthcare
 hegemonic
 heilerde
 heinz
+heirloom
 helen
 helena
 helene
@@ -859,6 +881,7 @@ hyalogic
 hysteria
 i
 ice
+iced
 icepeak
 ikea
 iks
@@ -903,6 +926,7 @@ iq
 iredale
 irida
 iris
+irish
 irisk
 irushka
 is
@@ -1063,6 +1087,7 @@ lafitel
 laggie
 laino
 lair
+lait
 lakme
 lalas
 lalique
@@ -1082,6 +1107,7 @@ lartisan
 lasaskin
 lassieel
 lasting
+latte
 lauder
 laura
 lauren
@@ -1093,6 +1119,7 @@ lavoiser
 lcosmetics
 le
 lebel
+leche
 led
 lee
 legacy
@@ -1110,6 +1137,7 @@ levis
 levrana
 lexima
 lg
+liberica
 libre
 librederm
 liebherr
@@ -1170,6 +1198,7 @@ lulu
 lumene
 lumiere
 lundenilona
+lungo
 lush
 lutens
 lutumtherapia
@@ -1182,6 +1211,7 @@ lyolan
 ma
 mac
 macadamia
+macchiato
 mad
 madame
 made
@@ -1209,6 +1239,7 @@ manna
 manufactura
 manufacture
 manufaktura
+maragogype
 marc
 marico
 mariella
@@ -1295,6 +1326,7 @@ mitchell
 mitomo
 mix
 mizon
+mocha
 mohito
 molecule
 molecules
@@ -1381,6 +1413,7 @@ ninelle
 ningbo
 nirmal
 nisim
+nitro
 nivea
 no
 noevir
@@ -1456,6 +1489,7 @@ outfittersv
 overseas
 ovs
 oy
+pacamara
 pacific
 paco
 paghera
@@ -1611,9 +1645,11 @@ riki
 rimalan
 rimmel
 rioba
+ristretto
 rival
 roberto
 robski
+robusta
 roc
 rochas
 roche
@@ -1658,6 +1694,7 @@ sanoflore
 sanosan
 sante
 santo
+santos
 saponi
 satico
 savex
@@ -1780,9 +1817,11 @@ styx
 submarine
 sui
 sulwhasoo
+sumatra
 sunsilk
 superdrug
 supra
+supremo
 surge
 sw
 sweet
@@ -1841,8 +1880,10 @@ trang
 treats
 tree
 trind
+turkish
 turquino
 twist
+typica
 u
 uemur
 uemura
@@ -1886,6 +1927,7 @@ vichy
 victoria
 victorias
 victory
+viennese
 vincecamuto
 vincent
 visage
