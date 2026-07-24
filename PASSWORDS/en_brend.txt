@@ -77,6 +77,7 @@ aquafruit
 aquolina
 arafel
 aravia
+arcaffe
 arcancil
 ardell
 arden
@@ -94,6 +95,7 @@ arom
 aroma
 aromarti
 aromatics
+aroti
 arpel
 arpels
 arran
@@ -134,6 +136,7 @@ babyline
 bache
 badger
 baikal
+bailyday
 balance
 balea
 balenciaga
@@ -250,6 +253,7 @@ boutique
 brac
 brand
 braun
+bravos
 brazilian
 brecourt
 breezare
@@ -276,6 +280,7 @@ bunny
 burberry
 burgerking
 burts
+bushido
 butter
 butterfly
 bvlgari
@@ -285,10 +290,12 @@ cacharel
 cacia
 cadeavera
 cafe
+caffe
 calvin
 calzedonia
 camay
 cameleon
+camera
 camper
 canda
 candy
@@ -309,10 +316,12 @@ caribbean
 carita
 carmex
 carolina
+carraro
 cartier
 cary
 casio
 castagnette
+catherine
 cathy
 catrice
 cattier
@@ -375,6 +384,8 @@ cocacola
 cococare
 cocochoco
 coeur
+coffee
+coffeemag
 colab
 colgate
 collagene
@@ -421,13 +432,16 @@ cropp
 cruelty
 crystal
 cuccio
+cupsburg
 cutrin
 dabur
 dairy
 daiso
 dalan
 dali
+dallmayr
 dalpana
+dammann
 dance
 daniel
 danielepatrici
@@ -510,6 +524,7 @@ doliva
 dolive
 doll
 domestos
+domingo
 dona
 dor
 dorange
@@ -543,7 +558,9 @@ ecom
 economic
 edelstar
 edgardio
+efendi
 ego
+egoiste
 egomania
 eisenberg
 el
@@ -583,6 +600,7 @@ escada
 escentric
 escentuals
 esmara
+esmeralda
 esprit
 essence
 essences
@@ -704,6 +722,7 @@ gant
 gap
 garden
 gardens
+garibaldi
 garlyn
 garnier
 gate
@@ -711,6 +730,7 @@ gehwol
 gelato
 gele
 gelpolish
+gemma
 geomar
 george
 gerards
@@ -721,6 +741,7 @@ gianmarco
 gigi
 gilbert
 gillette
+gimoka
 giovanni
 gipfel
 girls
@@ -737,8 +758,10 @@ golden
 goldwell
 good
 goon
+goppion
 gopro
 gorenje
+gorillas
 gosh
 gourmandise
 grace
@@ -756,10 +779,12 @@ group
 grs
 grundig
 guam
+guantanamera
 guardian
 gucci
 guerlain
 guinot
+gutenberg
 guy
 gwen
 hada
@@ -775,6 +800,7 @@ hansherbal
 haramain
 harding
 hashesh
+hausbrandt
 hauschka
 head
 heal
@@ -839,9 +865,12 @@ iks
 il
 ile
 illuminum
+illy
 image
 images
 impala
+impassion
+impresso
 inc
 incanto
 inclusive
@@ -892,11 +921,13 @@ jacobs
 jacqueslemans
 jafra
 jaguar
+jamaica
 james
 jane
 janssen
 japan
 japonica
+jardin
 jarrow
 jart
 jason
@@ -922,7 +953,9 @@ jones
 jordache
 jouvance
 joyskin
+juan
 juice
+julius
 jungle
 jurassic
 jurlique
@@ -930,6 +963,7 @@ just
 juvena
 k
 kaaral
+kaffa
 kaffe
 kai
 kailas
@@ -941,6 +975,7 @@ kamilotract
 kamiyama
 kanebo
 kang
+kanga
 kapous
 kappa
 karembeu
@@ -966,6 +1001,7 @@ kibio
 kiehls
 kiki
 kiko
+kimbo
 kineticell
 kinetics
 king
@@ -989,6 +1025,7 @@ ko
 kokliang
 koko
 kolastyna
+kopi
 korg
 korres
 korting
@@ -1012,6 +1049,7 @@ laboratorie
 laboratory
 labs
 lacalut
+lacatesso
 lacoste
 lacrima
 lactacyd
@@ -1048,6 +1086,7 @@ lauder
 laura
 lauren
 lautrec
+lavazza
 lavelle
 lavera
 lavoiser
@@ -1079,6 +1118,7 @@ lierac
 life
 light
 lights
+lila
 limoni
 lindelle
 line
@@ -1100,6 +1140,7 @@ llc
 lo
 loccitane
 loewe
+lofbergs
 logona
 loire
 lola
@@ -1123,6 +1164,7 @@ loved
 lovely
 lovular
 lr
+lucaffe
 lucas
 lulu
 lumene
@@ -1132,6 +1174,7 @@ lush
 lutens
 lutumtherapia
 luv
+luwak
 lux
 luxvisage
 lv
@@ -1155,6 +1198,7 @@ makeup
 makiage
 malibu
 malone
+malongo
 malva
 mama
 mango
@@ -1179,6 +1223,7 @@ marseillais
 martensf
 mary
 marya
+marzotto
 masaki
 massimo
 massimodutti
@@ -1192,6 +1237,7 @@ mavel
 max
 maxi
 maxima
+maximus
 maxwell
 maybelline
 mayer
@@ -1204,8 +1250,11 @@ medical
 mediterranea
 meela
 meelo
+mehmet
+meinl
 meishoku
 meitan
+melitta
 melvita
 menalind
 mentholatum
@@ -1223,6 +1272,7 @@ mia
 michel
 midea
 miele
+mikale
 mild
 mileo
 milk
@@ -1248,6 +1298,7 @@ mizon
 mohito
 molecule
 molecules
+molinari
 moller
 moltobene
 moly
@@ -1270,8 +1321,11 @@ moschinon
 mosquetas
 motion
 moulinex
+mountain
+movenpick
 mugler
 murasaki
+musetti
 mustela
 mustika
 my
@@ -1309,6 +1363,7 @@ neocell
 neocutis
 neoleor
 nepentes
+nescafe
 nesti
 nestle
 nesura
@@ -1350,6 +1405,7 @@ nubian
 nutribiotic
 nuxe
 nyx
+obscura
 ocean
 oceanic
 odaban
@@ -1375,6 +1431,7 @@ onme
 opel
 opi
 optima
+oquendo
 oral
 orange
 oreal
@@ -1416,10 +1473,12 @@ parlor
 passport
 pattrena
 paul
+paulig
 payot
 pearl
 peau
 peche
+pellini
 pen
 penaten
 penhaligons
@@ -1443,6 +1502,7 @@ physicians
 phyto
 phytosolba
 piaubert
+piazza
 pico
 picture
 piel
@@ -1515,6 +1575,7 @@ rayban
 real
 realcaps
 rebirth
+red
 redible
 redken
 redmond
@@ -1549,6 +1610,7 @@ rika
 riki
 rimalan
 rimmel
+rioba
 rival
 roberto
 robski
@@ -1556,8 +1618,10 @@ roc
 rochas
 roche
 rocher
+rockets
 rodriguez
 rojukiss
+rokka
 roland
 rolex
 rolland
@@ -1593,6 +1657,7 @@ sandal
 sanoflore
 sanosan
 sante
+santo
 saponi
 satico
 savex
@@ -1619,9 +1684,11 @@ secret
 secretkey
 secrets
 secretz
+segafredo
 sela
 selective
 selene
+senator
 sensai
 senscience
 sense
@@ -1631,6 +1698,7 @@ sentio
 sephora
 serge
 series
+serrano
 sesderma
 seventeen
 severina
@@ -1693,6 +1761,7 @@ spice
 splat
 springfield
 stafford
+starbucks
 steep
 stefani
 stenders
@@ -1708,6 +1777,7 @@ studio
 styl
 style
 styx
+submarine
 sui
 sulwhasoo
 sunsilk
@@ -1731,6 +1801,7 @@ tan
 tangle
 tannymax
 tasha
+tasty
 taylor
 teana
 techniques
@@ -1764,10 +1835,13 @@ toni
 tony
 too
 tools
+torrefacto
 toshiba
+trang
 treats
 tree
 trind
+turquino
 twist
 u
 uemur
@@ -1785,9 +1859,11 @@ urban
 urbanoutfitters
 uriage
 utena
+valdez
 valent
 vallee
 valley
+valmont
 value
 van
 vandini
@@ -1803,6 +1879,7 @@ venum
 venus
 verde
 verino
+verle
 vernel
 versace
 vichy
@@ -1826,6 +1903,7 @@ vuittonm
 waltdisney
 watkins
 webb
+welder
 weleda
 wella
 wet
