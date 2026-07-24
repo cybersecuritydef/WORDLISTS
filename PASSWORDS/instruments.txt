@@ -17,8 +17,6 @@ cymbals
 double
 drum
 drums
-electric
-electronic
 euphonium
 flute
 french
