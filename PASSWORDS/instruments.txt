@@ -9,7 +9,6 @@ cajon
 castanets
 cello
 clarinet
-classical
 claves
 conga
 cornet
@@ -26,9 +25,7 @@ guitar
 harmonica
 harp
 horn
-instruments
 kazoo
-keyboard
 kit
 lute
 mandolin
