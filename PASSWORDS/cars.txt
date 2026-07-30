@@ -72,7 +72,6 @@ brooklands
 bugatti
 buick
 byd
-c
 cadillac
 callaway
 camaro
