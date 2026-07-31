@@ -5893,7 +5893,6 @@ gemmill
 genao
 gendreau
 gendron
-general
 genesis
 genest
 gennady
@@ -11731,7 +11730,6 @@ olds
 oldsmobile
 olea
 oleary
-oleg
 oleksandr
 oles
 oleson
