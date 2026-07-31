@@ -46,3 +46,4 @@ qwertyuio
 qazwsxedc
 asdfghjkl
 qwertyuiop
+qazxsw

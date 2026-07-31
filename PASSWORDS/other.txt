@@ -4994,7 +4994,6 @@ silver
 silvers
 simargl
 simmons
-simon
 sims
 simurgh
 sin
@@ -5532,7 +5531,6 @@ tosser
 totem
 totetsu
 totpat
-totti
 tou
 towelhead
 toxin
@@ -6121,3 +6119,6 @@ zuijin
 zulu
 zunbera
 zyuranger
+patison
+kasia
+akro
