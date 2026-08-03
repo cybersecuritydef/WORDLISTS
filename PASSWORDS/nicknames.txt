@@ -16,3 +16,6 @@ kutoff
 tschekist
 whitefox
 purediamond
+dudebus
+juliamur
+samurai
