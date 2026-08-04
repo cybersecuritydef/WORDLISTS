@@ -1,7 +1,6 @@
 Adm
 aDm
 adM
-adm
 ADM
 AdM
 !aDm
@@ -114,7 +113,6 @@ adM9
 Adm9
 aDm9
 adm9
-anyu
 be$t
 bE$t
 Be$t
@@ -130,7 +128,6 @@ Be5T
 BEST
 Best
 BesT
-best
 bEst
 besT
 beSt
@@ -138,9 +135,6 @@ csur
 eszv
 jkkl
 jklp
-kind
-koop
-medy
 r00T
 R00T
 r00t
@@ -157,7 +151,6 @@ ro0t
 RO0T
 ro0T
 rO0t
-root
 Root
 roOt
 ROOT
@@ -166,7 +159,6 @@ RooT
 rooT
 trkv
 vasn
-vica
 !2aDm
 !2ADM
 !2Adm
@@ -745,8 +737,6 @@ adm99
 aDm99
 aDmin
 admIn
-Admin
-admin
 adMin
 AdmiN
 admiN
@@ -934,7 +924,6 @@ gfa64
 jkkle
 jklpe
 jpv00
-kinde
 koope
 kovin
 m@9Ic
@@ -981,10 +970,8 @@ magIc
 Magic
 maGic
 mAgic
-magic
 MagiC
 MAGIC
-medye
 n0K!a
 N0k!A
 N0k!a
@@ -1026,7 +1013,6 @@ nOkia
 nokIa
 Nokia
 NokiA
-nokia
 noKia
 nokiA
 pet69
@@ -3061,7 +3047,6 @@ admIn1
 adMin1
 aDmin1
 admiN1
-admin1
 ADMIN1
 Admin2
 adMin2
@@ -3761,7 +3746,6 @@ maGic9
 magiC9
 magIc9
 MAGIC9
-Mast3r
 mg2340
 minu69
 mo0000
@@ -12811,7 +12795,6 @@ ROOT111
 rOot123
 Root123
 rooT123
-root123
 roOt123
 ROOT123
 Root222
@@ -19285,7 +19268,6 @@ aDmin111
 ADMIN111
 adMin111
 admiN123
-admin123
 admIn123
 ADMIN123
 Admin123
@@ -25043,7 +25025,6 @@ passWord
 PASSWORD
 paSsword
 passworD
-password
 passwoRd
 pAssword
 PassworD
@@ -42029,8 +42010,6 @@ paSsw0rd9
 pAssword!
 passwOrd!
 passworD!
-password!
-Password!
 pasSword!
 paSsword!
 passwoRd!
@@ -42787,7 +42766,6 @@ rooT12345
 roOt12345
 Root12345
 rOot12345
-root12345
 ROOT12345
 rOot23456
 Root23456
@@ -48688,7 +48666,6 @@ zzz123qwe
 123123123]
 123123ssss
 123321zxcv
-1234567890
 123456789]
 1234567ADM
 1234567Adm
@@ -51152,7 +51129,6 @@ admin01234
 admiN12345
 aDmin12345
 admIn12345
-admin12345
 ADMIN12345
 Admin12345
 adMin12345
@@ -62069,12 +62045,10 @@ passworD01
 Password01
 PASSWORD1!
 passworD1!
-Password1!
 pasSword1!
 passwoRd1!
 pAssword1!
 paSsword1!
-password1!
 passwOrd1!
 passWord1!
 passwOrd11
@@ -81389,7 +81363,6 @@ pAssword123
 passworD123
 Password123
 passWord123
-password123
 password222
 pasSword222
 pAssword222
@@ -100308,7 +100281,6 @@ admInistrator
 adminisTrator
 administratoR
 AdministratoR
-administrator
 adminIstrator
 ADMINISTRATOR
 aDministrator
@@ -100318,7 +100290,6 @@ administrAtor
 administraTor
 administratOr
 adminiStrator
-Administrator
 adrenalinteam
 agat123456789
 aleks29121974
@@ -163288,7 +163259,6 @@ admInistrator123
 adminIstrator123
 adMinistrator123
 administratOr123
-administrator123
 administraTor123
 ADMINISTRATOR123
 aDministrator123
@@ -206680,7 +206650,6 @@ admInistrator01234
 adminisTrator12345
 admiNistrator12345
 administRator12345
-administrator12345
 Administrator12345
 administratOr12345
 administratoR12345
