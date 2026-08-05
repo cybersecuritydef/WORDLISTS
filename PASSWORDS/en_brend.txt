@@ -1813,7 +1813,6 @@ store
 stradivariust
 studio
 styl
-style
 styx
 submarine
 sui
