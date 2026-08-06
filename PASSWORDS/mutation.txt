@@ -2,7 +2,12 @@ ADM
 AdM
 Adm
 aDm
+abc
 adM
+air
+dev
+god
+sql
 !ADM
 !Adm
 !aDm
@@ -21,6 +26,8 @@ adM
 1aDm
 1adM
 1adm
+2003
+2008
 2222
 2ADM
 2Adm
@@ -155,12 +162,19 @@ be5T
 be5t
 beSt
 besT
+bird
+burp
 csur
+dirt
 eszv
+fire
+goat
+hugs
 ikwb
 ikwd
 jkkl
 jklp
+pass
 r00T
 r00t
 r0Ot
@@ -168,10 +182,15 @@ r0oT
 r0ot
 rO0t
 rOot
+rain
 ro0T
 ro0t
 roOt
 rooT
+sasa
+snow
+solo
+test
 trkv
 ubnt
 vasn
@@ -952,6 +971,7 @@ adm89
 adm99
 admIn
 admiN
+admin
 anyue
 assir
 b1ue!
@@ -1065,6 +1085,7 @@ best8
 best9
 csure
 de446
+earth
 ek110
 eszve
 g674g
@@ -1074,6 +1095,7 @@ jklpe
 jpv00
 koope
 kovin
+login
 m@9Ic
 m@9iC
 m@9ic
@@ -1259,6 +1281,7 @@ root8
 root9
 sm8jd
 trkve
+trust
 user0
 user1
 user2
@@ -1271,6 +1294,8 @@ user8
 user9
 vasne
 vicae
+vista
+water
 !23ADM
 !23Adm
 !23aDm
@@ -3613,6 +3638,7 @@ aDmin6
 aDmin7
 aDmin8
 aDmin9
+abc123
 adM!!!
 adM!!1
 adM!1!
@@ -3794,7 +3820,9 @@ admin6
 admin7
 admin8
 admin9
+admins
 aleyle
+alpine
 bE$t!!
 bE$t!1
 bE$t00
@@ -3920,9 +3948,11 @@ best99
 blux13
 c75800
 ceo975
+change
 cm6460
 deni--
 derby_
+devdev
 dgh)+|
 dghDE#
 dghFR$
@@ -3933,6 +3963,7 @@ dghZQ!
 dgh^*(
 dghdgh
 dghvnm
+dragon
 ed2575
 giofio
 h8ww78
@@ -4223,10 +4254,12 @@ magic6
 magic7
 magic8
 magic9
+master
 meinsm
 mg2340
 minu69
 mo0000
+monkey
 n0K!a0
 n0K!a1
 n0K!a2
@@ -4511,6 +4544,7 @@ passwd
 pigi00
 q1w2e3
 qmmnsc
+qwerty
 r00T!!
 r00T!1
 r00T!2
@@ -4804,6 +4838,10 @@ rozee5
 sail00
 saml10
 save60
+secret
+server
+sqlsql
+sqlsvr
 tomi10
 u98400
 vc4200
@@ -4818,6 +4856,7 @@ vnm^*(
 vnmdgh
 vnmvnm
 wfp390
+wicked
 willy$
 zone50
 !!MAGIC
@@ -11318,9 +11357,11 @@ aDmin99
 aa12832
 aaXOTJR
 abJcFDr
+abcd123
 abtan86
 ac410yr
 acWcEiw
+account
 ad415db
 adM!!!!
 adM!!11
@@ -12128,6 +12169,8 @@ cjl0308
 cmoa007
 colbya1
 comfa11
+company
+complex
 cox2211
 crien89
 crinass
@@ -12181,6 +12224,7 @@ ddUWixG
 ddgppKO
 ddm5849
 deCbjHY
+default
 depu007
 desko86
 deva900
@@ -12432,6 +12476,7 @@ gok9123
 gra2020
 griff43
 groen14
+guessme
 gui2673
 gvs5114
 h00456n
@@ -12551,6 +12596,7 @@ lambeg2
 lck5152
 leigh99
 lenst09
+letmein
 llasada
 llf1020
 llj0526
@@ -13583,6 +13629,7 @@ nb2wc77
 ncars12
 ned2214
 nesti10
+network
 nhwf007
 nhy6)+|
 nhy6DE#
@@ -13987,6 +14034,7 @@ pmm3838
 pociman
 pog3909
 preds55
+private
 pro4899
 psg6003
 pt61146
@@ -14672,6 +14720,7 @@ sdfg^*(
 sdfgdgh
 sdfgvnm
 sdoi98x
+secret!
 seks368
 sesso75
 sessoan
@@ -14690,10 +14739,19 @@ sm206bw
 smack24
 smh1117
 smp4905
+someday
 sooty01
 spin247
 spo27ck
 spygra7
+sql2000
+sql2003
+sql2005
+sql2008
+sql2009
+sql2010
+sql2011
+sqlpass
 sraan70
 sri2736
 ss4828j
@@ -14722,6 +14780,8 @@ tbs1964
 tc19980
 teac450
 test123
+testing
+testsql
 tezskjo
 thaorga
 ti2gw33
@@ -14770,6 +14830,7 @@ uiop^*(
 uiopdgh
 uiopvnm
 ums3194
+unknown
 unt7514
 user123
 utq1969
@@ -14894,6 +14955,7 @@ w2q1vnm
 wave380
 wave808
 weezy30
+welcome
 wert)+|
 wertDE#
 wertFR$
@@ -26503,6 +26565,7 @@ P@Ssword
 P@s$w0rD
 P@s$worD
 P@ssw0rD
+P@ssw0rd
 P@ssworD
 PA$$W0RD
 PA$$WORD
@@ -26532,6 +26595,7 @@ Pa$sworD
 Pa$sword
 Pa5$worD
 Pa5$word
+Pa55w.rd
 Pa55w0rD
 Pa55w0rd
 Pa55worD
@@ -28299,7 +28363,9 @@ baly1409
 bamiduro
 band5578
 band6689
+bankbank
 barl1991
+baseball
 basketyo
 bass2971
 be$T!!!!
@@ -28859,6 +28925,11 @@ co13erin
 co22reed
 coco1911
 coleshay
+company!
+company1
+complex1
+complex2
+complex3
 cqvtdlln
 crew2110
 croc6466
@@ -28953,6 +29024,7 @@ cvbnzaq1
 cvbnzxcv
 czarunio
 danimano
+database
 dawn9849
 db991122
 deansail
@@ -29259,6 +29331,7 @@ filters!
 fiqqhasi
 foafdyvo
 fong1960
+football
 forever)
 foxy1009
 fuck----
@@ -32308,6 +32381,7 @@ nOkia_88
 nOkia_99
 nadiamax
 nain1602
+networks
 new1live
 nhy6!@#$
 nhy6#$%^
@@ -33676,6 +33750,7 @@ passw0rd
 passwOrd
 passwoRd
 passworD
+password
 penn4939
 pgrt3418
 phc7chap
@@ -33686,6 +33761,7 @@ pisa1909
 pocimano
 poopoole
 prep1123
+princess
 pu007007
 pushbaby
 puta5814
@@ -34682,6 +34758,9 @@ sdfgyuio
 sdfgzaq1
 sdfgzxcv
 secondeF
+secret1!
+secret12
+security
 senharox
 seve9003
 sevo5310
@@ -34700,10 +34779,12 @@ sona3451
 sonera12
 sorg2009
 sorketta
+starwars
 stas.333
 suji1986
 surfer83
 syah1986
+sysadmin
 t.Cooper
 t5r4!@#$
 t5r4#$%^
@@ -34798,6 +34879,7 @@ tarlerle
 tartuxxx
 tb070666
 testUser
+testtest
 tictac98
 tigaroda
 tigrauno
@@ -35265,6 +35347,8 @@ w2q1zxcv
 wandjiji
 wayw0123
 wejj1504
+welcome1
+welcome2
 wert!@#$
 wert#$%^
 wert#E@W
@@ -45540,6 +45624,7 @@ P@$sw()rd
 P@55W()RD
 P@55w()rD
 P@55w()rd
+P@55w0rd!
 P@5SW()RD
 P@5sw()rD
 P@5sw()rd
@@ -45552,6 +45637,8 @@ P@s5w()rD
 P@s5w()rd
 P@ssw()rD
 P@ssw()rd
+P@ssw0rd!
+P@ssword!
 PA$$W()RD
 PA$$W0RD0
 PA$$W0RD1
@@ -45885,6 +45972,7 @@ Pas5word6
 Pas5word7
 Pas5word8
 Pas5word9
+PassSql12
 Passw()rD
 Passw()rd
 Passw0rd!
@@ -46194,6 +46282,8 @@ Root_7777
 Root_8888
 Root_9999
 Sina.0603
+SqlServer
+Sqlserver
 UGO159357
 a123ws123
 a23230023
@@ -47043,6 +47133,7 @@ ckfdbr321
 claireluc
 cocoklaus
 colon.951
+company1!
 corey1987
 cottoncat
 cradle.01
@@ -47062,6 +47153,7 @@ dario3835
 david6677
 death2321
 den555555
+devdevdev
 devitania
 diablo119
 diane1128
@@ -49157,6 +49249,7 @@ mamma1939
 manager32
 mandi0812
 manuelcar
+march2011
 marco2061
 marco7774
 marie1959
@@ -49169,6 +49262,7 @@ maximcake
 mazda0425
 megapass^
 miaclaire
+microsoft
 mijnzusje
 mikomecha
 milddenis
@@ -52726,6 +52820,10 @@ scott4343
 scs2kabel
 scuba5617
 sebabeach
+secret123
+secuirty3
+security1
+security3
 serap.159
 serge6891
 sexykerry
@@ -52739,6 +52837,7 @@ sonia1351
 spark6055
 spike5749
 spnovisad
+sqlserver
 sr21sound
 ss12bball
 stambitch
@@ -52760,6 +52859,7 @@ tanjakiki
 tatalilla
 tctysucks
 teddy3526
+test-sql3
 test12342
 test12345
 thimolove
@@ -52780,6 +52880,7 @@ tuananh10
 tuanbasic
 tyson0109
 ubqw12213
+unchanged
 user12345
 valemaria
 vat7music
@@ -60714,6 +60815,11 @@ Admin_6666
 Admin_7777
 Admin_8888
 Admin_9999
+Autumn2013
+Autumn2014
+Autumn2015
+Autumn2016
+Autumn2017
 B123654789
 BEST123456
 Best123456
@@ -63919,8 +64025,34 @@ SS25041992
 Scholl1950
 Sevaer1909
 Slayer2491
+Spring2013
+Spring2014
+Spring2015
+Spring2016
+Spring2017
 Stardust14
 Steffen007
+Summer2008
+Summer2009
+Summer2010
+Summer2011
+Summer2012
+Summer2013
+Summer2014
+Summer2015
+Summer2016
+Summer2017
+Welcome123
+Winter2008
+Winter2009
+Winter2010
+Winter2011
+Winter2012
+Winter2013
+Winter2014
+Winter2015
+Winter2016
+Winter2017
 a0emmalisa
 a1b1ghbdtn
 a2d2adrian
@@ -64292,6 +64424,7 @@ admin_6666
 admin_7777
 admin_8888
 admin_9999
+adminadmin
 admins1423
 adrien3185
 ae22lemons
@@ -64333,6 +64466,11 @@ astroshark
 audiobuddy
 aurora2040
 austin5476
+autumn2013
+autumn2014
+autumn2015
+autumn2016
+autumn2017
 ayramarvin
 azerty1024
 azerty1708
@@ -64351,6 +64489,7 @@ ba00jerome
 ba89master
 badboy7669
 barton6507
+basketball
 bbcc123asd
 beafjerkey
 beetle5800
@@ -64425,6 +64564,7 @@ clanstorm1
 cmoiarnaud
 cmoijordan
 coffeelife
+company123
 coolalexxx
 cortocorto
 cr80expert
@@ -68460,6 +68600,7 @@ natatennis
 nathmelvin
 natura1951
 neela12345
+networking
 newports12
 nfyz111222
 nicichris1
@@ -72134,6 +72275,7 @@ qwealucard
 qwer1234as
 qwer321654
 qwert12345
+qwertyuiop
 qwqwqwerty
 qwwq159357
 r00T!23456
@@ -72250,6 +72392,7 @@ sabine1520
 salemaggie
 samdimitri
 sandyquake
+secret1212
 seekshadow
 selenexxxx
 sewada1991
@@ -72276,6 +72419,13 @@ speedsucks
 spider5324
 spiros1991
 splinteris
+spring2013
+spring2014
+spring2015
+spring2016
+spring2017
+sqlaccount
+sqlpass123
 sr91aurora
 ss11trunks
 ssaq120492
@@ -72285,6 +72435,16 @@ steffi4560
 stomkieken
 strong4400
 sukx333777
+summer2008
+summer2009
+summer2010
+summer2011
+summer2012
+summer2013
+summer2014
+summer2015
+summer2016
+summer2017
 superadmin
 superskill
 supremesup
@@ -72306,6 +72466,7 @@ teiubesc16
 tema123654
 tennisjuju
 tessceline
+testing123
 tgn1234567
 th1nclient
 themaster!
@@ -72376,6 +72537,16 @@ wfws556688
 wifefriend
 willie3838
 wilson2351
+winter2008
+winter2009
+winter2010
+winter2011
+winter2012
+winter2013
+winter2014
+winter2015
+winter2016
+winter2017
 wljs112233
 wosishishi
 wrestlingg
@@ -82688,6 +82859,8 @@ Root2345678
 Root3456789
 Smile020493
 Technoengel
+Welcome1212
+Welcome1234
 Windows7127
 a0kitty2087
 a0sadiablo2
@@ -82907,6 +83080,7 @@ cbvxfuck0ff
 cdggnubcake
 celeste1805
 cfyz0123456
+changelater
 changer6591
 charles1029
 checkyouass
@@ -91751,6 +91925,7 @@ soundplanet
 splintersam
 splintersky
 sportingboy
+sqlpassword
 stalker0101
 stalker2419
 stalker4011
@@ -98976,6 +99151,7 @@ Root0!234567
 Root01234567
 Root12345678
 Root23456789
+SQLSQLSQLSQL
 a1s2d3123321
 a1s2d3q1w2e3
 aDm!23456789
@@ -99050,6 +99226,7 @@ admin1234567
 admin2343687
 admin2345678
 admin3456789
+administator
 adminomar123
 admintrassir
 aga123456789
@@ -106291,6 +106468,7 @@ soundfiction
 spb123456789
 sphinx120585
 spiriteminem
+sqlsqlsqlsql
 sribwebadmin
 stalinsatana
 starcraftace
@@ -116256,6 +116434,8 @@ sonymanhacker
 spiros.161282
 spsq123456789
 spyderelectra
+sqlserver2000
+sqlserver2005
 starlight1998
 stefanie17794
 stellasasha01
@@ -146644,6 +146824,7 @@ battlefield2042
 berserk20092009
 bouwmeester1234
 charlottejerome
+complexpassword
 darkangel140189
 darkman13201320
 diemotherfucker
@@ -147913,6 +148094,7 @@ sasuke987654321
 satana123456789
 siemensplatinum
 smith1029384756
+sqlsqlsqlsqlsql
 stalkerfatality
 startsomething1
 sternchendeluxe
