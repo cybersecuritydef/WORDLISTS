@@ -466,7 +466,6 @@ trion
 triumph
 trucks
 tucker
-turbo
 turbostar
 tvr
 uaz
