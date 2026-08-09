@@ -45843,6 +45843,7 @@ Password6
 Password7
 Password8
 Password9
+Qwerty123
 R00T!2345
 R00T-!!!!
 R00T-!111
@@ -60667,6 +60668,7 @@ Autumn2017
 B123654789
 BEST123456
 Best123456
+Best4US18&
 Cthutq2207
 Eclipse989
 Hacked4632
@@ -64365,6 +64367,7 @@ brocketino
 brucerobot
 bukaandrey
 bumble8214
+butterfly1
 buypcanada
 c0bctiger6
 c316viking
@@ -72431,7 +72434,6 @@ zopa789852
 zorkwender
 zuluhacker
 zxsj202020
-Best4US18&
 !-M@GIC-000
 !-M@GIC-111
 !-M@GIC-222
