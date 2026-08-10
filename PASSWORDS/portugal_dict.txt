@@ -4151,7 +4151,7 @@ fome
 fomentar
 fomento
 fonte
-fora:
+fora
 foram
 forasteiro
 forca
@@ -5811,7 +5811,7 @@ medalhar
 media
 mediacao
 mediador
-mediante:
+mediante
 mediar
 mediatico
 medica
@@ -7234,7 +7234,7 @@ produtor
 produzir
 proeminente
 proeza
-prof.
+prof
 profecia
 proferir
 professionalize

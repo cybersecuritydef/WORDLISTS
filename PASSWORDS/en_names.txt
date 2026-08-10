@@ -1134,7 +1134,6 @@ botham
 botkin
 botsford
 bott
-bott,
 bottoms
 botts
 bouchard
@@ -2247,7 +2246,8 @@ covarrubias
 covell
 cover
 covey
-cowan-dickie
+cowan
+dickie
 cowans
 cowart
 cowger
@@ -8074,7 +8074,7 @@ nygaard
 nygma
 nyman
 nystrom
-o'sullivan
+sullivan
 oakley
 oaklyn
 oates
