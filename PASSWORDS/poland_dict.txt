@@ -424,7 +424,7 @@ etapie
 europejskiej
 europie
 ewentualnie
-ex-
+ex
 fabryki
 facet
 fakt
@@ -514,7 +514,7 @@ granica
 granice
 granicy
 granny
-gray-haired
+gray
 grin
 grob
 gromadzenia
@@ -531,7 +531,8 @@ grzywny
 gwaltownie
 gwiazdek
 gwiazdy
-ha-ha
+ha
+haired
 halas
 hali
 handel
@@ -561,6 +562,7 @@ ilosci
 ilu
 imperial
 imperium
+in
 inaczej
 indywidualne
 informacje
@@ -1660,7 +1662,6 @@ prawej
 prawidlowego
 prawie
 prawo
-prawo-sadu
 predkosc
 preferuja
 pretekst
@@ -2663,7 +2664,7 @@ zabawy
 zabic
 zabite
 zabitych
-zablokowana-in
+zablokowana
 zabojstwo
 zabrac
 zachod
