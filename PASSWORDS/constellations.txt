@@ -1,6 +1,9 @@
 andromeda
 antlia
 apus
+alfa
+beta
+gamma
 aquarius
 aquila
 ara
