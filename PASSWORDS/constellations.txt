@@ -126,3 +126,5 @@ virgo
 volans
 vulpecula
 zpavo
+proxima
+centauri
