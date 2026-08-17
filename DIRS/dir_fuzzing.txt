@@ -204,3 +204,7 @@ dev
 Node
 phpinfo
 setup-db
+joomla
+Joomla
+drupal
+Drupal
