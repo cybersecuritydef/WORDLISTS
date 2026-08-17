@@ -198,3 +198,7 @@ version
 jquery
 apps
 router
+back
+backup
+dev
+Node
