@@ -196,3 +196,5 @@ check
 checking
 version
 jquery
+apps
+router
