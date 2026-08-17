@@ -203,3 +203,4 @@ backup
 dev
 Node
 phpinfo
+setup-db
