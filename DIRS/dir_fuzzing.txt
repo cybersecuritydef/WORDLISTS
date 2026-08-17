@@ -194,3 +194,4 @@ output
 input
 check
 checking
+version
