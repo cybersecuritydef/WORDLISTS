@@ -208,3 +208,9 @@ joomla
 Joomla
 drupal
 Drupal
+delete
+remove
+del
+add
+insert
+developer
