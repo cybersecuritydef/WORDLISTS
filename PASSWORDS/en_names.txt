@@ -139,7 +139,6 @@ alexandra
 alexandros
 alexios
 alf
-alfa
 alfano
 alfaro
 alfie
@@ -274,6 +273,7 @@ applin
 aquilar
 aquino
 aquirre
+ar
 arabella
 araceli
 araiza
@@ -8818,6 +8818,7 @@ prouty
 provencher
 provenzano
 provost
+proxima
 prude
 pruden
 prudhomme
